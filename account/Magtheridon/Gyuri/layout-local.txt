@@ -1,0 +1,15 @@
+Version: 1
+Frame: PlayerFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: -316
+Y: 148
+W: 232
+H: 100
+Frame: TargetFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: 319
+Y: 153
+W: 232
+H: 100

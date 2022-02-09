@@ -1,0 +1,30 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/g terrible UI hours", -- [1]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"terrible UI hours", -- [1]
+			"Shibbun-Magtheridon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-3681-07CD085C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Shibbun|r",
+			[51] = 1617552799,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [1]
+	},
+}

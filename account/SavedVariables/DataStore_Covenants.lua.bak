@@ -1,0 +1,5786 @@
+
+DataStore_CovenantsDB = {
+	["profileKeys"] = {
+		["Ostumu - Magtheridon"] = "Ostumu - Magtheridon",
+		["Haseul - Terokkar"] = "Haseul - Terokkar",
+		["Sonyeo - Magtheridon"] = "Sonyeo - Magtheridon",
+		["Saltycorn - Terokkar"] = "Saltycorn - Terokkar",
+		["Shibbun - Magtheridon"] = "Shibbun - Magtheridon",
+		["Holyed - Magtheridon"] = "Holyed - Magtheridon",
+		["Nayeon - Terokkar"] = "Nayeon - Terokkar",
+		["Gyuri - Magtheridon"] = "Gyuri - Magtheridon",
+		["Jiu - Magtheridon"] = "Jiu - Magtheridon",
+		["Samoshib - Terokkar"] = "Samoshib - Terokkar",
+		["Gowon - Magtheridon"] = "Gowon - Magtheridon",
+		["Raccoons - Magtheridon"] = "Raccoons - Magtheridon",
+		["Moltenheim - Magtheridon"] = "Moltenheim - Magtheridon",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Terokkar.Samoshib"] = {
+				["lastUpdate"] = 1629453635,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 0,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Magtheridon.Jiu"] = {
+				["CovenantID"] = 3,
+				["Torghast"] = {
+					["coldheartinterstitia"] = {
+						["nextReset"] = 1631689199,
+						["name"] = "Coldheart Interstitia",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 330,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 460,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 565,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 655,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 730,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 800,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 860,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 50,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [8]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 915,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 90,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [9]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 960,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [10]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1000,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 150,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [11]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1030,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [12]
+						},
+					},
+					["soulforges"] = {
+						["nextReset"] = 1631689199,
+						["name"] = "The Soulforges",
+						["levels"] = {
+							{
+								["status"] = 3,
+							}, -- [1]
+							{
+								["status"] = 3,
+							}, -- [2]
+							{
+								["status"] = 3,
+							}, -- [3]
+							{
+								["status"] = 3,
+							}, -- [4]
+							{
+								["status"] = 3,
+							}, -- [5]
+							{
+								["status"] = 3,
+							}, -- [6]
+							{
+								["status"] = 3,
+							}, -- [7]
+							{
+								["status"] = 3,
+							}, -- [8]
+							{
+								["status"] = 3,
+							}, -- [9]
+							{
+								["status"] = 3,
+							}, -- [10]
+							{
+								["status"] = 3,
+							}, -- [11]
+							{
+								["status"] = 3,
+							}, -- [12]
+						},
+					},
+					["fracturechambers"] = {
+						["nextReset"] = 1638341999,
+						["name"] = "Fracture Chambers",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 330,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 460,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 565,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 655,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 730,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 800,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 860,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 170,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [8]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 915,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 230,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [9]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 960,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 270,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [10]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1000,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 310,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [11]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1030,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 350,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [12]
+						},
+					},
+					["twistingcorridors"] = {
+						["nextReset"] = 1625641199,
+						["name"] = "Twisting Corridors",
+						["levels"] = {
+							nil, -- [1]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 183412,
+										["quantity"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["status"] = 2,
+							}, -- [3]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 184223,
+										["quantity"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["status"] = 2,
+							}, -- [5]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 184412,
+										["quantity"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["status"] = 2,
+							}, -- [7]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 184166,
+										["quantity"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
+					["mortregar"] = {
+						["nextReset"] = 1632293999,
+						["name"] = "Mort'regar",
+						["levels"] = {
+							{
+								["status"] = 3,
+							}, -- [1]
+							{
+								["status"] = 3,
+							}, -- [2]
+							{
+								["status"] = 3,
+							}, -- [3]
+							{
+								["status"] = 3,
+							}, -- [4]
+							{
+								["status"] = 3,
+							}, -- [5]
+							{
+								["status"] = 3,
+							}, -- [6]
+							{
+								["status"] = 3,
+							}, -- [7]
+							{
+								["status"] = 3,
+							}, -- [8]
+							{
+								["status"] = 3,
+							}, -- [9]
+							{
+								["status"] = 3,
+							}, -- [10]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 40,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 30,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [11]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 70,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 60,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [12]
+						},
+					},
+					["skoldushall"] = {
+						["nextReset"] = 1632898799,
+						["name"] = "Skoldus Hall",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 330,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 460,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 565,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 655,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 730,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 800,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 860,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 50,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [8]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 915,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 90,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [9]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 960,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [10]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1000,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 150,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [11]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1030,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [12]
+						},
+					},
+					["theupperreaches"] = {
+						["nextReset"] = 1632293999,
+						["name"] = "The Upper Reaches",
+						["levels"] = {
+							{
+								["status"] = 3,
+							}, -- [1]
+							{
+								["status"] = 3,
+							}, -- [2]
+							{
+								["status"] = 3,
+							}, -- [3]
+							{
+								["status"] = 3,
+							}, -- [4]
+							{
+								["status"] = 3,
+							}, -- [5]
+							{
+								["status"] = 3,
+							}, -- [6]
+							{
+								["status"] = 3,
+							}, -- [7]
+							{
+								["status"] = 3,
+							}, -- [8]
+							{
+								["status"] = 3,
+							}, -- [9]
+							{
+								["status"] = 3,
+							}, -- [10]
+							{
+								["status"] = 3,
+							}, -- [11]
+							{
+								["status"] = 3,
+							}, -- [12]
+						},
+					},
+				},
+				["lastUpdate"] = 1639672174,
+				["SoulCurrenciesTotals"] = {
+					[1810] = 112,
+				},
+				["InstalledConduits"] = {
+					[994] = 253,
+					[1010] = 178,
+					[1837] = 185,
+					[995] = 157,
+					[850] = 140,
+					[1841] = 175,
+				},
+				["ActiveSoulbindID"] = 1,
+				["AnimaCurrency"] = {
+					["count"] = 58835,
+					["maxDisplayable"] = 200000,
+				},
+				["ConduitCollection"] = {
+					[224] = {
+						["conduitSpecName"] = "Survival",
+						["conduitItemID"] = 183167,
+						["conduitItemLevel"] = 226,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 20,
+						["conduitID"] = 224,
+						["conduitRank"] = 7,
+					},
+					[166] = {
+						["conduitID"] = 166,
+						["conduitItemLevel"] = 239,
+						["conduitItemID"] = 182464,
+						["conduitSpecSetID"] = 163,
+						["conduitType"] = 2,
+						["conduitRank"] = 8,
+					},
+					[170] = {
+						["conduitID"] = 170,
+						["conduitItemLevel"] = 226,
+						["conduitItemID"] = 182469,
+						["conduitSpecSetID"] = 163,
+						["conduitType"] = 2,
+						["conduitRank"] = 7,
+					},
+					[178] = {
+						["conduitID"] = 178,
+						["conduitItemLevel"] = 226,
+						["conduitSpecSetID"] = 163,
+						["conduitItemID"] = 182584,
+						["conduitRank"] = 7,
+					},
+					[252] = {
+						["conduitSpecName"] = "Survival",
+						["conduitItemID"] = 183396,
+						["conduitItemLevel"] = 226,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 20,
+						["conduitID"] = 252,
+						["conduitRank"] = 7,
+					},
+					[140] = {
+						["conduitID"] = 140,
+						["conduitItemLevel"] = 226,
+						["conduitItemID"] = 182335,
+						["conduitSpecSetID"] = 163,
+						["conduitType"] = 1,
+						["conduitRank"] = 7,
+						["covenantID"] = 3,
+					},
+					[175] = {
+						["conduitID"] = 175,
+						["conduitItemLevel"] = 226,
+						["conduitSpecSetID"] = 163,
+						["conduitItemID"] = 182480,
+						["conduitRank"] = 7,
+					},
+					[183] = {
+						["conduitSpecName"] = "Beast Mastery",
+						["conduitItemID"] = 182610,
+						["conduitItemLevel"] = 239,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 44,
+						["conduitID"] = 183,
+						["conduitRank"] = 8,
+					},
+					[253] = {
+						["conduitSpecName"] = "Beast Mastery",
+						["conduitItemID"] = 183402,
+						["conduitItemLevel"] = 226,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 44,
+						["conduitID"] = 253,
+						["conduitRank"] = 7,
+					},
+					[226] = {
+						["conduitSpecName"] = "Survival",
+						["conduitItemID"] = 183184,
+						["conduitItemLevel"] = 226,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 20,
+						["conduitID"] = 226,
+						["conduitRank"] = 7,
+					},
+					[199] = {
+						["conduitSpecName"] = "Marksmanship",
+						["conduitItemID"] = 182686,
+						["conduitItemLevel"] = 226,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 14,
+						["conduitID"] = 199,
+						["conduitRank"] = 7,
+					},
+					[282] = {
+						["conduitID"] = 282,
+						["conduitItemLevel"] = 226,
+						["conduitSpecSetID"] = 163,
+						["conduitItemID"] = 184587,
+						["conduitRank"] = 7,
+					},
+					[188] = {
+						["conduitSpecName"] = "Marksmanship",
+						["conduitItemID"] = 182648,
+						["conduitItemLevel"] = 226,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 14,
+						["conduitID"] = 188,
+						["conduitRank"] = 7,
+					},
+					[223] = {
+						["conduitSpecName"] = "Beast Mastery",
+						["conduitItemID"] = 183132,
+						["conduitItemLevel"] = 239,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 44,
+						["conduitID"] = 223,
+						["conduitRank"] = 8,
+					},
+					[157] = {
+						["conduitID"] = 157,
+						["conduitItemLevel"] = 226,
+						["conduitItemID"] = 182441,
+						["conduitSpecSetID"] = 163,
+						["conduitType"] = 2,
+						["conduitRank"] = 7,
+					},
+					[189] = {
+						["conduitSpecName"] = "Marksmanship",
+						["conduitItemID"] = 182649,
+						["conduitItemLevel"] = 239,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 14,
+						["conduitID"] = 189,
+						["conduitRank"] = 8,
+					},
+					[173] = {
+						["conduitID"] = 173,
+						["conduitItemLevel"] = 226,
+						["conduitItemID"] = 182476,
+						["conduitSpecSetID"] = 163,
+						["conduitType"] = 2,
+						["conduitRank"] = 7,
+					},
+					[192] = {
+						["conduitSpecName"] = "Marksmanship",
+						["conduitItemID"] = 182657,
+						["conduitItemLevel"] = 239,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 14,
+						["conduitID"] = 192,
+						["conduitRank"] = 8,
+					},
+					[181] = {
+						["conduitID"] = 181,
+						["conduitItemLevel"] = 226,
+						["conduitSpecSetID"] = 163,
+						["conduitItemID"] = 182605,
+						["conduitRank"] = 7,
+					},
+					[185] = {
+						["conduitSpecName"] = "Beast Mastery",
+						["conduitItemID"] = 182621,
+						["conduitItemLevel"] = 226,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 44,
+						["conduitID"] = 185,
+						["conduitRank"] = 7,
+					},
+					[251] = {
+						["conduitSpecName"] = "Survival",
+						["conduitItemID"] = 183202,
+						["conduitItemLevel"] = 239,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 20,
+						["conduitID"] = 251,
+						["conduitRank"] = 8,
+					},
+					[283] = {
+						["conduitID"] = 283,
+						["conduitItemLevel"] = 239,
+						["conduitItemID"] = 187506,
+						["conduitSpecSetID"] = 2,
+						["conduitType"] = 2,
+						["conduitRank"] = 8,
+					},
+				},
+				["SoulCurrencies"] = {
+					1810, -- [1]
+				},
+				["RenownLevel"] = 80,
+				["CurrentTalentTreeID"] = 328,
+				["ConduitNodes"] = {
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["state"] = 3,
+						["talentID"] = 1248,
+						["description"] = "Channel Anima to Claw's Edge, allowing access to mighty Night Fae enhancements.",
+						["normalizedPosition"] = {
+							["y"] = 0.6843030452728271,
+							["x"] = 0.5194240808486938,
+						},
+						["name"] = "Claw's Edge",
+					}, -- [1]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["state"] = 3,
+						["talentID"] = 1247,
+						["description"] = "Channel Anima to Tirna Scithe, allowing you and your allies to challenge an elite foe.",
+						["normalizedPosition"] = {
+							["y"] = 0.6383302211761475,
+							["x"] = 0.200039803981781,
+						},
+						["name"] = "Tirna Scithe",
+					}, -- [2]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["state"] = 3,
+						["talentID"] = 1246,
+						["description"] = "Channel Anima to the Hibernal Hollow, unlocking new Daily Quests.",
+						["normalizedPosition"] = {
+							["y"] = 0.5420361757278442,
+							["x"] = 0.6008168458938599,
+						},
+						["name"] = "Hibernal Hollow",
+					}, -- [3]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["state"] = 3,
+						["talentID"] = 1245,
+						["description"] = "Channel Anima to Tirna Vaal, unlocking a new World Quest.",
+						["normalizedPosition"] = {
+							["y"] = 0.3683687448501587,
+							["x"] = 0.6562590599060059,
+						},
+						["name"] = "Tirna Vaal",
+					}, -- [4]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["state"] = 3,
+						["talentID"] = 1244,
+						["description"] = "Channel Anima to Dreamsong Fenn, allowing you to fight an enemy champion.",
+						["normalizedPosition"] = {
+							["y"] = 0.3712571263313294,
+							["x"] = 0.3749450445175171,
+						},
+						["name"] = "Dreamsong Fenn",
+					}, -- [5]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["state"] = 3,
+						["talentID"] = 1243,
+						["description"] = "Channel Anima to Glitterfall Basin, allowing access to a special treasure.",
+						["normalizedPosition"] = {
+							["y"] = 0.3184887170791626,
+							["x"] = 0.5158897638320923,
+						},
+						["name"] = "Glitterfall Basin",
+					}, -- [6]
+				},
+				["TalentTreeTalents"] = {
+					[311] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1071,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = true,
+							["icon"] = 3854013,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1072,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to Tirna Vaal and the Hibernal Hollow, granting access to a new World Quest and new Daily Quests. Increases the number of Grateful Offerings awarded by covenant callings.",
+							["talentAvailability"] = 7,
+							["name"] = "Streaming Threads",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1072,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = true,
+							["icon"] = 3854013,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1073,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to Claw's Edge and Tirna Scithe, granting access to Night Fae enhancements and an elite foe. Increases the number of Grateful Offerings earned from covenant callings to their highest level.",
+							["talentAvailability"] = 7,
+							["name"] = "Flowing Power",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3854013,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1071,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to Glitterfall Basin and Dreamsong Fen, granting access to a special treasure and an enemy champion. Allows covenant callings to award Grateful Offerings in addition to other rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "Flowing Tendrils",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[319] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1089,
+							["researchDuration"] = 86400,
+							["tier"] = 4,
+							["selected"] = true,
+							["icon"] = 3675494,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 15000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 70,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1090,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Restore the Conservatory to its former glory.\r\n\r\nThis final infusion of anima to the Conservatory activates the final wildseed plot.\r\n\r\nThat Wildseed can benefit from four possible catalyst links. This allows you to maximize your opportunites for unique rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "Final Forms",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1088,
+							["researchDuration"] = 86400,
+							["tier"] = 3,
+							["selected"] = true,
+							["icon"] = 3675494,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 12500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 40,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1089,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Grants you access to additional wildseed and catalyst plots. \r\n\r\nYou can now use the wildseed that has three possible catalyst connections. Increasing your potential for earning unique rewards.\r\n\r\nEmbark on a quest to find a rare spirit who can draw spirit animals to reside in your garden.",
+							["talentAvailability"] = 7,
+							["name"] = "Flourishing Beds",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1087,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = true,
+							["icon"] = 3675494,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1088,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "This additional infusion of anima activates additional wildseed and catalyst plots to expand your growing potential.\r\n\r\nFind another rare spirit who can lead you on a journey of enlightenment across Azeroth and beyond.",
+							["talentAvailability"] = 7,
+							["name"] = "Nurtured Souls",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1086,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = true,
+							["icon"] = 3675494,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 12,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1087,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Grants you access to catalyst plots, and activates an additional wildseed. \r\n\r\nConservator Aoni will now offer daily catalyst quests.\r\n\r\nYou can also seek out a powerful, rare, and unusual spirit that may be able to aid your efforts in the Conservatory.",
+							["talentAvailability"] = 7,
+							["name"] = "Initial Growth",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [4]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675494,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 6,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1086,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Restore the Queen's Conservatory, a sacred garden where you can nurture the wildseeds of powerful lost souls and prepare them for rebirth.",
+							["talentAvailability"] = 7,
+							["name"] = "First Planting",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [5]
+					},
+					[307] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3854017,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [1]
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1000,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1053,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Activates the mysterious mushroom network that connects sites across Ardenweald. \r\n\r\nYou can travel between the Heart of the Forest, and Forest's Edge, The Stalks, or Stillglade.",
+							["talentAvailability"] = 7,
+							["name"] = "Nurtured Roots",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1053,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = true,
+							["icon"] = 3854017,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [1]
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1054,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The tendrils of the wondrous mushroom network grow further, restoring access to the Banks of Life, the Elder Stand, and Gormhive. \r\n\r\nDiscover the hidden underground caverns that can only be accessed through the network. \r\n\r\nImprove your reputation with Marasmius to earn unique rewards for your efforts aiding the growth of the network.",
+							["talentAvailability"] = 7,
+							["name"] = "Fun with Fungi",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1054,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = true,
+							["icon"] = 3854017,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1055,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The mushroom network rediscovers its full potential, restoring the connections to the Crumbled Ridge, Eventide Grove, and Tirna Scithe \r\n\r\nAllows you access to the mysterious islands that can be found at the very edges of the realm. \r\n\r\nProvides more opportunities to work towards gaining an exalted reputation with Marasmius to earn his rarest gifts!\r\n\r\nAdds a portal to Oribos within the Heart of the Forest.",
+							["talentAvailability"] = 7,
+							["name"] = "Blossoming Network",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[315] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675495,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1074,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Grants access to Adventures and their rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "Tactical Insight",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1075,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = true,
+							["icon"] = 3675495,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1076,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Decreases the time an adventure takes to complete by 25%.",
+							["talentAvailability"] = 7,
+							["name"] = "Hidden Pathways",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "Reduces the travel time on an adventure by 25%.",
+								["id"] = 1273,
+								["isEmptySlot"] = false,
+								["name"] = "Strategic Genius",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["category"] = "Reduced Travel Time",
+								["icon"] = 237451,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1074,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = true,
+							["icon"] = 3675495,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1075,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Increases the rate at which companions naturally heal by 25%.",
+							["talentAvailability"] = 7,
+							["name"] = "Grovetender's Gift",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "Increases the rate at which adventurers heal by 25%.",
+								["id"] = 1274,
+								["isEmptySlot"] = false,
+								["name"] = "Forward Planning",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["category"] = "Increased Healing Rate",
+								["icon"] = 237451,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[328] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 462300,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1144,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Growing Power",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 1000,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 642637,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1145,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Final Capacity",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 2000,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 14400,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 418788,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1143,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 0,
+							["name"] = "Expanding Potential",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 100,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+				},
+				["ConduitOriginPosition"] = {
+					["y"] = 0.5306984186172485,
+					["x"] = 0.4594951868057251,
+				},
+				["CovenantFeatures"] = {
+					{
+						["garrTalentTreeID"] = 307,
+						["featureType"] = 2,
+					}, -- [1]
+					{
+						["garrTalentTreeID"] = 311,
+						["featureType"] = 1,
+					}, -- [2]
+					{
+						["garrTalentTreeID"] = 315,
+						["featureType"] = 3,
+					}, -- [3]
+					{
+						["garrTalentTreeID"] = 319,
+						["featureType"] = 5,
+					}, -- [4]
+					{
+						["garrTalentTreeID"] = 328,
+						["featureType"] = 4,
+					}, -- [5]
+				},
+			},
+			["Default.Terokkar.Nayeon"] = {
+				["lastUpdate"] = 1619721453,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 0,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Magtheridon.Gyuri"] = {
+				["lastUpdate"] = 1613086906,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 10000,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Magtheridon.Holyed"] = {
+				["lastUpdate"] = 1611320818,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 10000,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Magtheridon.Gowon"] = {
+				["lastUpdate"] = 1628619865,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 0,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Terokkar.Haseul"] = {
+				["lastUpdate"] = 1625956940,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 0,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Magtheridon.Ostumu"] = {
+				["lastUpdate"] = 1628632617,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 0,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Magtheridon.Moltenheim"] = {
+				["CovenantID"] = 1,
+				["Torghast"] = {
+					["fracturechambers"] = {
+						["nextReset"] = 1629269999,
+						["name"] = "Fracture Chambers",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 330,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 460,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 565,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 655,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 730,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 800,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 860,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 50,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [8]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 915,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 90,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [9]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 960,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [10]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1000,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 150,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [11]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1030,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [12]
+						},
+					},
+					["coldheartinterstitia"] = {
+						["nextReset"] = 1629269999,
+						["name"] = "Coldheart Interstitia",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 330,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 460,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 565,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 655,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 730,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 800,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 860,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 50,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [8]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 915,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 90,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [9]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 960,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [10]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1000,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 150,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [11]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1030,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [12]
+						},
+					},
+				},
+				["lastUpdate"] = 1633111782,
+				["ConduitReinforceProgress"] = 1,
+				["SoulCurrenciesTotals"] = {
+					[1810] = 86,
+				},
+				["InstalledConduits"] = {
+					[1311] = 129,
+					[1306] = 159,
+					[1312] = 141,
+					[1315] = 164,
+				},
+				["ActiveSoulbindID"] = 7,
+				["AnimaCurrency"] = {
+					["count"] = 4549,
+					["maxDisplayable"] = 200000,
+				},
+				["ConduitCollection"] = {
+					[193] = {
+						["conduitID"] = 193,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 171,
+						["conduitItemID"] = 182667,
+						["conduitSpecSetID"] = 27,
+						["conduitSpecName"] = "Holy",
+						["conduitRank"] = 3,
+					},
+					[197] = {
+						["conduitID"] = 197,
+						["conduitType"] = 2,
+						["conduitItemLevel"] = 158,
+						["conduitItemID"] = 182684,
+						["conduitSpecSetID"] = 28,
+						["conduitSpecName"] = "Protection",
+						["conduitRank"] = 2,
+					},
+					[209] = {
+						["conduitID"] = 209,
+						["conduitType"] = 2,
+						["conduitItemLevel"] = 171,
+						["conduitItemID"] = 182753,
+						["conduitSpecSetID"] = 28,
+						["conduitSpecName"] = "Protection",
+						["conduitRank"] = 3,
+					},
+					[182] = {
+						["conduitID"] = 182,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 182608,
+						["conduitSpecSetID"] = 29,
+						["conduitSpecName"] = "Retribution",
+						["conduitRank"] = 4,
+					},
+					[159] = {
+						["conduitID"] = 159,
+						["conduitItemLevel"] = 200,
+						["conduitSpecSetID"] = 30,
+						["conduitItemID"] = 182448,
+						["conduitRank"] = 5,
+					},
+					[194] = {
+						["conduitID"] = 194,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 182675,
+						["conduitSpecSetID"] = 27,
+						["conduitSpecName"] = "Holy",
+						["conduitRank"] = 5,
+					},
+					[167] = {
+						["conduitID"] = 167,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 182465,
+						["conduitSpecSetID"] = 29,
+						["conduitSpecName"] = "Retribution",
+						["conduitRank"] = 5,
+					},
+					[129] = {
+						["conduitID"] = 129,
+						["conduitItemLevel"] = 171,
+						["conduitType"] = 2,
+						["conduitSpecSetID"] = 30,
+						["conduitItemID"] = 182304,
+						["conduitRank"] = 3,
+					},
+					[164] = {
+						["conduitID"] = 164,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 171,
+						["conduitItemID"] = 182462,
+						["conduitSpecSetID"] = 29,
+						["conduitSpecName"] = "Retribution",
+						["conduitRank"] = 3,
+					},
+					[141] = {
+						["conduitID"] = 141,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 2,
+						["conduitSpecSetID"] = 30,
+						["conduitItemID"] = 182336,
+						["conduitRank"] = 2,
+					},
+					[176] = {
+						["conduitID"] = 176,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 158,
+						["conduitItemID"] = 182559,
+						["conduitSpecSetID"] = 29,
+						["conduitSpecName"] = "Retribution",
+						["conduitRank"] = 2,
+					},
+					[283] = {
+						["conduitID"] = 283,
+						["conduitItemLevel"] = 200,
+						["conduitType"] = 2,
+						["conduitSpecSetID"] = 2,
+						["conduitItemID"] = 187506,
+						["conduitRank"] = 5,
+					},
+					[133] = {
+						["conduitID"] = 133,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 2,
+						["conduitSpecSetID"] = 30,
+						["conduitItemID"] = 182307,
+						["conduitRank"] = 4,
+					},
+					[284] = {
+						["conduitID"] = 284,
+						["conduitItemLevel"] = 200,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 1,
+						["conduitItemID"] = 187507,
+						["conduitRank"] = 5,
+					},
+					[177] = {
+						["conduitID"] = 177,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 145,
+						["conduitItemID"] = 182582,
+						["conduitSpecSetID"] = 27,
+						["conduitSpecName"] = "Holy",
+						["conduitRank"] = 1,
+					},
+					[216] = {
+						["conduitID"] = 216,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 30,
+						["conduitItemID"] = 182778,
+						["conduitRank"] = 2,
+						["covenantID"] = 1,
+					},
+					[195] = {
+						["conduitID"] = 195,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 171,
+						["conduitItemID"] = 182681,
+						["conduitSpecSetID"] = 28,
+						["conduitSpecName"] = "Protection",
+						["conduitRank"] = 3,
+					},
+					[163] = {
+						["conduitID"] = 163,
+						["conduitItemLevel"] = 200,
+						["conduitSpecSetID"] = 30,
+						["conduitItemID"] = 182461,
+						["conduitRank"] = 5,
+					},
+				},
+				["RenownLevel"] = 51,
+				["ConduitNodes"] = {
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["talentID"] = 1242,
+						["description"] = "Channel Anima to the Eonian Archives, allowing access to mighty Kyrian enhancements.",
+						["name"] = "Eonian Archives",
+						["normalizedPosition"] = {
+							["y"] = 0.2973120808601379,
+							["x"] = 0.3884140253067017,
+						},
+					}, -- [1]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["state"] = 1,
+						["talentID"] = 1237,
+						["description"] = "Channel Anima to Purity's Pinnacle, allowing access to a special treasure.",
+						["normalizedPosition"] = {
+							["y"] = 0.7075365781784058,
+							["x"] = 0.6498003005981445,
+						},
+						["name"] = "Purity's Pinnacle",
+					}, -- [2]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["state"] = 1,
+						["talentID"] = 1238,
+						["description"] = "Channel Anima to the Temple of Courage, allowing you to fight an enemy champion.",
+						["normalizedPosition"] = {
+							["y"] = 0.5519324541091919,
+							["x"] = 0.2922655344009399,
+						},
+						["name"] = "Temple of Courage",
+					}, -- [3]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["talentID"] = 1239,
+						["description"] = "Channel Anima to the Temple of Humility, unlocking a new World Quest.",
+						["name"] = "Temple of Humility",
+						["normalizedPosition"] = {
+							["y"] = 0.3745641708374023,
+							["x"] = 0.7135618925094604,
+						},
+					}, -- [4]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["talentID"] = 1240,
+						["description"] = "Channel Anima to the Eternal Forge, unlocking new Daily Quests.",
+						["name"] = "Eternal Forge",
+						["normalizedPosition"] = {
+							["y"] = 0.1277060508728027,
+							["x"] = 0.4994977712631226,
+						},
+					}, -- [5]
+					{
+						["costs"] = {
+							{
+								["quantity"] = 25,
+								["currencyID"] = 1813,
+							}, -- [1]
+						},
+						["talentID"] = 1241,
+						["description"] = "Channel Anima to the Citadel of Loyalty, allowing you and your allies to challenge an elite foe.",
+						["name"] = "Citadel of Loyalty",
+						["normalizedPosition"] = {
+							["y"] = 0.2288322448730469,
+							["x"] = 0.2033868432044983,
+						},
+					}, -- [6]
+				},
+				["TalentTreeTalents"] = {
+					[312] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1063,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3675491,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1064,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to the Eonian Archives and the Citadel of Loyalty, granting access to Kyrian enhancements and an elite foe.",
+							["talentAvailability"] = 8,
+							["name"] = "Flowing Power",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1062,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3675491,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1063,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to the Temple of Humility and the Eternal Forge, granting access to a new World Quest and new Daily Quests.",
+							["talentAvailability"] = 3,
+							["name"] = "Streaming Threads",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675491,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1062,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to Purity's Pinnacle and the Temple of Courage, granting access to a special treasure and an enemy champion.",
+							["talentAvailability"] = 7,
+							["name"] = "Flowing Tendrils",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[327] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 14400,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 418788,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1140,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 0,
+							["name"] = "Expanding Potential",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 100,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 462300,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1141,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Growing Power",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 1000,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 642637,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1142,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Final Capacity",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 2000,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[308] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675497,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1056,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows travel to Elysian Hold, Hero's Rest, Aspirant's Rest, and the Temple of Courage.\r\n\r\nAfter arriving at a location cast Unburden, greatly increasing movement speed, and propelling you forward.",
+							["talentAvailability"] = 7,
+							["name"] = "Step of Faith",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1056,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3675497,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1057,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows travel to Sagehaven, the Temple of Purity, and the Seat of Eternal Hymns.\r\n\r\nUnburden duration increased by 100%.\r\n\r\nYour Summon Steward ability can now create an Elysian Beacon, granting you access to the network in the field.",
+							["talentAvailability"] = 3,
+							["name"] = "Leap of Power",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1057,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3675497,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1058,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows travel to the Temple of Humility and the Terrace of the Collectors.\r\n\r\nUnburden additionally reduces the radius at which enemies will detect you while active.\r\n\r\nYour steward's Elysian Beacon can now be used by party members.\r\n\r\nEstablishes a portal to Oribos within Elysian Hold.",
+							["talentAvailability"] = 8,
+							["name"] = "Eternal Paths",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[316] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1078,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3675495,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [1]
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1079,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Decreases the time an adventure takes to complete by 25%.",
+							["talentAvailability"] = 8,
+							["name"] = "Wings of Light",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "Reduces the travel time on an adventure by 25%.",
+								["id"] = 1273,
+								["isEmptySlot"] = false,
+								["name"] = "Strategic Genius",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["category"] = "Reduced Travel Time",
+								["icon"] = 237451,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1077,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3675495,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1078,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Increases the rate at which companions naturally heal by 25%.",
+							["talentAvailability"] = 3,
+							["name"] = "Enhanced Purification",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "Increases the rate at which adventurers heal by 25%.",
+								["id"] = 1274,
+								["isEmptySlot"] = false,
+								["name"] = "Forward Planning",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["category"] = "Increased Healing Rate",
+								["icon"] = 237451,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675495,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [1]
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 500,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1077,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Grants access to Adventures and their rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "Tactical Insight",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[320] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1091,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3675496,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 12,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1092,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows the capture of four more Shadowlands memories for training in the Path of Ascension.\r\n\r\nEmpowers some of your memories with accumulated anima, granting you access to their second trial.\r\n\r\nUnlocks access to weekly quests.",
+							["talentAvailability"] = 3,
+							["name"] = "Sacred Trials",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675496,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 6,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1091,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Unlocks the sacred trial of the Path of Ascension, facilitating the capture of six Shadowlands memories for your soulbinds to train against for unique rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "First Steps",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1092,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3675496,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1093,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Empowers more of your captured memories, unlocking the rest of the Trials of Loyalty as well as the first of the Trials of Wisdom.\r\n\r\nThe Brazier of Lessons Learned has been activated, increasing your soulbinds' health and damage in Ascension Coliseum.",
+							["talentAvailability"] = 8,
+							["name"] = "Continued Training",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1093,
+							["researchDuration"] = 86400,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 3675496,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 12500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 40,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1094,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Your collected anima strengthens the remaining memories, granting access to the remaining Trials of Wisdom.\r\n\r\nUnlocks access to a second weekly quest.",
+							["talentAvailability"] = 8,
+							["name"] = "Teachings of Wisdom",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [4]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1094,
+							["researchDuration"] = 86400,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 3675496,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 15000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 70,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1095,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Unlocks the final trial for all of your captured memories, the Trial of Humility. \r\n\r\nThe Brazier of Inward Reflection has been activated, increasing your soulbinds' health and damage in Ascension Coliseum.",
+							["talentAvailability"] = 8,
+							["name"] = "Trials of Humility",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [5]
+					},
+				},
+				["ConduitOriginPosition"] = {
+					["y"] = 0.2016096115112305,
+					["x"] = 0.6407538652420044,
+				},
+			},
+			["Default.Magtheridon.Shibbun"] = {
+				["CovenantID"] = 3,
+				["Torghast"] = {
+					["fracturechambers"] = {
+						["nextReset"] = 1614149999,
+						["name"] = "Fracture Chambers",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
+					["mortregar"] = {
+						["nextReset"] = 1622012399,
+						["name"] = "Mort'regar",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
+					["soulforges"] = {
+						["nextReset"] = 1614149999,
+						["name"] = "The Soulforges",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
+					["coldheartinterstitia"] = {
+						["nextReset"] = 1626850799,
+						["name"] = "Coldheart Interstitia",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 330,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 460,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 565,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 655,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 730,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 800,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 860,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 50,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [8]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 915,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 90,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [9]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 960,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [10]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1000,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 150,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [11]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 1030,
+										["rewardType"] = 1,
+									}, -- [1]
+									{
+										["id"] = 1906,
+										["quantity"] = 180,
+										["rewardType"] = 1,
+									}, -- [2]
+								},
+							}, -- [12]
+						},
+					},
+				},
+				["lastUpdate"] = 1639421606,
+				["SoulCurrenciesTotals"] = {
+					[1810] = 41,
+				},
+				["InstalledConduits"] = {
+					[1010] = 257,
+					[850] = 279,
+					[849] = 256,
+					[995] = 254,
+				},
+				["ActiveSoulbindID"] = 1,
+				["AnimaCurrency"] = {
+					["count"] = 1710,
+					["maxDisplayable"] = 200000,
+				},
+				["ConduitCollection"] = {
+					[255] = {
+						["conduitID"] = 255,
+						["conduitItemLevel"] = 158,
+						["conduitItemID"] = 183465,
+						["conduitSpecSetID"] = 48,
+						["conduitType"] = 2,
+						["conduitRank"] = 2,
+					},
+					[262] = {
+						["conduitSpecName"] = "Balance",
+						["conduitItemID"] = 183477,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 15,
+						["conduitID"] = 262,
+						["conduitRank"] = 2,
+					},
+					[270] = {
+						["conduitSpecName"] = "Guardian",
+						["conduitItemID"] = 183485,
+						["conduitItemLevel"] = 171,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 17,
+						["conduitID"] = 270,
+						["conduitRank"] = 3,
+					},
+					[271] = {
+						["conduitSpecName"] = "Guardian",
+						["conduitItemID"] = 183486,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 2,
+						["conduitSpecSetID"] = 17,
+						["conduitID"] = 271,
+						["conduitRank"] = 2,
+					},
+					[279] = {
+						["conduitID"] = 279,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 183473,
+						["conduitSpecSetID"] = 48,
+						["conduitType"] = 1,
+						["conduitRank"] = 5,
+						["covenantID"] = 3,
+					},
+					[256] = {
+						["conduitID"] = 256,
+						["conduitItemLevel"] = 145,
+						["conduitItemID"] = 183466,
+						["conduitSpecSetID"] = 48,
+						["conduitType"] = 2,
+						["conduitRank"] = 1,
+					},
+					[264] = {
+						["conduitSpecName"] = "Balance",
+						["conduitItemID"] = 183479,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 15,
+						["conduitID"] = 264,
+						["conduitRank"] = 2,
+					},
+					[257] = {
+						["conduitID"] = 257,
+						["conduitItemLevel"] = 145,
+						["conduitSpecSetID"] = 48,
+						["conduitItemID"] = 183467,
+						["conduitRank"] = 1,
+					},
+					[265] = {
+						["conduitSpecName"] = "Feral",
+						["conduitItemID"] = 183480,
+						["conduitItemLevel"] = 171,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 16,
+						["conduitID"] = 265,
+						["conduitRank"] = 3,
+					},
+					[258] = {
+						["conduitID"] = 258,
+						["conduitItemLevel"] = 158,
+						["conduitSpecSetID"] = 48,
+						["conduitItemID"] = 183468,
+						["conduitRank"] = 2,
+					},
+					[274] = {
+						["conduitSpecName"] = "Restoration",
+						["conduitItemID"] = 183489,
+						["conduitItemLevel"] = 171,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 18,
+						["conduitID"] = 274,
+						["conduitRank"] = 3,
+					},
+					[267] = {
+						["conduitSpecName"] = "Feral",
+						["conduitItemID"] = 183482,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 16,
+						["conduitID"] = 267,
+						["conduitRank"] = 2,
+					},
+					[254] = {
+						["conduitID"] = 254,
+						["conduitItemLevel"] = 145,
+						["conduitItemID"] = 183464,
+						["conduitSpecSetID"] = 48,
+						["conduitType"] = 2,
+						["conduitRank"] = 1,
+					},
+					[260] = {
+						["conduitID"] = 260,
+						["conduitItemLevel"] = 145,
+						["conduitSpecSetID"] = 48,
+						["conduitItemID"] = 183470,
+						["conduitRank"] = 1,
+					},
+					[268] = {
+						["conduitSpecName"] = "Feral",
+						["conduitItemID"] = 183483,
+						["conduitItemLevel"] = 171,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 16,
+						["conduitID"] = 268,
+						["conduitRank"] = 3,
+					},
+					[276] = {
+						["conduitSpecName"] = "Restoration",
+						["conduitItemID"] = 183491,
+						["conduitItemLevel"] = 145,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 18,
+						["conduitID"] = 276,
+						["conduitRank"] = 1,
+					},
+					[284] = {
+						["conduitID"] = 284,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 187507,
+						["conduitSpecSetID"] = 1,
+						["conduitType"] = 1,
+						["conduitRank"] = 5,
+					},
+					[269] = {
+						["conduitSpecName"] = "Guardian",
+						["conduitItemID"] = 183484,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 17,
+						["conduitID"] = 269,
+						["conduitRank"] = 2,
+					},
+					[283] = {
+						["conduitID"] = 283,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 187506,
+						["conduitSpecSetID"] = 2,
+						["conduitType"] = 2,
+						["conduitRank"] = 5,
+					},
+				},
+				["RenownLevel"] = 38,
+				["ConduitNodes"] = {
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["description"] = "Channel Anima to Claw's Edge, allowing access to mighty Night Fae enhancements.",
+						["talentID"] = 1248,
+						["name"] = "Claw's Edge",
+						["normalizedPosition"] = {
+							["y"] = 0.6843030452728271,
+							["x"] = 0.5194240808486938,
+						},
+					}, -- [1]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["description"] = "Channel Anima to Tirna Scithe, allowing you and your allies to challenge an elite foe.",
+						["talentID"] = 1247,
+						["name"] = "Tirna Scithe",
+						["normalizedPosition"] = {
+							["y"] = 0.6383302211761475,
+							["x"] = 0.200039803981781,
+						},
+					}, -- [2]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["description"] = "Channel Anima to the Hibernal Hollow, unlocking new Daily Quests.",
+						["talentID"] = 1246,
+						["name"] = "Hibernal Hollow",
+						["normalizedPosition"] = {
+							["y"] = 0.5420361757278442,
+							["x"] = 0.6008168458938599,
+						},
+					}, -- [3]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["description"] = "Channel Anima to Tirna Vaal, unlocking a new World Quest.",
+						["talentID"] = 1245,
+						["name"] = "Tirna Vaal",
+						["normalizedPosition"] = {
+							["y"] = 0.3683687448501587,
+							["x"] = 0.6562590599060059,
+						},
+					}, -- [4]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["state"] = 1,
+						["talentID"] = 1244,
+						["description"] = "Channel Anima to Dreamsong Fenn, allowing you to fight an enemy champion.",
+						["normalizedPosition"] = {
+							["y"] = 0.3712571263313294,
+							["x"] = 0.3749450445175171,
+						},
+						["name"] = "Dreamsong Fenn",
+					}, -- [5]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["state"] = 1,
+						["talentID"] = 1243,
+						["description"] = "Channel Anima to Glitterfall Basin, allowing access to a special treasure.",
+						["normalizedPosition"] = {
+							["y"] = 0.3184887170791626,
+							["x"] = 0.5158897638320923,
+						},
+						["name"] = "Glitterfall Basin",
+					}, -- [6]
+				},
+				["ConduitOriginPosition"] = {
+					["y"] = 0.5306984186172485,
+					["x"] = 0.4594951868057251,
+				},
+				["TalentTreeTalents"] = {
+					[311] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3854013,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1071,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Allows you to channel anima to Glitterfall Basin and Dreamsong Fen, granting access to a special treasure and an enemy champion.",
+							["talentAvailability"] = 7,
+							["name"] = "Flowing Tendrils",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1071,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3854013,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1072,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Allows you to channel anima to Tirna Vaal and the Hibernal Hollow, granting access to a new World Quest and new Daily Quests.",
+							["talentAvailability"] = 3,
+							["name"] = "Streaming Threads",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1072,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3854013,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1073,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Allows you to channel anima to Claw's Edge and Tirna Scithe, granting access to Night Fae enhancements and an elite foe.",
+							["talentAvailability"] = 8,
+							["name"] = "Flowing Power",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [3]
+					},
+					[319] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675494,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 6,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1086,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Restore the Queen's Conservatory, a sacred garden where you can nurture the wildseeds of powerful lost souls and prepare them for rebirth.",
+							["talentAvailability"] = 7,
+							["name"] = "First Planting",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1088,
+							["researchDuration"] = 86400,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 3675494,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 12500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 40,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1089,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Grants you access to additional wildseed and catalyst plots. \r\n\r\nYou can now use the wildseed that has three possible catalyst connections. Increasing your potential for earning unique rewards.\r\n\r\nEmbark on a quest to find a rare spirit who can draw spirit animals to reside in your garden.",
+							["talentAvailability"] = 8,
+							["name"] = "Flourishing Beds",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1089,
+							["researchDuration"] = 86400,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 3675494,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 15000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 70,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1090,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Restore the Conservatory to its former glory.\r\n\r\nThis final infusion of anima to the Conservatory activates the final wildseed plot.\r\n\r\nThat Wildseed can benefit from four possible catalyst links. This allows you to maximize your opportunites for unique rewards.",
+							["talentAvailability"] = 8,
+							["name"] = "Final Forms",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [3]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1086,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3675494,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 12,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1087,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Grants you access to catalyst plots, and activates an additional wildseed. \r\n\r\nConservator Aoni will now offer daily catalyst quests.\r\n\r\nYou can also seek out a powerful, rare, and unusual spirit that may be able to aid your efforts in the Conservatory.",
+							["talentAvailability"] = 3,
+							["name"] = "Initial Growth",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [4]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1087,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3675494,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1088,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "This additional infusion of anima activates additional wildseed and catalyst plots to expand your growing potential.\r\n\r\nFind another rare spirit who can lead you on a journey of enlightenment across Azeroth and beyond.",
+							["talentAvailability"] = 8,
+							["name"] = "Nurtured Souls",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [5]
+					},
+					[307] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3854017,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [1]
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1000,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1053,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Activates the mysterious mushroom network that connects sites across Ardenweald. \r\n\r\nYou can travel between the Heart of the Forest, and Forest's Edge, The Stalks, or Stillglade.",
+							["talentAvailability"] = 7,
+							["name"] = "Nurtured Roots",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1053,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3854017,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [1]
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1054,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "The tendrils of the wondrous mushroom network grow further, restoring access to the Banks of Life, the Elder Stand, and Gormhive. \r\n\r\nDiscover the hidden underground caverns that can only be accessed through the network. \r\n\r\nImprove your reputation with Marasmius to earn unique rewards for your efforts aiding the growth of the network.",
+							["talentAvailability"] = 3,
+							["name"] = "Fun with Fungi",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1054,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3854017,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1055,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "The mushroom network rediscovers its full potential, restoring the connections to the Crumbled Ridge, Eventide Grove, and Tirna Scithe \r\n\r\nAllows you access to the mysterious islands that can be found at the very edges of the realm. \r\n\r\nProvides more opportunities to work towards gaining an exalted reputation with Marasmius to earn his rarest gifts!\r\n\r\nAdds a portal to Oribos within the Heart of the Forest.",
+							["talentAvailability"] = 8,
+							["name"] = "Blossoming Network",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [3]
+					},
+					[315] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675495,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1074,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "Grants access to Adventures and their rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "Tactical Insight",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1074,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3675495,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1075,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "Increases the rate at which adventurers heal by 25%.",
+								["id"] = 1274,
+								["isSpecialization"] = false,
+								["name"] = "Forward Planning",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["category"] = "Increased Healing Rate",
+								["icon"] = 237451,
+								["isTrait"] = false,
+							},
+							["description"] = "Increases the rate at which companions naturally heal by 25%.",
+							["talentAvailability"] = 3,
+							["name"] = "Grovetender's Gift",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1075,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3675495,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1076,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "Reduces the travel time on an adventure by 25%.",
+								["id"] = 1273,
+								["isSpecialization"] = false,
+								["name"] = "Strategic Genius",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["category"] = "Reduced Travel Time",
+								["icon"] = 237451,
+								["isTrait"] = false,
+							},
+							["description"] = "Decreases the time an adventure takes to complete by 25%.",
+							["talentAvailability"] = 8,
+							["name"] = "Hidden Pathways",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [3]
+					},
+					[328] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 642637,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1145,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Final Capacity",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 2000,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 462300,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1144,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Growing Power",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 1000,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 14400,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 418788,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1143,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 0,
+							["name"] = "Expanding Potential",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 100,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+						}, -- [3]
+					},
+				},
+			},
+			["Default.Magtheridon.Raccoons"] = {
+				["lastUpdate"] = 1611609639,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 10000,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Terokkar.Saltycorn"] = {
+				["lastUpdate"] = 1627315961,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 0,
+				},
+				["RenownLevel"] = 1,
+			},
+			["Default.Magtheridon.Sonyeo"] = {
+				["CovenantID"] = 2,
+				["lastUpdate"] = 1629396254,
+				["ConduitReinforceProgress"] = 1,
+				["ConduitOriginPosition"] = {
+					["y"] = 0.4300369024276733,
+					["x"] = 0.2887356877326965,
+				},
+				["InstalledConduits"] = {
+					[1405] = 283,
+					[1396] = 48,
+					[1400] = 43,
+					[1397] = 26,
+					[1866] = 30,
+				},
+				["ActiveSoulbindID"] = 8,
+				["AnimaCurrency"] = {
+					["count"] = 6967,
+				},
+				["ConduitCollection"] = {
+					[48] = {
+						["conduitID"] = 48,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 181707,
+						["conduitSpecSetID"] = 162,
+						["conduitType"] = 2,
+						["conduitRank"] = 5,
+					},
+					[26] = {
+						["conduitID"] = 26,
+						["conduitItemLevel"] = 145,
+						["conduitSpecSetID"] = 162,
+						["conduitItemID"] = 181467,
+						["conduitRank"] = 1,
+					},
+					[30] = {
+						["conduitSpecName"] = "Fire",
+						["conduitItemID"] = 181504,
+						["conduitItemLevel"] = 200,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 23,
+						["conduitID"] = 30,
+						["conduitRank"] = 5,
+					},
+					[283] = {
+						["conduitID"] = 283,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 187506,
+						["conduitSpecSetID"] = 2,
+						["conduitType"] = 2,
+						["conduitRank"] = 5,
+					},
+					[55] = {
+						["conduitSpecName"] = "Arcane",
+						["conduitItemID"] = 181738,
+						["conduitItemLevel"] = 200,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 21,
+						["conduitID"] = 55,
+						["conduitRank"] = 5,
+					},
+					[43] = {
+						["conduitID"] = 43,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 181639,
+						["conduitSpecSetID"] = 162,
+						["conduitType"] = 1,
+						["conduitRank"] = 5,
+						["covenantID"] = 2,
+					},
+					[45] = {
+						["conduitID"] = 45,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 181698,
+						["conduitSpecSetID"] = 162,
+						["conduitType"] = 2,
+						["conduitRank"] = 5,
+					},
+					[32] = {
+						["conduitSpecName"] = "Fire",
+						["conduitItemID"] = 181506,
+						["conduitItemLevel"] = 145,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 23,
+						["conduitID"] = 32,
+						["conduitRank"] = 1,
+					},
+					[18] = {
+						["conduitSpecName"] = "Frost",
+						["conduitItemID"] = 181389,
+						["conduitItemLevel"] = 145,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 22,
+						["conduitID"] = 18,
+						["conduitRank"] = 1,
+					},
+					[51] = {
+						["conduitSpecName"] = "Arcane",
+						["conduitItemID"] = 181734,
+						["conduitItemLevel"] = 200,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 21,
+						["conduitID"] = 51,
+						["conduitRank"] = 5,
+					},
+					[20] = {
+						["conduitSpecName"] = "Frost",
+						["conduitItemID"] = 181455,
+						["conduitItemLevel"] = 200,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 22,
+						["conduitID"] = 20,
+						["conduitRank"] = 5,
+					},
+					[249] = {
+						["conduitSpecName"] = "Fire",
+						["conduitItemID"] = 183197,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 23,
+						["conduitID"] = 249,
+						["conduitRank"] = 2,
+					},
+					[21] = {
+						["conduitSpecName"] = "Frost",
+						["conduitItemID"] = 181461,
+						["conduitItemLevel"] = 200,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 22,
+						["conduitID"] = 21,
+						["conduitRank"] = 5,
+					},
+					[23] = {
+						["conduitID"] = 23,
+						["conduitItemLevel"] = 200,
+						["conduitSpecSetID"] = 162,
+						["conduitItemID"] = 181464,
+						["conduitRank"] = 5,
+					},
+					[58] = {
+						["conduitID"] = 58,
+						["conduitItemLevel"] = 145,
+						["conduitSpecSetID"] = 162,
+						["conduitItemID"] = 181756,
+						["conduitRank"] = 1,
+					},
+				},
+				["SoulCurrencies"] = {
+					1810, -- [1]
+				},
+				["RenownLevel"] = 47,
+				["CurrentTalentTreeID"] = 326,
+				["ConduitNodes"] = {
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["state"] = 4,
+						["talentID"] = 1255,
+						["description"] = "Channel Anima to the Crypt of the Forgotten, allowing access to a special treasure.",
+						["normalizedPosition"] = {
+							["y"] = 0.3504056334495544,
+							["x"] = 0.7285594940185547,
+						},
+						["name"] = "Crypt of the Forgotten",
+					}, -- [1]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["state"] = 2,
+						["talentID"] = 1256,
+						["description"] = "Channel Anima to Wanecrypt Hill, allowing you to fight an enemy champion.",
+						["normalizedPosition"] = {
+							["y"] = 0.7043506503105164,
+							["x"] = 0.4999386668205261,
+						},
+						["name"] = "Wanecrypt Hill",
+					}, -- [2]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["description"] = "Channel Anima to Dominance Keep, allowing you and your allies to challenge an elite foe.",
+						["talentID"] = 1259,
+						["name"] = "Dominance Keep",
+						["normalizedPosition"] = {
+							["y"] = 0.1962138414382935,
+							["x"] = 0.3363283276557922,
+						},
+					}, -- [3]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["description"] = "Channel Anima to the Shrouded Asylum, allowing access to mighty Venthyr enhancements.",
+						["talentID"] = 1260,
+						["name"] = "The Shrouded Asylum",
+						["normalizedPosition"] = {
+							["y"] = 0.5564113855361938,
+							["x"] = 0.2181020379066467,
+						},
+					}, -- [4]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["description"] = "Channel Anima to Pridefall Hamlet, unlocking new Daily Quests.",
+						["talentID"] = 1258,
+						["name"] = "Pridefall Hamlet",
+						["normalizedPosition"] = {
+							["y"] = 0.8116804361343384,
+							["x"] = 0.6881656646728516,
+						},
+					}, -- [5]
+					{
+						["costs"] = {
+							{
+								["currencyID"] = 1813,
+								["quantity"] = 25,
+							}, -- [1]
+						},
+						["description"] = "Channel Anima to the Court of the Harvesters, unlocking a new World Quest.",
+						["talentID"] = 1257,
+						["name"] = "Court of the Harvesters",
+						["normalizedPosition"] = {
+							["y"] = 0.3470848202705383,
+							["x"] = 0.4311109185218811,
+						},
+					}, -- [6]
+				},
+				["TalentTreeTalents"] = {
+					[326] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 642637,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1139,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The potential power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Final Capacity",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 2000,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 10368000,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 418788,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1137,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The potential power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 0,
+							["name"] = "Expanding Potential",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 1000,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 462300,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+							},
+							["talentRank"] = 0,
+							["id"] = 1138,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The potential power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Growing Power",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 1000,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[314] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3854016,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1068,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to the Crypt of the Forgotten and Wanecrypt Hill, granting access to a special treasure and an enemy champion.",
+							["talentAvailability"] = 7,
+							["name"] = "Flowing Tendrils",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1069,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3854016,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1070,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to the Shrouded Asylum and Dominance Keep, granting access to Venthyr enhancements and an elite foe.",
+							["talentAvailability"] = 8,
+							["name"] = "Flowing Power",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1068,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3854016,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1069,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Allows you to channel anima to the Court of Harvesters and Pridefall Hamlet, granting access to a new World Quest and new Daily Quests.",
+							["talentAvailability"] = 0,
+							["name"] = "Streaming Threads",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[309] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3854020,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1047,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "This mysterious network of ancient mirrors can allow the user to move between various points across Revendreth.\r\n\r\nBy reactivating the network, you initially restore mirrors in The Eternal Terrace and Pridefall Hamlet.",
+							["talentAvailability"] = 7,
+							["name"] = "Mirror, Mirror",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1047,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3854020,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1048,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Restore additional power to the Mirror Network. Doing so opens up more locations to expand your influence across Revendreth.\r\n\r\nDiverting this additional anima to the network will restore mirrors in The Halls of Atonement and The Banewood.",
+							["talentAvailability"] = 0,
+							["name"] = "Looking Glass",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1048,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3854020,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1049,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Your mastery of Mirrors will be complete.\r\n\r\nThis final restoration effort will restore the mirrors in The Feeders' Thicket and Dominance Keep.\r\n\r\nNow at full power the network provides you the ability to find and repair damaged mirrors across Revendreth. Venturing through these special mirrors can lead to new discoveries, and even unique rewards you can only access through these mirrors.\r\n\r\nAdds a portal to Oribos within Sinfall.",
+							["talentAvailability"] = 8,
+							["name"] = "Mirror's Edge",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[317] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1081,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3675495,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1082,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Decreases the time an adventure takes to complete by 25%.",
+							["talentAvailability"] = 8,
+							["name"] = "Superior Efficiency",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "Reduces the travel time on an adventure by 25%.",
+								["id"] = 1273,
+								["isEmptySlot"] = false,
+								["name"] = "Strategic Genius",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["category"] = "Reduced Travel Time",
+								["icon"] = 237451,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1080,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3675495,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 8,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1081,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Increases the rate at which companions naturally heal by 25%.",
+							["talentAvailability"] = 0,
+							["name"] = "Deserved Feast",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "Increases the rate at which adventurers heal by 25%.",
+								["id"] = 1274,
+								["isEmptySlot"] = false,
+								["name"] = "Forward Planning",
+								["isSpecialization"] = false,
+								["counters"] = {
+								},
+								["category"] = "Increased Healing Rate",
+								["icon"] = 237451,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = true,
+							["icon"] = 3675495,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 1,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1080,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Grants access to Adventures and their rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "Tactical Insight",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+					},
+					[324] = {
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1111,
+							["researchDuration"] = 86400,
+							["tier"] = 2,
+							["selected"] = false,
+							["icon"] = 3675493,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 10000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 22,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1114,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Increase the capacity for guests within the Ember Court.\r\n\r\nNow you can expand the guest list, allowing you to invite a third guest to each Ember Court. Increasing your options for earning unique rewards from your guests.",
+							["talentAvailability"] = 5,
+							["name"] = "Court Influencer",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [1]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1111,
+							["researchDuration"] = 86400,
+							["tier"] = 4,
+							["selected"] = false,
+							["icon"] = 3675493,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 15000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 70,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1115,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "The Ember Court reaches its full potential, and the weekly parties are now the talk of all the realms.\r\n\r\nYou are now able to hire five specialist staff who will help you foster the perfect atmosphere in each and every Ember Court event. This gives you the best opportunity yet to earn the best rewards your guests have to offer!",
+							["talentAvailability"] = 5,
+							["name"] = "The Professionals",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [2]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["researchDuration"] = 3600,
+							["tier"] = 0,
+							["selected"] = false,
+							["icon"] = 3675493,
+							["researched"] = true,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 1500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 6,
+								}, -- [2]
+							},
+							["talentRank"] = 1,
+							["id"] = 1111,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Re-establish the Ember Court, and start on a journey to restore it to its former glory. \r\n\r\nHelp Theotar build this new court that will expand the influence of the Venthyr covenant across Revendreth and beyond.",
+							["talentAvailability"] = 7,
+							["name"] = "A New Court",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [3]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1111,
+							["researchDuration"] = 86400,
+							["tier"] = 3,
+							["selected"] = false,
+							["icon"] = 3675493,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 12500,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 40,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1112,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "This infusion of anima continues to build upon the Ember Courts growing reputation. \r\n\r\nAttract the attention of even the most discerning guests, allowing you to invite a fourth guest to each Ember Court. This expands further your opportunities for earning the respect of your guests.",
+							["talentAvailability"] = 5,
+							["name"] = "Discerning Taste",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [4]
+						{
+							["isBeingResearched"] = false,
+							["talentMaxRank"] = 1,
+							["perkSpellID"] = 0,
+							["prerequisiteTalentID"] = 1111,
+							["researchDuration"] = 43200,
+							["tier"] = 1,
+							["selected"] = false,
+							["icon"] = 3675493,
+							["researched"] = false,
+							["type"] = 0,
+							["researchCurrencyCosts"] = {
+								{
+									["currencyType"] = 1813,
+									["currencyQuantity"] = 5000,
+								}, -- [1]
+								{
+									["currencyType"] = 1810,
+									["currencyQuantity"] = 12,
+								}, -- [2]
+							},
+							["talentRank"] = 0,
+							["id"] = 1113,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
+							["description"] = "Infuse more anima into the restoration of the Ember Court.\r\n\r\nYou will now be able to create a dredger butler to assist you in hosting the Ember Court.",
+							["talentAvailability"] = 0,
+							["name"] = "Homegrown Help",
+							["startTime"] = 0,
+							["timeRemaining"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["ability"] = {
+								["temporary"] = false,
+								["description"] = "",
+								["id"] = 0,
+								["name"] = "",
+								["isEmptySlot"] = false,
+								["counters"] = {
+								},
+								["isSpecialization"] = false,
+								["icon"] = 0,
+								["isTrait"] = false,
+							},
+						}, -- [5]
+					},
+				},
+				["SoulCurrenciesTotals"] = {
+					[1810] = 31,
+				},
+				["CovenantFeatures"] = {
+					{
+						["garrTalentTreeID"] = 309,
+						["featureType"] = 2,
+					}, -- [1]
+					{
+						["garrTalentTreeID"] = 314,
+						["featureType"] = 1,
+					}, -- [2]
+					{
+						["garrTalentTreeID"] = 317,
+						["featureType"] = 3,
+					}, -- [3]
+					{
+						["garrTalentTreeID"] = 324,
+						["featureType"] = 5,
+					}, -- [4]
+					{
+						["garrTalentTreeID"] = 326,
+						["featureType"] = 4,
+					}, -- [5]
+				},
+			},
+		},
+	},
+}

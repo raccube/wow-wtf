@@ -1,0 +1,25 @@
+VER 3 0000000000000026 "B&W" "ABILITY_CREATURE_CURSED_05"
+/console colorblindshader 7
+/console [mod:shift] colorblindshader 0
+END
+VER 3 000000000000002A "Hop" "136103"
+/run ServerHop_HopForward()
+END
+VER 3 000000000000002C "Pet" "458223"
+#showtooltip
+/pet
+END
+VER 3 000000000000002B "TBE: Random Toy" "inv_misc_dice_02"
+/click TBERandomFavoredToy
+END
+VER 3 000000000000002E "TS0" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 000000000000002F "TS1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 0000000000000029 "Tweet" "1044996"
+/share
+END

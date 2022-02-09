@@ -1,0 +1,12 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "eu-Shibbun-magtheridon"
+RaiderIO_MissingCharacters = {
+	["eu-Wédge-magtheridon"] = true,
+	["eu-Shibbun-magtheridon"] = true,
+	["eu-Goyangi-magtheridon"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil

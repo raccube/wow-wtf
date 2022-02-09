@@ -1,0 +1,15 @@
+Version: 1
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: 3
+Y: -85
+W: 128
+H: 64
+Frame: AltoholicFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 39
+Y: 24
+W: 832
+H: 447

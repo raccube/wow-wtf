@@ -1,0 +1,104 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Ostumu - Magtheridon"] = "Ostumu - Magtheridon",
+		["Haseul - Terokkar"] = "Haseul - Terokkar",
+		["Sonyeo - Magtheridon"] = "Sonyeo - Magtheridon",
+		["Saltycorn - Terokkar"] = "Saltycorn - Terokkar",
+		["Shibbun - Magtheridon"] = "Shibbun - Magtheridon",
+		["Moltenheim - Magtheridon"] = "Moltenheim - Magtheridon",
+		["Gyuri - Magtheridon"] = "Gyuri - Magtheridon",
+		["Jiu - Magtheridon"] = "Jiu - Magtheridon",
+		["Nayeon - Terokkar"] = "Nayeon - Terokkar",
+		["Moltenbeard - Magtheridon"] = "Moltenbeard - Magtheridon",
+		["Gowon - Magtheridon"] = "Gowon - Magtheridon",
+		["Samoshib - Terokkar"] = "Samoshib - Terokkar",
+		["Derpehknight - Terokkar"] = "Derpehknight - Terokkar",
+		["Raccoons - Magtheridon"] = "Raccoons - Magtheridon",
+		["Holyed - Magtheridon"] = "Holyed - Magtheridon",
+	},
+	["profiles"] = {
+		["Ostumu - Magtheridon"] = {
+		},
+		["Haseul - Terokkar"] = {
+		},
+		["Sonyeo - Magtheridon"] = {
+		},
+		["Saltycorn - Terokkar"] = {
+		},
+		["Shibbun - Magtheridon"] = {
+		},
+		["Moltenheim - Magtheridon"] = {
+		},
+		["Gyuri - Magtheridon"] = {
+		},
+		["Jiu - Magtheridon"] = {
+		},
+		["Nayeon - Terokkar"] = {
+		},
+		["Moltenbeard - Magtheridon"] = {
+			["icon_alpha"] = 0.8,
+		},
+		["Gowon - Magtheridon"] = {
+		},
+		["Samoshib - Terokkar"] = {
+		},
+		["Derpehknight - Terokkar"] = {
+		},
+		["Raccoons - Magtheridon"] = {
+		},
+		["Holyed - Magtheridon"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Ostumu - Magtheridon"] = "Ostumu - Magtheridon",
+		["Haseul - Terokkar"] = "Haseul - Terokkar",
+		["Sonyeo - Magtheridon"] = "Sonyeo - Magtheridon",
+		["Saltycorn - Terokkar"] = "Saltycorn - Terokkar",
+		["Shibbun - Magtheridon"] = "Shibbun - Magtheridon",
+		["Moltenheim - Magtheridon"] = "Moltenheim - Magtheridon",
+		["Gyuri - Magtheridon"] = "Gyuri - Magtheridon",
+		["Jiu - Magtheridon"] = "Jiu - Magtheridon",
+		["Nayeon - Terokkar"] = "Nayeon - Terokkar",
+		["Moltenbeard - Magtheridon"] = "Moltenbeard - Magtheridon",
+		["Gowon - Magtheridon"] = "Gowon - Magtheridon",
+		["Samoshib - Terokkar"] = "Samoshib - Terokkar",
+		["Derpehknight - Terokkar"] = "Derpehknight - Terokkar",
+		["Raccoons - Magtheridon"] = "Raccoons - Magtheridon",
+		["Holyed - Magtheridon"] = "Holyed - Magtheridon",
+	},
+	["profiles"] = {
+		["Ostumu - Magtheridon"] = {
+		},
+		["Haseul - Terokkar"] = {
+		},
+		["Sonyeo - Magtheridon"] = {
+		},
+		["Saltycorn - Terokkar"] = {
+		},
+		["Shibbun - Magtheridon"] = {
+		},
+		["Moltenheim - Magtheridon"] = {
+		},
+		["Gyuri - Magtheridon"] = {
+		},
+		["Jiu - Magtheridon"] = {
+		},
+		["Nayeon - Terokkar"] = {
+		},
+		["Moltenbeard - Magtheridon"] = {
+		},
+		["Gowon - Magtheridon"] = {
+		},
+		["Samoshib - Terokkar"] = {
+		},
+		["Derpehknight - Terokkar"] = {
+		},
+		["Raccoons - Magtheridon"] = {
+		},
+		["Holyed - Magtheridon"] = {
+		},
+	},
+}

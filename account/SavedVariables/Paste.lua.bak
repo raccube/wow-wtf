@@ -1,0 +1,119 @@
+
+PasteDB = {
+	["profileKeys"] = {
+		["Ostumu - Magtheridon"] = "Ostumu - Magtheridon",
+		["Haseul - Terokkar"] = "Haseul - Terokkar",
+		["Moltenheim - Magtheridon"] = "Moltenheim - Magtheridon",
+		["Sonyeo - Magtheridon"] = "Sonyeo - Magtheridon",
+		["Saltycorn - Terokkar"] = "Saltycorn - Terokkar",
+		["Samoshib - Terokkar"] = "Samoshib - Terokkar",
+		["Gyuri - Magtheridon"] = "Gyuri - Magtheridon",
+		["Derpehknight - Terokkar"] = "Derpehknight - Terokkar",
+		["Shibbun - Magtheridon"] = "Shibbun - Magtheridon",
+		["Nayeon - Terokkar"] = "Nayeon - Terokkar",
+		["Moltenbeard - Magtheridon"] = "Moltenbeard - Magtheridon",
+		["Gowon - Magtheridon"] = "Gowon - Magtheridon",
+		["Jiu - Magtheridon"] = "Jiu - Magtheridon",
+		["Gahyeon - Magtheridon"] = "Gahyeon - Magtheridon",
+		["Raccoons - Magtheridon"] = "Raccoons - Magtheridon",
+		["Holyed - Magtheridon"] = "Holyed - Magtheridon",
+	},
+	["profiles"] = {
+		["Ostumu - Magtheridon"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Haseul - Terokkar"] = {
+			["loaded"] = true,
+		},
+		["Moltenheim - Magtheridon"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["minimapPos"] = 151.881511184053,
+				["hide"] = true,
+			},
+		},
+		["Sonyeo - Magtheridon"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Saltycorn - Terokkar"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Samoshib - Terokkar"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["minimapPos"] = 139.023859404052,
+			},
+		},
+		["Gyuri - Magtheridon"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Derpehknight - Terokkar"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["minimapPos"] = 16.8921481803255,
+				["hide"] = true,
+			},
+		},
+		["Shibbun - Magtheridon"] = {
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["loaded"] = true,
+			["pos"] = {
+			},
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Nayeon - Terokkar"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["minimapPos"] = 135.083734947085,
+			},
+		},
+		["Moltenbeard - Magtheridon"] = {
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["loaded"] = true,
+			["pos"] = {
+			},
+			["shiftenter"] = true,
+			["minimap"] = {
+				["minimapPos"] = 149.1535033122119,
+			},
+		},
+		["Gowon - Magtheridon"] = {
+			["loaded"] = true,
+		},
+		["Jiu - Magtheridon"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["hide"] = true,
+			},
+			["where"] = "Default",
+			["whispertarget"] = "",
+			["pos"] = {
+			},
+		},
+		["Gahyeon - Magtheridon"] = {
+			["loaded"] = true,
+		},
+		["Raccoons - Magtheridon"] = {
+			["loaded"] = true,
+		},
+		["Holyed - Magtheridon"] = {
+			["loaded"] = true,
+		},
+	},
+}

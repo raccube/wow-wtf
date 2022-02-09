@@ -1,0 +1,175 @@
+---
+RetailPtr: []
+Retail:
+  - flavor: Retail
+    repo_kind: Curse
+    id: "102522"
+    name: Angry Keystones
+  - flavor: Retail
+    repo_kind: Curse
+    id: "6124"
+    name: Auctionator
+  - flavor: Retail
+    repo_kind: Curse
+    id: "1592"
+    name: Bagnon
+  - flavor: Retail
+    repo_kind: Curse
+    id: "2382"
+    name: BigWigs Bossmods
+  - flavor: Retail
+    repo_kind: Curse
+    id: "61284"
+    name: Details! Damage Meter
+  - flavor: Retail
+    repo_kind: Curse
+    id: "276954"
+    name: HandyNotes - Argus
+  - flavor: Retail
+    repo_kind: Curse
+    id: "413922"
+    name: "HandyNotes: Battle for Azeroth"
+  - flavor: Retail
+    repo_kind: Curse
+    id: "363739"
+    name: "HandyNotes: Shadowlands"
+  - flavor: Retail
+    repo_kind: Curse
+    id: "286675"
+    name: Instance Achievement Tracker
+  - flavor: Retail
+    repo_kind: Curse
+    id: "4383"
+    name: LittleWigs
+  - flavor: Retail
+    repo_kind: Curse
+    id: "311718"
+    name: Narcissus
+  - flavor: Retail
+    repo_kind: Curse
+    id: "4646"
+    name: Pawn
+  - flavor: Retail
+    repo_kind: Curse
+    id: "30801"
+    name: Rarity
+  - flavor: Retail
+    repo_kind: Curse
+    id: "18808"
+    name: TomTom
+  - flavor: Retail
+    repo_kind: Curse
+    id: "87878"
+    name: Toy Box Enhanced
+  - flavor: Retail
+    repo_kind: Curse
+    id: "26886"
+    name: TradeSkillMaster
+  - flavor: Retail
+    repo_kind: Curse
+    id: "102911"
+    name: Twitch Emotes v2
+  - flavor: Retail
+    repo_kind: Curse
+    id: "65387"
+    name: WeakAuras
+  - flavor: Retail
+    repo_kind: Curse
+    id: "299824"
+    name: Adventure Guide Lockouts
+  - flavor: Retail
+    repo_kind: Curse
+    id: "384785"
+    name: Altoholic
+  - flavor: Retail
+    repo_kind: Curse
+    id: "313543"
+    name: BestKeystone
+  - flavor: Retail
+    repo_kind: Curse
+    id: "50688"
+    name: BigWigs_BurningCrusade
+  - flavor: Retail
+    repo_kind: Curse
+    id: "45694"
+    name: BigWigs_Cataclysm
+  - flavor: Retail
+    repo_kind: Curse
+    id: "50625"
+    name: BigWigs_Classic
+  - flavor: Retail
+    repo_kind: Curse
+    id: "86782"
+    name: BigWigs_MistsOfPandaria
+  - flavor: Retail
+    repo_kind: Curse
+    id: "50417"
+    name: BigWigs_WrathOfTheLichKing
+  - flavor: Retail
+    repo_kind: Curse
+    id: "15766"
+    name: Crap Away!
+  - flavor: Retail
+    repo_kind: Curse
+    id: "14154"
+    name: HandyNotes
+  - flavor: Retail
+    repo_kind: Curse
+    id: "257550"
+    name: Immersion
+  - flavor: Retail
+    repo_kind: Curse
+    id: "2489"
+    name: MapCoords
+  - flavor: Retail
+    repo_kind: Curse
+    id: "440246"
+    name: NPC Time
+  - flavor: Retail
+    repo_kind: Curse
+    id: "19625"
+    name: NPCScan
+  - flavor: Retail
+    repo_kind: Curse
+    id: "86005"
+    name: O Item Level (OiLvL)
+  - flavor: Retail
+    repo_kind: Curse
+    id: "19406"
+    name: OPie​
+  - flavor: Retail
+    repo_kind: Curse
+    id: "264258"
+    name: Paragon Reputation
+  - flavor: Retail
+    repo_kind: Curse
+    id: "47256"
+    name: Paste
+  - flavor: Retail
+    repo_kind: Curse
+    id: "42609"
+    name: PetJournal Enhanced
+  - flavor: Retail
+    repo_kind: Curse
+    id: "294032"
+    name: Simple Armory
+  - flavor: Retail
+    repo_kind: Curse
+    id: "82745"
+    name: Simulationcraft
+  - flavor: Retail
+    repo_kind: Curse
+    id: "498644"
+    name: Venture Plan
+  - flavor: Retail
+    repo_kind: WowI
+    id: "26117"
+    name: VenturePlanSoDMissions
+  - flavor: Retail
+    repo_kind: Curse
+    id: "310966"
+    name: handynotes_DMF (Darkmoon Faire)
+  - flavor: Retail
+    repo_kind: Curse
+    id: "24541"
+    name: idTip

@@ -1,0 +1,38 @@
+VER 3 01000000000000AD "EE" "ABILITY_HUNTER_EAGLEEYE"
+#showtooltip
+/cast !eagle eye
+END
+VER 3 01000000000000B4 "Embers" "460952"
+#showtooltip
+/castsequence [@cursor] reset=combat Tar Trap, Flare
+END
+VER 3 01000000000000B2 "FD" "132293"
+#showtooltip "Feign Death"
+/cast Feign Death
+/cast [mod:alt] Play Dead
+END
+VER 3 01000000000000B1 "Glider" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 15
+END
+VER 3 01000000000000B6 "InterruptFocus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Counter Shot
+END
+VER 3 01000000000000B7 "Nitro" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 6
+END
+VER 3 01000000000000B3 "Spook" "132118"
+#showtooltip Scare Beast
+/cast [@cursor] Scare Beast
+END
+VER 3 01000000000000B0 "Turt" "132199"
+#showtooltip
+/cast Aspect of the Turtle
+/script PlaySound(109068)
+END
+VER 3 01000000000000B5 "WS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Wild Spirits
+END

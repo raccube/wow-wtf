@@ -1,0 +1,159 @@
+
+ToyBoxEnhancedSettings = {
+	["hiddenToys"] = {
+	},
+	["favoredToys"] = {
+	},
+	["favoritePerChar"] = false,
+	["enableCursorKeys"] = true,
+	["searchInDescription"] = true,
+	["sort"] = {
+		["favoritesFirst"] = true,
+		["unownedAtLast"] = false,
+		["descending"] = false,
+		["by"] = "name",
+	},
+	["filter"] = {
+		["expansion"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+			true, -- [6]
+			true, -- [7]
+			true, -- [8]
+			[0] = true,
+		},
+		["source"] = {
+			["Black Market"] = true,
+			["Pick Pocket"] = true,
+			["Instance"] = true,
+			["Promotion"] = true,
+			["Vendor"] = true,
+			["Shop"] = true,
+			["Achievement"] = true,
+			["Treasure"] = true,
+			["Order Hall"] = true,
+			["Drop"] = true,
+			["Garrison"] = true,
+			["PvP"] = true,
+			["Quest"] = true,
+			["Reputation"] = true,
+		},
+		["effect"] = {
+			["Appearance"] = {
+				["Smaller"] = true,
+				["Pennant"] = true,
+				["Minor"] = true,
+				["Color"] = true,
+				["Full"] = true,
+				["Bigger"] = true,
+			},
+			["Critter"] = {
+				["Nearby"] = true,
+				["Summon"] = true,
+			},
+			["Interactable"] = {
+				["Chair"] = true,
+				["Clickable"] = true,
+				["Mail"] = true,
+				["NPC"] = true,
+				["Target Dummy"] = true,
+			},
+			["Battle Pet"] = true,
+			["PVP"] = {
+				["Taunt"] = true,
+				["Dismount"] = true,
+				["Ashran"] = true,
+				["Transform"] = true,
+			},
+			["Controller"] = {
+				["Tonk"] = true,
+				["Vision"] = true,
+				["Aircraft"] = true,
+			},
+			["Transportation"] = {
+				["Fly/Fall"] = true,
+				["Running"] = true,
+				["Swimming"] = true,
+				["Hearthstone"] = true,
+				["Teleport"] = true,
+				["Water Walking"] = true,
+				["Jump"] = true,
+				["Flight Path"] = true,
+			},
+			["Consumable"] = {
+				["Food/Water"] = true,
+				["Alcohol"] = true,
+				["Other"] = true,
+			},
+			["Perception"] = true,
+			["Environment"] = {
+				["Clone"] = true,
+				["Firework"] = true,
+				["Weather"] = true,
+				["Banner"] = true,
+				["Ground"] = true,
+			},
+			["Profession"] = {
+				["Jewelcrafting"] = true,
+				["Cooking"] = true,
+				["Skinning"] = true,
+				["Fishing"] = true,
+			},
+			["Game"] = {
+				["Solo"] = true,
+				["Co-op"] = true,
+			},
+			["Sound"] = {
+				["Music"] = true,
+				["Voice"] = true,
+				["Effect"] = true,
+			},
+			["Emote"] = {
+				["Corpse"] = true,
+				["Statue"] = true,
+				["Roll"] = true,
+				["Act"] = true,
+			},
+		},
+		["notCollected"] = true,
+		["secret"] = false,
+		["onlyFavorites"] = false,
+		["faction"] = {
+			["horde"] = true,
+			["alliance"] = true,
+			["noFaction"] = true,
+		},
+		["onlyUsable"] = false,
+		["worldEvent"] = {
+			["Pirates' Day"] = true,
+			["Noblegarden"] = true,
+			["Lunar Festival"] = true,
+			["Darkmoon Faire"] = true,
+			["Pilgrim's Bounty"] = true,
+			["Children's Week"] = true,
+			["Hallow's End"] = true,
+			["Day of the Dead"] = true,
+			["Feast of Winter Veil"] = true,
+			["Love is in the Air"] = true,
+			["Midsummer Fire Festival"] = true,
+			["Timewalking"] = true,
+			["Brewfest"] = true,
+		},
+		["collected"] = true,
+		["profession"] = {
+			["Cooking"] = true,
+			["Inscription"] = true,
+			["Archaeology"] = true,
+			["Jewelcrafting"] = true,
+			["Fishing"] = true,
+			["Leatherworking"] = true,
+			["Engineering"] = true,
+			["Enchanting"] = true,
+		},
+		["hidden"] = false,
+	},
+	["debugMode"] = false,
+}

@@ -1,0 +1,31 @@
+
+HandyNotes_DMF_basicDB = {
+	["profileKeys"] = {
+		["Sonyeo - Magtheridon"] = "Sonyeo - Magtheridon",
+		["Haseul - Terokkar"] = "Haseul - Terokkar",
+		["Jiu - Magtheridon"] = "Jiu - Magtheridon",
+		["Gowon - Magtheridon"] = "Gowon - Magtheridon",
+		["Saltycorn - Terokkar"] = "Saltycorn - Terokkar",
+		["Shibbun - Magtheridon"] = "Shibbun - Magtheridon",
+		["Samoshib - Terokkar"] = "Samoshib - Terokkar",
+		["Moltenheim - Magtheridon"] = "Moltenheim - Magtheridon",
+	},
+	["profiles"] = {
+		["Sonyeo - Magtheridon"] = {
+		},
+		["Haseul - Terokkar"] = {
+		},
+		["Jiu - Magtheridon"] = {
+		},
+		["Gowon - Magtheridon"] = {
+		},
+		["Saltycorn - Terokkar"] = {
+		},
+		["Shibbun - Magtheridon"] = {
+		},
+		["Samoshib - Terokkar"] = {
+		},
+		["Moltenheim - Magtheridon"] = {
+		},
+	},
+}

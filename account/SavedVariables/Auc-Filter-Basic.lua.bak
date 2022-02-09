@@ -1,0 +1,11 @@
+
+AucAdvancedFilterBasic_IgnoreList = {
+	["Magtheridon"] = {
+		["List"] = {
+		},
+	},
+	["Terokkar"] = {
+		["List"] = {
+		},
+	},
+}

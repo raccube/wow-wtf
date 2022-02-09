@@ -1,0 +1,100 @@
+
+AucScanData = {
+	["Version"] = 1.4,
+	["scans"] = {
+		["#Terokkar"] = {
+			["scanstats"] = {
+				{
+					["serverKey"] = "#Terokkar",
+					["source"] = "scan",
+					["matchedCount"] = 0,
+					["sameCount"] = 0,
+					["expiredDeleteCount"] = 0,
+					["missedCount"] = 0,
+					["query"] = {
+						["qryinfo"] = {
+							["serverKey"] = "#Terokkar",
+							["id"] = 0,
+							["sig"] = "nat pagle's guide to extreme anglin'######",
+							["scanSize"] = "Partial",
+							["page"] = 0,
+							["finished"] = true,
+						},
+						["name"] = "nat pagle's guide to extreme anglin'",
+						["pageIncomplete"] = false,
+					},
+					["startTime"] = 1576363014,
+					["updateCount"] = 0,
+					["oldCount"] = 0,
+					["earlyDeleteCount"] = 0,
+					["started"] = 171845.374,
+					["endTime"] = 1576363014,
+					["filteredCount"] = 0,
+					["wasIncomplete"] = false,
+					["currentCount"] = 11,
+					["ended"] = 171845.908,
+					["newCount"] = 11,
+					["paused"] = 0,
+					["storeTime"] = 0,
+					["wasGetAll"] = false,
+					["scanCount"] = 11,
+					["elapsed"] = 0.5339999999850988,
+					["scanStoreTime"] = 0.4169999999867287,
+				}, -- [1]
+				["LastScan"] = 1576363018,
+				[0] = {
+					["serverKey"] = "#Terokkar",
+					["source"] = "scan",
+					["matchedCount"] = 9,
+					["sameCount"] = 9,
+					["expiredDeleteCount"] = 0,
+					["missedCount"] = 0,
+					["query"] = {
+						["qryinfo"] = {
+							["serverKey"] = "#Terokkar",
+							["id"] = 1,
+							["sig"] = "nat pagle's guide to extreme anglin'#####1#",
+							["scanSize"] = "Partial",
+							["page"] = 0,
+							["finished"] = true,
+						},
+						["pageIncomplete"] = false,
+						["name"] = "nat pagle's guide to extreme anglin'",
+						["exactMatch"] = true,
+					},
+					["startTime"] = 1576363018,
+					["updateCount"] = 0,
+					["oldCount"] = 11,
+					["earlyDeleteCount"] = 0,
+					["started"] = 171849.744,
+					["endTime"] = 1576363018,
+					["filteredCount"] = 0,
+					["wasIncomplete"] = false,
+					["currentCount"] = 11,
+					["ended"] = 171850.328,
+					["newCount"] = 0,
+					["paused"] = 0,
+					["storeTime"] = 0,
+					["wasGetAll"] = false,
+					["scanCount"] = 9,
+					["elapsed"] = 0.5840000000025611,
+					["scanStoreTime"] = 0.467000000004191,
+				},
+				["ImageUpdated"] = 1576363018,
+			},
+			["image"] = "rope",
+			["ropes"] = {
+				"return {{\"|cffffffff|Hitem:18365::::::::80:::::::|h[A Thoroughly Read Copy of \\\"Nat Pagle's Guide to Extreme Anglin'.\\\"]|h|r\",1,15,0,nil,304000000,4,1576363014,\"A Thoroughly Read Copy of \\\"Nat Pagle's Guide to Extreme Anglin'.\\\"\",nil,1,1,true,1,304000000,0,320000000,0,false,\"Bherlana\",0,\"\",18365,0,0,0,0,},{\"|cffffffff|Hitem:18365::::::::80:::::::|h[A Thoroughly Read Copy of \\\"Nat Pagle's Guide to Extreme Anglin'.\\\"]|h|r\",1,15,0,nil,482491774,4,1576363014,\"A Thoroughly Read Copy of \\\"Nat Pagle's Guide to Extreme Anglin'.\\\"\",nil,1,1,true,1,482491774,0,497414200,0,false,\"Zují\",0,\"\",18365,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,14999999,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,14999999,0,14999999,0,false,\"Ziljani\",0,\"\",18229,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,14250000,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,14250000,0,15000000,0,false,\"Furíous\",0,\"\",18229,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,14250000,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,14250000,0,15000000,0,false,\"Furíous\",0,\"\",18229,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,14250000,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,14250000,0,15000000,0,false,\"Furíous\",0,\"\",18229,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,65639191,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,65639191,0,69093886,0,false,\"Dispatcheret\",0,\"\",18229,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,65639191,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,65639191,0,69093886,0,false,\"Dispatcheret\",0,\"\",18229,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,69093986,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,69093986,0,69093986,0,false,\"Gríps\",0,\"\",18229,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,69093986,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,69093986,0,69093986,0,false,\"Gríps\",0,\"\",18229,0,0,0,0,},{\"|cffffffff|Hitem:18229::::::::80:::::::|h[Nat Pagle's Guide to Extreme Anglin']|h|r\",1,15,0,nil,140052990,4,1576363018,\"Nat Pagle's Guide to Extreme Anglin'\",nil,1,1,true,1,140052990,0,147424200,0,false,\"Zují\",0,\"\",18229,0,0,0,0,},}", -- [1]
+			},
+		},
+		["Magtheridon"] = {
+			["scanstats"] = {
+				["ImageUpdated"] = 1575499281,
+			},
+			["image"] = "rope",
+			["ropes"] = {
+				"return {}", -- [1]
+			},
+		},
+	},
+}

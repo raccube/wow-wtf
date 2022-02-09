@@ -1,0 +1,17 @@
+
+HandyNotes_BattleForAzerothDB = {
+	["profileKeys"] = {
+		["Sonyeo - Magtheridon"] = "Default",
+		["Haseul - Terokkar"] = "Default",
+		["Jiu - Magtheridon"] = "Default",
+		["Gowon - Magtheridon"] = "Default",
+		["Saltycorn - Terokkar"] = "Default",
+		["Shibbun - Magtheridon"] = "Default",
+		["Samoshib - Terokkar"] = "Default",
+		["Moltenheim - Magtheridon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

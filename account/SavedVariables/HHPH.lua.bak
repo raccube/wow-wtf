@@ -1,0 +1,38 @@
+
+VHHPH = {
+	["C"] = {
+		"---------RRGWGG+xYGYRGY---------", -- [1]
+		"--------GoGWYWWRRRY+RRY+--------", -- [2]
+		"-------YWRWYGRGWYRYYYG+oG-------", -- [3]
+		"------WRRGYG+oYGRYGGRGGRYR------", -- [4]
+		"-----RGoRGGYYRRWYW+GWWRxYxY-----", -- [5]
+		"----WRGY+R+RxRRxRGo+WRYWRxxG----", -- [6]
+		"---+RWRW+RRxWWxRY+GYGRGWGYWGo---", -- [7]
+		"--+GGYGYWYRYWYGYRYxWWGRGYWWGYY--", -- [8]
+		"-++YYGRWGWGG+WG+GoYxRYRRGWGoYGR-", -- [9]
+		"WxGYYRYoGRRRWxWYGWWW+YoWoYGRYWYY", -- [10]
+		"YoYoY+RYGGGGYWGGGWWGY+oWRWWRYWxG", -- [11]
+		"WxRYWRYRYRRRY------xRRGWoGYYG+GW", -- [12]
+		"GRRxRo+WGWWY--------GoWGoYWGGYRW", -- [13]
+		"RGGW+GxG+YR----------GRYGRWoWYG+", -- [14]
+		"WYYRYoGoGGR----------GWGYYRWW+GY", -- [15]
+		"RG+RRWRWYGG----------RRGRRGxYxYY", -- [16]
+		"WxGWGRRWGRR----------RRR+WRWRRYW", -- [17]
+		"WGGGGRW+RYG----------WWRR+YWWRWW", -- [18]
+		"WGGYWYxGYRW----------YGYRYRG+oYW", -- [19]
+		"+WRWRGRGGx+W--------+RYYW+YRWx+W", -- [20]
+		"WYGxGYRYxGWWY------RYoxW++GWGRGR", -- [21]
+		"WRGYYRY+GYGYGG+RGWRYGYRRYGW+GWYx", -- [22]
+		"GGRYWGRYRYGYGWxRYRWxGRRGWG+xYWRR", -- [23]
+		"-WG+GRGRYGYYGGWW+xR+RoYRWYGRWWR-", -- [24]
+		"--RRWYYRYYWWGRGWYRWRGWRRWR+WGo--", -- [25]
+		"---YWRWoR+WWRGxWWGRW+RYGWRWGR---", -- [26]
+		"----GRWxGRWGRRYWWRYR+WWGGRYW----", -- [27]
+		"-----xGWGG+xRWWRGGRGWRRRYxR-----", -- [28]
+		"------YRGGoR+xRYoGWRYRRWYY------", -- [29]
+		"-------YYGYWG+RRxYoWRGWGW-------", -- [30]
+		"--------YGRWGYRYRR+WWxWR--------", -- [31]
+		"---------WY+WGRW+RWRRGW---------", -- [32]
+	},
+	["V"] = 3,
+}

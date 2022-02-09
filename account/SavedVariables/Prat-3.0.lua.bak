@@ -1,0 +1,156 @@
+
+Prat3DB = {
+	["namespaces"] = {
+		["Prat_TellTarget"] = {
+		},
+		["Prat_AltNames"] = {
+		},
+		["Prat_PlayerNames"] = {
+			["profiles"] = {
+				["Default"] = {
+					["level"] = false,
+					["showtargeticon"] = true,
+				},
+			},
+		},
+		["Prat_Memory"] = {
+		},
+		["Prat_Frames"] = {
+			["profiles"] = {
+				["Default"] = {
+					["minchatwidthdefault"] = 296,
+					["maxchatheightdefault"] = 400,
+					["maxchatwidthdefault"] = 608,
+					["initialized"] = true,
+				},
+			},
+		},
+		["Prat_ChannelColorMemory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colors"] = {
+						["lookingforgroup"] = {
+							["r"] = 1,
+							["g"] = 0.7529412508010864,
+							["b"] = 0.7529412508010864,
+						},
+					},
+				},
+			},
+		},
+		["Prat_Editbox"] = {
+		},
+		["Prat_Fading"] = {
+		},
+		["Prat_ChannelSticky"] = {
+		},
+		["Prat_UrlCopy"] = {
+		},
+		["Prat_Font"] = {
+		},
+		["Prat_Bubbles"] = {
+			["profiles"] = {
+				["Default"] = {
+					["font"] = false,
+				},
+			},
+		},
+		["Prat_ChannelNames"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shortnames"] = {
+						["yell"] = "",
+						["say"] = "",
+					},
+				},
+			},
+		},
+		["Prat_KeyBindings"] = {
+		},
+		["Prat_Timestamps"] = {
+			["profiles"] = {
+				["Default"] = {
+					["formatpre"] = "",
+					["formatcode"] = "%I:%M %p",
+					["formatpost"] = "",
+				},
+			},
+		},
+		["Prat_Scroll"] = {
+		},
+		["Prat_Mentions"] = {
+		},
+		["Prat_Achievements"] = {
+			["profiles"] = {
+				["Default"] = {
+					["showGratsLink"] = true,
+					["showCompletedDate"] = false,
+				},
+			},
+		},
+		["Prat_Sounds"] = {
+		},
+		["Prat_Alias"] = {
+		},
+		["Prat_OriginalButtons"] = {
+		},
+		["Prat_Highlight"] = {
+		},
+		["Prat_PopupMessage"] = {
+		},
+		["Prat_Paragraph"] = {
+		},
+		["Prat_Invites"] = {
+		},
+		["Prat_History"] = {
+			["profiles"] = {
+				["Default"] = {
+					["chatlinesframes"] = {
+						["ChatFrame1"] = false,
+					},
+				},
+			},
+		},
+		["Prat_CopyChat"] = {
+		},
+		["Prat_ChatLog"] = {
+		},
+		["Prat_Search"] = {
+		},
+		["Prat_Buttons"] = {
+		},
+		["Prat_ServerNames"] = {
+		},
+		["Prat_HoverTips"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Ostumu - Magtheridon"] = "Default",
+		["Sonyeo - Magtheridon"] = "Default",
+		["Saltycorn - Terokkar"] = "Default",
+		["Shibbun - Magtheridon"] = "Default",
+		["Holyed - Magtheridon"] = "Default",
+		["Samoshib - Terokkar"] = "Default",
+		["Moltenbeard - Magtheridon"] = "Default",
+		["Jiu - Magtheridon"] = "Default",
+		["Gowon - Magtheridon"] = "Default",
+		["Derpehknight - Terokkar"] = "Default",
+		["Raccoons - Magtheridon"] = "Default",
+		["Moltenheim - Magtheridon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["ChatLog"] = 2,
+				["Mentions"] = 2,
+				["PopupMessage"] = 2,
+				["AltNames"] = 2,
+				["Sounds"] = 2,
+				["Paragraph"] = 2,
+				["KeyBindings"] = 2,
+				["OriginalButtons"] = 2,
+				["Alias"] = 2,
+			},
+		},
+	},
+}

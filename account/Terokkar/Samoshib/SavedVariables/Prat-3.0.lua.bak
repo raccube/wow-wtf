@@ -1,0 +1,5849 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1589991599,
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame11"] = {
+			["maxElements"] = 128,
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h03:59 PM|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq7|k:6:190:BN_WHISPER:|Kq7|k:FishFlab#2241|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq7|k|r|h|cffd8d8d8]|r: done",
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						23, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9647059440612793,
+					["serverTime"] = 1599922773,
+					["timestamp"] = 28271.438,
+					["g"] = 1,
+					["r"] = 0,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h03:59 PM|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq7|k:6:192:BN_WHISPER:|Kq7|k:FishFlab#2241|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq7|k|r|h|cffd8d8d8]|r: |Hachievement:13161:Player-633-0A686418:1:9:12:20:4294967295:4294967295:4294967295:4294967295|h[Allied Races: Zandalari Troll]|h",
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						23, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.9647059440612793,
+					["serverTime"] = 1599922780,
+					["timestamp"] = 28271.438,
+					["g"] = 1,
+					["r"] = 0,
+				}, -- [2]
+			},
+			["headIndex"] = 2,
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 177,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Experience gained: 8470.",
+					["serverTime"] = 1611338184,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3785.072,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Received 23 Gold, 40 Silver.",
+					["serverTime"] = 1611338184,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3785.072,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r The Afflictor's Key completed.",
+					["serverTime"] = 1611338185,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3786.422,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Experience gained: 8470.",
+					["serverTime"] = 1611338185,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3786.422,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Received 23 Gold, 40 Silver.",
+					["serverTime"] = 1611338185,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3786.422,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Lady Jaina Proudmoore says: My ability to teleport is limited here, but I should be able to open a portal back to my staff's location.",
+					["serverTime"] = 1611338186,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3787.28,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Quest accepted: From the Mouths of Madness",
+					["serverTime"] = 1611338186,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3787.374,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Lady Jaina Proudmoore says: We should move quickly. Are you fit to travel?",
+					["serverTime"] = 1611338188,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3789.266,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Anduin Wrynn says: I will be fine once this place is behind us. Lead on.",
+					["serverTime"] = 1611338193,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3793.975,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Anduin Wrynn says: Those wounds look serious, Thrall. Let me tend them.",
+					["serverTime"] = 1611338199,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3800.306,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Thrall says: Thank you, Anduin. It will feel good to be back at full strength.",
+					["serverTime"] = 1611338203,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3804.077,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Highlord Darion Mograine says: Speak! How do we leave this place?",
+					["serverTime"] = 1611338210,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3810.863,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Tormented Amalgamation says: Futile! The path... sealed... long ago...",
+					["serverTime"] = 1611338213,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3814.582,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Highlord Darion Mograine says: So there is a way out! Tell us where to find it!",
+					["serverTime"] = 1611338222,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3823.274,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Tormented Amalgamation says: Waystone... at the Cauldron... perhaps...",
+					["serverTime"] = 1611338226,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3827.379,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Tormented Amalgamation says: No! Dormant... broken!",
+					["serverTime"] = 1611338234,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3835.62,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Tormented Amalgamation says: Nothing... escapes.... the Maw...",
+					["serverTime"] = 1611338241,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3842.529,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Highlord Darion Mograine says: Could you make sense of what it said, Lord Admiral?",
+					["serverTime"] = 1611338250,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3851.433,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Lady Jaina Proudmoore says: The Cauldron it spoke of lies beyond the River of Souls. I believe Baine is being held captive there.",
+					["serverTime"] = 1611338259,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3860.35,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Highlord Darion Mograine says: Then it seems our course is clear.",
+					["serverTime"] = 1611338262,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3863.49,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r From the Mouths of Madness completed.",
+					["serverTime"] = 1611338270,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3871.27,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Experience gained: 4235.",
+					["serverTime"] = 1611338270,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3871.27,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Received 11 Gold, 70 Silver.",
+					["serverTime"] = 1611338270,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3871.27,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Highlord Darion Mograine says: We cannot leave these innocent souls alone to their fate.",
+					["serverTime"] = 1611338271,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3872.549,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:57 PM|h|r Quest accepted: By and Down the River",
+					["serverTime"] = 1611338273,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3874.207,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r |cffe8608fVendorer|r |cfff0543eLost|r 9|TInterface\\MoneyFrame\\UI-GoldIcon:14:14:2:0|t 13|TInterface\\MoneyFrame\\UI-SilverIcon:14:14:2:0|t 25|TInterface\\MoneyFrame\\UI-CopperIcon:14:14:2:0|t",
+					["r"] = 1,
+					["serverTime"] = 1611338281,
+					["timestamp"] = 3881.697,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r Lady Jaina Proudmoore says: You're troubled, Thrall. What is it?",
+					["serverTime"] = 1611338287,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3887.707,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r Thrall says: Still no sign of Tyrande. We cannot leave her alone in this nightmare.",
+					["serverTime"] = 1611338290,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3890.865,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r Lady Jaina Proudmoore says: Agreed, but we have no idea how to find her. We will do our best, but this waystone may be our only means of escape.",
+					["serverTime"] = 1611338296,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3897.196,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r Lady Jaina Proudmoore says: If there's a way out of the Maw, then there has to be a way back in. We will return for her.",
+					["serverTime"] = 1611338306,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3906.699,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r Thrall says: Hold. I hear something stirring...",
+					["serverTime"] = 1611338317,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3917.816,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r Helya says: Your wretched souls will feed the coming darkness!",
+					["serverTime"] = 1611338320,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3921.1,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r Lady Jaina Proudmoore says: \"Wretched\"? I heard you were soundly beaten by a force of \"wretched\" champions, witch!",
+					["serverTime"] = 1611338326,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3927.5,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:58 PM|h|r Helya says: You will pay for that insult! The skies of your world will be darkened by the wings of my Mawsworn!",
+					["serverTime"] = 1611338333,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3934.2,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Thrall says: For Azeroth!",
+					["serverTime"] = 1611338343,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3943.833,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Helya says: Drown! Drown among the souls of the damned!",
+					["serverTime"] = 1611338347,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3947.9,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Lady Jaina Proudmoore yells: What is this madness?",
+					["serverTime"] = 1611338356,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3957.128,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Thrall yells: This sound... it's unbearable!",
+					["serverTime"] = 1611338360,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3960.744,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Anduin Wrynn yells: Keep moving!",
+					["serverTime"] = 1611338364,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3965.419,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Thrall says: Look! On the precipice above! Is that...",
+					["serverTime"] = 1611338373,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3974.5,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r By and Down the River completed.",
+					["serverTime"] = 1611338376,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3977.618,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Experience gained: 4235.",
+					["serverTime"] = 1611338376,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3977.618,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Received 11 Gold, 70 Silver.",
+					["serverTime"] = 1611338376,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3977.618,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Congratulations, you have reached |cffFF4E00|Hlevelup:51:LEVEL_UP_TYPE_CHARACTER|h[Level 51]|h|r!",
+					["serverTime"] = 1611338376,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 3977.636,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r New dungeon unlocked: |cff66bbff|Hjournal:0:1182:1|h[The Necrotic Wake]|h|r",
+					["serverTime"] = 1611338376,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 3977.636,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r The Jailer says: Pitiful mortal. I find your spirit...",
+					["serverTime"] = 1611338378,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3978.926,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Anduin Wrynn says: His wounds are mending, but his spirit remains weakened. I've never seen anything like it.",
+					["serverTime"] = 1611338378,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3979.673,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Quest accepted: A Good Axe",
+					["serverTime"] = 1611338381,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3982.164,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Quest accepted: Wounds Beyond Flesh",
+					["serverTime"] = 1611338385,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3986.375,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:59 PM|h|r Thrall says: A crossbow? I prefer to strike my enemies face to face.",
+					["serverTime"] = 1611338397,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3998.666,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r Thrall says: I suppose it's got heft to it. Let's see what else we can find, though.",
+					["serverTime"] = 1611338403,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4004.415,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r You loot 1 Gold, 59 Silver, 47 Copper",
+					["serverTime"] = 1611338425,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4026.667,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r Thrall says: I've never been one for staves, but at least it won't break in a melee.",
+					["serverTime"] = 1611338434,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4034.997,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r Thrall says: Let's keep looking.",
+					["serverTime"] = 1611338439,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4040.606,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r Thrall says: A serviceable weapon. Though I've never understood why the Alliance seems so fixated with swords.",
+					["serverTime"] = 1611338447,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4047.782,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r You receive loot: |cff1eff00|Hitem:173204::::::::51:258:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1611338450,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4051.247,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r You loot 1 Gold, 35 Silver, 81 Copper",
+					["serverTime"] = 1611338451,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4052.1,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r Thrall says: Too much blade, not enough haft.",
+					["serverTime"] = 1611338453,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4054.38,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:00 PM|h|r Thrall says: Hmph. Too long a handle.",
+					["serverTime"] = 1611338459,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4059.904,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r Thrall says: Better than nothing, I suppose. Let's take one more look.",
+					["serverTime"] = 1611338462,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4063.529,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r You receive loot: |cff9d9d9d|Hitem:184392::::::::51:258:::::::|h[Fizzled Ritual Scroll]|h|r.",
+					["serverTime"] = 1611338471,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4071.892,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r You loot 1 Gold, 12 Silver, 70 Copper",
+					["serverTime"] = 1611338472,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4072.913,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r Thrall says: At last, a proper warrior's weapon!",
+					["serverTime"] = 1611338479,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4080.286,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r A Good Axe completed.",
+					["serverTime"] = 1611338482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4082.733,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r Experience gained: 8470.",
+					["serverTime"] = 1611338482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4082.733,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r Received 23 Gold, 40 Silver.",
+					["serverTime"] = 1611338482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4082.733,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r Thrall says: If the Jailer comes, he will taste my steel!",
+					["serverTime"] = 1611338484,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4084.826,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r |cffd8d8d8[|r|Hplayer:Zaex-Saurfang:715|h|cfffe7b09Zaex|r-|cff757827Sau|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1611338486,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4086.953,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:01 PM|h|r |cffd8d8d8[|r|Hplayer:Eristel-Saurfang:716|h|cfffefefeEristel|r-|cff757827Sau|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1611338501,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4101.956,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r You receive loot: |cffffffff|Hitem:180050::::::::51:258:::::::|h[Wither Blade]|h|r.",
+					["serverTime"] = 1611338522,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4123.082,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r You receive loot: |cffffffff|Hitem:173202::::::::51:258:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1611338522,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4123.082,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Thrall says: This must be the dagger. Baine's blood still stains its blade.",
+					["serverTime"] = 1611338522,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4123.454,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r You loot 2 Gold, 64 Silver, 77 Copper",
+					["serverTime"] = 1611338523,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4124.089,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Wounds Beyond Flesh completed.",
+					["serverTime"] = 1611338524,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4125.438,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Experience gained: 8470.",
+					["serverTime"] = 1611338524,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4125.438,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Received 23 Gold, 40 Silver.",
+					["serverTime"] = 1611338524,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4125.438,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Quest accepted: Draw Out the Darkness",
+					["serverTime"] = 1611338525,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4126.308,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Thrall says: When I break the blade, be prepared for whatever comes.",
+					["serverTime"] = 1611338538,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4139.54,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Anduin Wrynn says: This curse is tearing his soul apart!",
+					["serverTime"] = 1611338549,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4150.362,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Anduin Wrynn says: You must defeat it, quickly!",
+					["serverTime"] = 1611338551,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4152.365,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Lady Jaina Proudmoore says: Hold on, Baine! Do not let the Jailer take you!",
+					["serverTime"] = 1611338559,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4160.026,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r |cffd8d8d8[|r|Hplayer:Ant-Darkspear:732:GUILD|h|cffc31d39Ant|r-|cffe24ef0Dar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14326:Player-633-0A66A1AE:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Spires of Ascension]|h|r |cff2080a0|Hgratsl:Ant:GUILD::14326|h[say grats]|h|r!",
+					["serverTime"] = 1611338559,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4160.552,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r |cffd8d8d8[|r|Hplayer:Ant-Darkspear:733:GUILD|h|cffc31d39Ant|r-|cffe24ef0Dar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14324:Player-633-0A66A1AE:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Spires of Ascension]|h|r |cff2080a0|Hgratsl:Ant:GUILD::14324|h[say grats]|h|r!",
+					["serverTime"] = 1611338559,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4160.552,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r |cffd8d8d8[|r|Hplayer:Bifforc-Saurfang:734:GUILD|h|cffc59a6cBifforc|r-|cff757827Sau|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14412:Player-633-0A828376:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Mists of Tirna Scithe]|h|r |cff2080a0|Hgratsl:Bifforc:GUILD::14412|h[say grats]|h|r!",
+					["serverTime"] = 1611338562,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4163.413000000001,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Anduin Wrynn says: I think he's coming to.",
+					["serverTime"] = 1611338569,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4169.785,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Anduin Wrynn says: Baine, can you hear me?",
+					["serverTime"] = 1611338570,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4171.667,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:02 PM|h|r Baine Bloodhoof says: Anduin? I thought my end had come...",
+					["serverTime"] = 1611338573,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4174.495,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Thrall says: It almost did, were it not for this champion.",
+					["serverTime"] = 1611338581,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4181.927,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Baine Bloodhoof says: Then you have my eternal gratitude, Samoshib.",
+					["serverTime"] = 1611338585,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4186.251,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Draw Out the Darkness completed.",
+					["serverTime"] = 1611338596,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4196.888,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Experience gained: 8470.",
+					["serverTime"] = 1611338596,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4196.888,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Received 23 Gold, 40 Silver.",
+					["serverTime"] = 1611338596,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4196.888,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Lady Jaina Proudmoore says: I wish we had more time for you to recover, but we need to move.",
+					["serverTime"] = 1611338596,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4197.04,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Quest accepted: The Path to Salvation",
+					["serverTime"] = 1611338599,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4200.277,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Thrall says: We seek a waystone located beyond the Cauldron. Have you seen it?",
+					["serverTime"] = 1611338600,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4201.532,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Baine Bloodhoof says: I spotted an obelisk of ancient stone upon the high ridge.",
+					["serverTime"] = 1611338606,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4206.998000000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Baine Bloodhoof says: It did not seem important. The Jailer's forces pay it little heed. What do you think it is?",
+					["serverTime"] = 1611338613,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4213.796,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:03 PM|h|r Lady Jaina Proudmoore says: Our way out of here--we hope.",
+					["serverTime"] = 1611338622,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4223.045,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:04 PM|h|r |cffa9d271Nagal|r-Saurfang has gone offline.",
+					["serverTime"] = 1611338663,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4264.112,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:04 PM|h|r |cfffefefeEristel|r-Saurfang has gone offline.",
+					["serverTime"] = 1611338684,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4285.58,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:04 PM|h|r Baine Bloodhoof says: The Jailer's forces seem endless. There is no way we can fight through them all.",
+					["serverTime"] = 1611338696,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4297.392,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:04 PM|h|r |cffd8d8d8[|r|Hplayer:Eristel-Saurfang:754|h|cfffefefeEristel|r-|cff757827Sau|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1611338699,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4299.564,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:05 PM|h|r Thrall says: Jaina, can you hide us from their sight?",
+					["serverTime"] = 1611338705,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4305.882000000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:05 PM|h|r Lady Jaina Proudmoore says: My spell will get us past most of his guards, but there will likely be some who can see through it.",
+					["serverTime"] = 1611338708,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4309.577,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:05 PM|h|r Lady Jaina Proudmoore says: Stay close. We can't afford to draw their attention.",
+					["serverTime"] = 1611338715,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4316,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:05 PM|h|r Lady Jaina Proudmoore says: Careful. These eyes can see through my spell.",
+					["serverTime"] = 1611338725,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4326.4,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:05 PM|h|r Baine Bloodhoof says: The size of the Jailer's army rivals that of the Legion... and it's growing larger.",
+					["serverTime"] = 1611338732,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4333.658,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:05 PM|h|r Anduin Wrynn says: So many souls pouring into the Maw. The dead of Azeroth... Draenor... worlds beyond our imagination. All damned to this place.",
+					["serverTime"] = 1611338750,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4351.479,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:05 PM|h|r Lady Jaina Proudmoore says: Hold here.",
+					["serverTime"] = 1611338759,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4359.902,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:06 PM|h|r Baine Bloodhoof says: To be forged into weapons for the Jailer.",
+					["serverTime"] = 1611338762,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4362.811,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:06 PM|h|r Kirin Tor Mage says: I can make us invisible again. Give me a moment.",
+					["serverTime"] = 1611338763,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4364.344,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:06 PM|h|r Thrall says: Despite all Sylvanas has done, I never thought she would be part of something like this.",
+					["serverTime"] = 1611338768,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4368.957,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:06 PM|h|r Lady Jaina Proudmoore says: Hold here.",
+					["serverTime"] = 1611338792,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4392.772,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:06 PM|h|r Lady Jaina Proudmoore says: I can make us invisible again. Give me a moment.",
+					["serverTime"] = 1611338811,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4412.162,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:06 PM|h|r Lady Jaina Proudmoore says: I can make us invisible again. Give me a moment.",
+					["serverTime"] = 1611338816,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4416.989000000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:06 PM|h|r Lady Jaina Proudmoore says: Stay close, Samoshib. My spell has limited range.",
+					["serverTime"] = 1611338817,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4418.656,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:07 PM|h|r Lady Jaina Proudmoore says: Look! On the platform ahead! That must be the waystone!",
+					["serverTime"] = 1611338841,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4442.398,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:07 PM|h|r Lady Jaina Proudmoore says: We need to reach it before the Jailer takes notice.",
+					["serverTime"] = 1611338846,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4447.067,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:07 PM|h|r Anduin Wrynn says: The waystone was said to be dormant, yet it seems to be reacting to our presence.",
+					["serverTime"] = 1611338865,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4465.786,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:07 PM|h|r Anduin Wrynn says: I can't find a way to activate it.",
+					["serverTime"] = 1611338871,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4471.92,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:07 PM|h|r Lady Jaina Proudmoore says: I don't think the stone is responding to us. I think it's responding to Samoshib.",
+					["serverTime"] = 1611338876,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4476.742,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r The Path to Salvation completed.",
+					["serverTime"] = 1611338895,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4496.039,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r Experience gained: 8470.",
+					["serverTime"] = 1611338895,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4496.039,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r Received 23 Gold, 40 Silver.",
+					["serverTime"] = 1611338895,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4496.039,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r Quest accepted: Stand as One",
+					["serverTime"] = 1611338896,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4496.822,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r Lady Jaina Proudmoore says: When the Jailer realizes our plan, he'll send all his forces against us.",
+					["serverTime"] = 1611338896,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4496.956,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r Lady Jaina Proudmoore says: Our only chance is to keep them at bay long enough for the waystone to fully charge. Every second counts!",
+					["serverTime"] = 1611338901,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4502.083000000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r The Jailer says: A relic of the First Ones... responding to a mortal?! Impossible!",
+					["serverTime"] = 1611338908,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4508.692,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [128]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r The Jailer says: Mawsworn! Take them!",
+					["serverTime"] = 1611338915,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4516.653,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [129]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r |cfffefefeEristel|r-Saurfang has gone offline.",
+					["serverTime"] = 1611338916,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4516.905,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [130]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:08 PM|h|r Lady Jaina Proudmoore says: Hold the line! The waystone must finish charging!",
+					["serverTime"] = 1611338936,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4537.312,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [131]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:09 PM|h|r The Jailer says: My forces are vast! Endless!",
+					["serverTime"] = 1611338975,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4576.546,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [132]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:09 PM|h|r Thrall says: We have stopped endless armies before. We will never yield!",
+					["serverTime"] = 1611338979,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4580.259,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [133]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:09 PM|h|r Lady Jaina Proudmoore says: It's nearly charged! Do not falter!",
+					["serverTime"] = 1611338997,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4597.971000000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [134]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r The Jailer says: Death comes for the soul of your world! All that you see--all that you know--will be undone!",
+					["serverTime"] = 1611339009,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4610.145,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [135]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Baine Bloodhoof says: Jaina, something's wrong. It seems the waystone has stopped charging!",
+					["serverTime"] = 1611339025,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4626.432,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [136]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Stand as One completed.",
+					["serverTime"] = 1611339028,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4628.690000000001,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [137]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Experience gained: 10615.",
+					["serverTime"] = 1611339028,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4628.690000000001,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [138]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Received 46 Gold, 80 Silver.",
+					["serverTime"] = 1611339028,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4628.690000000001,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [139]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Oribos]|h",
+					["serverTime"] = 1611339036,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4636.854,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [140]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r |Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["serverTime"] = 1611339036,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4636.854,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [141]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Oribos]|h",
+					["serverTime"] = 1611339036,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						29, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4636.854,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [142]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r |cffd8d8d8[|r|Hplayer:Samoshib-Terokkar:797:GUILD|h|cfffefefeSamoshib|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14334:Player-633-0A686418:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Into the Maw]|h|r |cff2080a0|Hgratsl:Samoshib:GUILD::14334|h[say grats]|h|r!",
+					["serverTime"] = 1611339036,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4636.854,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [143]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r |cffd8d8d8[|r|Hplayer:Samoshib-Terokkar:798:ACHIEVEMENT|h|cfffefefeSamoshib|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14334:Player-633-0A686418:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Into the Maw]|h|r |cff2080a0|Hgratsl:Samoshib:ACHIEVEMENT::14334|h[say grats]|h|r! |cffffd200|Hshareachieve:14334:1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611339036,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4636.854,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [144]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Fatescribe Roh-Tahl says: Greetings, mortal.",
+					["serverTime"] = 1611339036,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4636.854,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [145]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Mervje-ShatteredHand:800:CHANNEL:2|h|cffc31d39Mervje|r-|cffb92df4Sha|r|h|cffd8d8d8]|r: LF Blacksmith to craft me Leggo Plate Bracers rank 4, i got mats and will tip 20k",
+					["serverTime"] = 1611339039,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4640.51,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [146]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Illegaljørsi-Darkspear:801:CHANNEL:2|h|cfffefefeIllegaljørsi|r-|cffe24ef0Dar|r|h|cffd8d8d8]|r: bit wack innit",
+					["serverTime"] = 1611339043,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4644.677,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [147]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Quest accepted: The Threads of Fate",
+					["serverTime"] = 1611339048,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4648.765,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [148]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r The Threads of Fate completed.",
+					["serverTime"] = 1611339056,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4657.183,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [149]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Experience gained: 1072.",
+					["serverTime"] = 1611339056,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4657.183,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [150]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Received 2 Gold, 36 Silver, 35 Copper.",
+					["serverTime"] = 1611339056,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4657.183,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [151]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Quest accepted: Stranger in |cff3ec6eaan|r Even Stranger Land",
+					["serverTime"] = 1611339056,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4657.292,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [152]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:10 PM|h|r Attendant Protector says: An agent of the Maw is attacking Oribos! Defend the Arbiter!",
+					["serverTime"] = 1611339057,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4658.101,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [153]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Protector Captain says: Hold. The Maw's power does linger upon them, but I sense... No, that cannot be possible!",
+					["serverTime"] = 1611339066,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4667.037,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [154]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Attendant Protector says: We must bring them to the overseers at once!",
+					["serverTime"] = 1611339084,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4684.743,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [155]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Attendant Protector says: Is our faith in the Purpose being tested?",
+					["serverTime"] = 1611339089,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4689.758,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [156]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Attendant Protector says: From the Maw? I refuse to believe it!",
+					["serverTime"] = 1611339089,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4689.758,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [157]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Protector Captain says: Come with us, stranger.",
+					["serverTime"] = 1611339089,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4690.675,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [158]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Attendant Protector says: An intruder? How is that possible?",
+					["serverTime"] = 1611339091,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4692.188,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [159]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Attendant Protector says: That being reeks of the Maw!",
+					["serverTime"] = 1611339095,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4696.143,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [160]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Attendant Protector says: It must be the Purpose. It guides us always.",
+					["serverTime"] = 1611339099,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4699.972,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [161]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Attendant Protector says: Did they just escape the Maw? Impossible!",
+					["serverTime"] = 1611339101,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4702.492,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [162]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Discovered Ring of Fates: 985 experience gained",
+					["serverTime"] = 1611339108,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4709.092,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [163]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r Overseer Kah-Delen says: The reports from our scryers were unmistakable. The Maw shuddered for a moment, as if reacting to some change.",
+					["serverTime"] = 1611339117,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4718.256,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [164]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:11 PM|h|r |cffd8d8d8[|r|Hplayer:Zaex-Saurfang:821:GUILD|h|cfffe7b09Zaex|r-|cff757827Sau|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12561:Player-633-0A65AA17:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Explore Nazmir]|h|r |cff2080a0|Hgratsl:Zaex:GUILD::12561|h[say grats]|h|r!",
+					["serverTime"] = 1611339119,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4720.198,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [165]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Overseer Kah-Sher says: An ill omen, to be certain. What can it mean?",
+					["serverTime"] = 1611339127,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4727.715,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [166]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Attendant Protector says: Overseers! This stranger appeared at the city's edge. I believe them to be... a living mortal.",
+					["serverTime"] = 1611339132,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4733.199000000001,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [167]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Overseer Kah-Delen says: Another unexpected development. We shall see to their reception.",
+					["serverTime"] = 1611339148,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4749.327,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [168]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Overseer Kah-Delen says: Impossible!",
+					["serverTime"] = 1611339160,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4761.528,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [169]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Stranger in |cff3ec6eaan|r Even Stranger Land completed.",
+					["serverTime"] = 1611339160,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4761.629,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [170]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Experience gained: 4345.",
+					["serverTime"] = 1611339160,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4761.629,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [171]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Received 11 Gold, 81 Silver, 70 Copper.",
+					["serverTime"] = 1611339160,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4761.629,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [172]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r |cffd8d8d8[|r|Hplayer:Valyro-Saurfang:850|h|cff3ec6eaValyro|r-|cff757827Sau|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1611339161,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4761.88,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [173]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Quest accepted: No Place for the Living",
+					["serverTime"] = 1611339161,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4762.418,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [174]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:12 PM|h|r Overseer Kah-Sher says: Every attendant in Oribos is taught that the Maw is unbreachable. That the malevolent souls within were sealed away for all eternity.",
+					["serverTime"] = 1611339163,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4763.964,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [175]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:14 PM|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Mervje-ShatteredHand:861:CHANNEL:2|h|cffc31d39Mervje|r-|cffb92df4Sha|r|h|cffd8d8d8]|r: LF Blacksmith to craft me Leggo Plate Bracers rank 4, i got mats and will tip 20k",
+					["serverTime"] = 1611339254,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						36, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4855.24,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [176]
+				{
+					["message"] = "|cff979797|Hpratcopy|h07:14 PM|h|r OnDatabaseShutdown table: 0000026F2A3DC4C0",
+					["timestamp"] = 4885.379,
+					["serverTime"] = 1611339284,
+				}, -- [177]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Experience gained: 8470.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336721,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [178]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Received 23 Gold, 40 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336721,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [179]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r You receive item: |cffffffff|Hitem:184313::::::::50:258::11::1:28:1400:::|h[Shattered Helm of Domination]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336722,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [180]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Quest accepted: Speaking to the |cff3ec6eaDead|r",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336722,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [181]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Highlord Darion Mograine says: This target poses a considerable threat. I will signal the Ebon Blade for assistance once we engage it.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336722,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [182]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Tormented Amalgamation says: You cannot bind me! I... will...",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336734,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [183]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Tormented Amalgamation says: ...obey...",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336743,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [184]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Speaking to the |cff3ec6eaDead|r completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336745,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [185]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Experience gained: 8470.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336745,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [186]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Received 23 Gold, 40 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336745,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [187]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Quest accepted: Soul in Hand",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336746,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [188]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Highlord Darion Mograine says: You're coming with us!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336746,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [189]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r |cffd8d8d8[|r|Hplayer:Dethemar-Terokkar:363:GUILD|h|cffa22fc8Dethemar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-633-0A672FB6:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r |cff2080a0|Hgratsl:Dethemar:GUILD::14797|h[say grats]|h|r!",
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						22, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611336747,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 0.250980406999588,
+				}, -- [190]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r You are now queued in the Dungeon Finder.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336773,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [191]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Highlord Darion Mograine says: Speak, fiend!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336776,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [192]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Soul in Hand completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336778,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [193]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Experience gained: 1072.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336778,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [194]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Received 2 Gold, 34 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336778,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [195]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Quest accepted: The Lion's Cage",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336778,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [196]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:32 PM|h|r Tormented Amalgamation says: No... hope! No... mercy!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336778,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [197]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:33 PM|h|r Lady Jaina Proudmoore says: Once we find Anduin, my staff will serve as an anchor for me to teleport us back to safety.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336784,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [198]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:33 PM|h|r Lady Jaina Proudmoore says: All set. Let's get moving.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336791,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [199]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:33 PM|h|r Thrall says: This is the Tremaculum. Here souls are tormented, twisted into wretched shades.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336828,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [200]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:33 PM|h|r Lady Jaina Proudmoore says: Last I saw Anduin, they were taking him to the tower above. We need to find a way up there.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336836,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [201]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:33 PM|h|r Lady Jaina Proudmoore says: Here!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336838,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [202]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r Lady Jaina Proudmoore says: I sense tendrils of magic tethering this rune to the tower. It should take us there.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336841,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [203]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r Lady Jaina Proudmoore says: There's Anduin!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336865,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [204]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r Thrall says: Sylvanas! What does she want with him?",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336867,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [205]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r Lady Jaina Proudmoore says: Hold here.",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336872,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [206]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r The Lion's Cage completed.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336884,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [207]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r Experience gained: 4235.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336884,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [208]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r Received 11 Gold, 70 Silver.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336884,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [209]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r Quest accepted: |cff3ec6eaAn|r Undeserved Fate",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336886,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [210]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:34 PM|h|r Quest accepted: The Afflictor's Key",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336889,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [211]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:35 PM|h|r You receive loot: |cffffffff|Hitem:173202::::::::50:258:::::::|h[Shrouded Cloth]|h|rx3.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336937,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [212]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:35 PM|h|r You receive loot: |cffffffff|Hitem:178553::::::::50:258:::::::|h[Mawsworn Key]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336937,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [213]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:35 PM|h|r You loot 2 Gold, 9 Silver, 46 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336938,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [214]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:35 PM|h|r Thrall says: Find the cave on the other side of the chasm! Our allies will protect you there!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611336943,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [215]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:35 PM|h|r |cffd8d8d8[|r|Hplayer:Dethemar-Terokkar:394:GUILD|h|cffa22fc8Dethemar|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14755:Player-633-0A672FB6:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Legendary Accord]|h|r |cff2080a0|Hgratsl:Dethemar:GUILD::14755|h[say grats]|h|r!",
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						22, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611336947,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 0.250980406999588,
+				}, -- [216]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You receive loot: |cff9d9d9d|Hitem:184392::::::::50:258:::::::|h[Fizzled Ritual Scroll]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336962,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [217]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You loot 1 Gold, 14 Silver, 46 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336963,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [218]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You receive loot: |cffffffff|Hitem:178553::::::::50:258:::::::|h[Mawsworn Key]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336968,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [219]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You loot 1 Gold, 36 Silver, 47 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336969,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [220]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You receive loot: |cffffffff|Hitem:173202::::::::50:258:::::::|h[Shrouded Cloth]|h|rx2.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336984,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [221]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You receive loot: |cff9d9d9d|Hitem:184390::::::::50:258:::::::|h[Foul Ectoplasm]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336984,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [222]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You loot 77 Silver, 37 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611336985,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [223]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r Phael the Afflictor yells: You will be broken!",
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611336993,
+					["timestamp"] = 3297.997,
+					["g"] = 0.250980406999588,
+					["r"] = 1,
+				}, -- [224]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r Phael the Afflictor says: All... will serve... the Jailer...",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611337007,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [225]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You receive loot: |cffffffff|Hitem:178553::::::::50:258:::::::|h[Mawsworn Key]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337010,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [226]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You receive loot: |cffffffff|Hitem:178558::::::::50:258:::::::|h[Afflictor's Key]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337010,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [227]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:36 PM|h|r You loot 3 Gold, 5 Silver, 50 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337011,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [228]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:37 PM|h|r You receive loot: |cffffffff|Hitem:178553::::::::50:258:::::::|h[Mawsworn Key]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337025,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [229]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:37 PM|h|r You loot 82 Silver, 48 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337026,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [230]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:37 PM|h|r You receive loot: |cffffffff|Hitem:178553::::::::50:258:::::::|h[Mawsworn Key]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337055,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [231]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:37 PM|h|r You loot 1 Gold, 10 Silver, 33 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337056,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [232]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:37 PM|h|r Lady Jaina Proudmoore says: Ebon Blade forces are positioned nearby. They will defend you!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1611337074,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [233]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:38 PM|h|r You receive loot: |cffffffff|Hitem:178553::::::::50:258:::::::|h[Mawsworn Key]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337100,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [234]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:38 PM|h|r You loot 71 Silver, 30 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337101,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [235]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:38 PM|h|r You loot 1 Gold, 28 Silver, 79 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337118,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [236]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:38 PM|h|r Dungeon Difficulty set to Heroic.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337128,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [237]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:38 PM|h|r Welcome to The Stonecore (Heroic). Instance locks are scheduled to expire in 13 |4Hour:Hours; 21 |4Minute:Minutes;.",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337130,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [238]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:38 PM|h|r Samoshib is now the leader of your group!",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337132,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [239]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:38 PM|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - The Stonecore]|h",
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1611337132,
+					["timestamp"] = 3297.997,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [240]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:38 PM|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - The Stonecore]|h",
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1611337132,
+					["timestamp"] = 3297.997,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
+				}, -- [241]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r Stonecore Earthshaper begins to transform into a Force of Earth!",
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337144,
+					["timestamp"] = 3297.997,
+					["g"] = 0.501960813999176,
+					["r"] = 1,
+				}, -- [242]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r Millhouse Manastorm yells: It's time for a tactical retreat!",
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337160,
+					["timestamp"] = 3297.997,
+					["g"] = 0.250980406999588,
+					["r"] = 1,
+				}, -- [243]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r You receive loot: |cff1eff00|Hitem:55707::::::::50:258::22:2:6654:1680:2:28:1115:9:35:::|h[Darrowmere Wristwraps of the Quickblade]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337177,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [244]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r You loot 3 Gold, 46 Silver, 33 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337178,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [245]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Tórntask-ArgentDawn:436:INSTANCE_CHAT|h|cfff38bb9Tórntask|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: sec",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337178,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [246]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r |cffff80ff|Htransmogappearance:27310|h[Darrowmere Wristwraps]|h|r has been added to your appearance collection.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337183,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [247]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Tórntask-ArgentDawn:438:INSTANCE_CHAT|h|cfff38bb9Tórntask|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: sec",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337189,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [248]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Tórntask-ArgentDawn:440:INSTANCE_CHAT|h|cfff38bb9Tórntask|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: sec",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337191,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [249]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:39 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Cuedo-Kor'gall:448:INSTANCE_CHAT|h|cfffe7b09Cuedo|r-|cff91d48dKor|r|h|cffd8d8d8]|r: cast",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337199,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [250]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:40 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Cuedo-Kor'gall:449:INSTANCE_CHAT|h|cfffe7b09Cuedo|r-|cff91d48dKor|r|h|cffd8d8d8]|r: u have innervate",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337202,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [251]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:40 PM|h|r Stonecore Earthshaper begins to transform into a Force of Earth!",
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337214,
+					["timestamp"] = 3297.997,
+					["g"] = 0.501960813999176,
+					["r"] = 1,
+				}, -- [252]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:40 PM|h|r |cffd8d8d8[|r|Hplayer:Shiftstorm-ShatteredHand:452:SAY|h|cfffe7b09Shiftstorm|r-|cffb92df4Sha|r|h|cffd8d8d8]|r: Interrupted Millhouse Manastorm's |cff71d5ff|Hspell:81442:0|h[Fear]|h|r!",
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						31, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1611337223,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [253]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:40 PM|h|r Millhouse Manastorm yells: Follow me if you dare!",
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337226,
+					["timestamp"] = 3297.997,
+					["g"] = 0.250980406999588,
+					["r"] = 1,
+				}, -- [254]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:40 PM|h|r Stonecore Earthshaper begins to transform into a Force of Earth!",
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337230,
+					["timestamp"] = 3297.997,
+					["g"] = 0.501960813999176,
+					["r"] = 1,
+				}, -- [255]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:40 PM|h|r Stonecore Earthshaper begins to transform into a Force of Earth!",
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337256,
+					["timestamp"] = 3297.997,
+					["g"] = 0.501960813999176,
+					["r"] = 1,
+				}, -- [256]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:40 PM|h|r Stonecore Earthshaper begins to transform into a Force of Earth!",
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337259,
+					["timestamp"] = 3297.997,
+					["g"] = 0.501960813999176,
+					["r"] = 1,
+				}, -- [257]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:41 PM|h|r |cffd8d8d8[|r|Hplayer:Shiftstorm-ShatteredHand:462:SAY|h|cfffe7b09Shiftstorm|r-|cffb92df4Sha|r|h|cffd8d8d8]|r: Interrupted Millhouse Manastorm's |cff71d5ff|Hspell:81440:0|h[Frostbolt Volley]|h|r!",
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						31, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1611337260,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [258]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:41 PM|h|r Millhouse Manastorm yells: Now... witness the full power of Millhouse Manastorm!",
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337270,
+					["timestamp"] = 3297.997,
+					["g"] = 0.250980406999588,
+					["r"] = 1,
+				}, -- [259]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:41 PM|h|r |cffd8d8d8[|r|Hplayer:Bifforc-Saurfang:464:GUILD|h|cffc59a6cBifforc|r-|cff757827Sau|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14198:Player-633-0A828376:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Sanguine Depths]|h|r |cff2080a0|Hgratsl:Bifforc:GUILD::14198|h[say grats]|h|r!",
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						22, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337274,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 0.250980406999588,
+				}, -- [260]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:41 PM|h|r You loot 3 Gold, 7 Silver, 75 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337292,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [261]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:41 PM|h|r Cuedo-Kor'gall receives loot: |cff9d9d9d|Hitem:68198::::::::50:258:::::::|h[Ruined Embersilk Scraps]|h|rx2.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337296,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [262]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |cffd8d8d8[|r|Hplayer:Nutzella-Saurfang:478:GUILD|h|cff006fdcNutzella|r-|cff757827Sau|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14197:Player-633-0A68AC6D:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Sanguine Depths]|h|r |cff2080a0|Hgratsl:Nutzella:GUILD::14197|h[say grats]|h|r!",
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						22, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337327,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 0.250980406999588,
+				}, -- [263]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |cffa22fc8Dethemar|r has gone offline.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337339,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [264]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r You receive currency: |cff0070dd|Hcurrency:1166:0|h[Timewarped Badge]|h|r x5.",
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337341,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [265]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r Cuedo-Kor'gall receives loot: |cff0070dd|Hitem:133375::::::::50:258::22:2:7191:6652:2:28:181:9:60:::|h[Crackling Geode Mace]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337341,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [266]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r You loot 8 Gold, 61 Silver, 67 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337342,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [267]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r Kuutti-ShatteredHand receives loot: |cff0070dd|Hitem:133206::::::::50:258::22:2:7191:6652:2:28:181:9:60:::|h[Key to the Endless Chamber]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337343,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [268]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Cuedo-Kor'gall:485:INSTANCE_CHAT|h|cfffe7b09Cuedo|r-|cff91d48dKor|r|h|cffd8d8d8]|r: any1 need",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337354,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [269]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Cuedo-Kor'gall:486:INSTANCE_CHAT|h|cfffe7b09Cuedo|r-|cff91d48dKor|r|h|cffd8d8d8]|r: w",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337356,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [270]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |cffd8d8d8[|r|Hplayer:Sunhide:487|h|cfff38bb9Sunhide|r|h|cffd8d8d8]|r has come online.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337358,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [271]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Cuedo-Kor'gall:488:INSTANCE_CHAT|h|cfffe7b09Cuedo|r-|cff91d48dKor|r|h|cffd8d8d8]|r: |cff0070dd|Hitem:133375::::::::60:102::22:2:7191:6652:2:28:181:9:60:::|h[Crackling Geode Mace]|h|r",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337360,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [272]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |cffd8d8d8[|r|Hplayer:Nutzella-Saurfang:489:GUILD|h|cff006fdcNutzella|r-|cff757827Sau|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14628:Player-633-0A68AC6D:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[The Road to Renown]|h|r |cff2080a0|Hgratsl:Nutzella:GUILD::14628|h[say grats]|h|r!",
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						22, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.250980406999588,
+					["serverTime"] = 1611337360,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 0.250980406999588,
+				}, -- [273]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Tórntask-ArgentDawn:490:INSTANCE_CHAT|h|cfff38bb9Tórntask|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: yeah",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337360,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [274]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:42 PM|h|r |Hchannel:INSTANCE_CHAT|h[I] |h|cffd8d8d8[|r|Hplayer:Tórntask-ArgentDawn:491:INSTANCE_CHAT|h|cfff38bb9Tórntask|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r: im new 60",
+					["extraData"] = {
+						63, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337363,
+					["timestamp"] = 3297.997,
+					["g"] = 0.4980392456054688,
+					["r"] = 1,
+				}, -- [275]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:44 PM|h|r |cffa5a5a5Cuedo|r has died.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337447,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [276]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:44 PM|h|r |cffa5a5a5Tórntask|r has died.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337451,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [277]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:44 PM|h|r |cffa5a5a5Kuutti|r has died.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337463,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [278]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:44 PM|h|r |cff71d5ff|Hdeath:1|h[You died.]|h",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337463,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [279]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:44 PM|h|r You are now Neutral with The Earthen Ring.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337468,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [280]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:44 PM|h|r Quest accepted: Twilight Documents",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337473,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [281]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:45 PM|h|r Cuedo-Kor'gall receives loot: |cffffffff|Hitem:52976::::::::50:258:::::::|h[Savage Leather]|h|rx2.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337542,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [282]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:45 PM|h|r Cuedo-Kor'gall receives loot: |cffffffff|Hitem:52976::::::::50:258:::::::|h[Savage Leather]|h|rx2.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337545,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [283]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:45 PM|h|r Cuedo-Kor'gall receives loot: |cffffffff|Hitem:52976::::::::50:258:::::::|h[Savage Leather]|h|rx2.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337548,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [284]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:45 PM|h|r Cuedo-Kor'gall receives loot: |cffffffff|Hitem:52976::::::::50:258:::::::|h[Savage Leather]|h|rx2.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337551,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [285]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:45 PM|h|r You receive loot: |cff9d9d9d|Hitem:62080::::::::50:258::22:1:6656:2:28:1115:9:35:::|h[Perforated Plate Boots]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337556,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [286]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:45 PM|h|r You loot 1 Gold, 86 Silver, 86 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337557,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [287]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r |cffa5a5a5Tórntask|r has died.",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337624,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [288]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r |cff71d5ff|Hdeath:2|h[You died.]|h",
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337630,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [289]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r You receive currency: |cff0070dd|Hcurrency:1166:0|h[Timewarped Badge]|h|r x5.",
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337649,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [290]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r You receive loot: |cff0070dd|Hitem:133211::::::::50:258::22:2:7191:6652:2:28:181:9:50:::|h[Rose Quartz Band]|h|r. |cffffd200|Hshareitem:133211::::::::50:258::22:2:7191:6652:2:28:181:9:50::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337649,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [291]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r You loot 9 Gold, 28 Silver, 94 Copper",
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337650,
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [292]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r You receive loot: |cffffffff|Hitem:52976::::::::50:258:::::::|h[Savage Leather]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337654,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [293]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r You receive loot: |cffffffff|Hitem:52979::::::::50:258:::::::|h[Blackened Dragonscale]|h|r.",
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0,
+					["serverTime"] = 1611337655,
+					["timestamp"] = 3297.997,
+					["g"] = 0.6666666865348816,
+					["r"] = 0,
+				}, -- [294]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r Guild Message of the Day: \"Firelands TW Fri @20.30! We're 3/10 hc, 10/10 N! Click the link to join our ingame community! |cffffd100|HclubTicket:GOrPjZHXND|h[Join: NakedGang]|h|r || https://discord.gg/FUTJ8pv Life is short - play Naked!\"",
+					["serverTime"] = 1611337704,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 3297.997,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [295]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r Samoshib is now the leader of your group!",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 3297.997,
+					["serverTime"] = 1611337668,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [296]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r Total time played: 7 |4day:days;, 9 |4hour:hours;, 26 |4minute:minutes;, 33 |4second:seconds;",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 3297.997,
+					["serverTime"] = 1611337669,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [297]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:47 PM|h|r Time played this level: 3 |4day:days;, 12 |4hour:hours;, 13 |4minute:minutes;, 24 |4second:seconds;",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 3297.997,
+					["serverTime"] = 1611337669,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [298]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r Shiftstorm-ShatteredHand receives loot: |cffffffff|Hitem:58269::::::::50:258:::::::|h[Massive Turkey Leg]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 3297.997,
+					["serverTime"] = 1611337691,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [299]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r Stonecore Sentry yells: Invaders have breached the sanctum halls!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 3297.997,
+					["serverTime"] = 1611337693,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [300]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 11 |4second:seconds;",
+					["timestamp"] = 3297.997,
+				}, -- [301]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 3297.997,
+				}, -- [302]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r Guild Message of the Day: \"Firelands TW Fri @20.30! We're 3/10 hc, 10/10 N! Click the link to join our ingame community! |cffffd100|HclubTicket:GOrPjZHXND|h[Join: NakedGang]|h|r || https://discord.gg/FUTJ8pv Life is short - play Naked!\"",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [303]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r Informant v8.2.6508 loaded",
+					["r"] = 0.25,
+					["serverTime"] = 1611337705,
+					["timestamp"] = 3297.997,
+					["g"] = 0.55,
+					["b"] = 1,
+				}, -- [304]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r Samoshib is now the leader of your group!",
+					["serverTime"] = 1611337706,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 3297.997,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [305]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r pawn",
+					["timestamp"] = 3297.997,
+					["serverTime"] = 1611337706,
+				}, -- [306]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r Total time played: 7 |4day:days;, 9 |4hour:hours;, 27 |4minute:minutes;, 11 |4second:seconds;",
+					["serverTime"] = 1611337707,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 3308.122,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [307]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r Time played this level: 3 |4day:days;, 12 |4hour:hours;, 14 |4minute:minutes;, 2 |4second:seconds;",
+					["serverTime"] = 1611337707,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 3308.122,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [308]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r |cFFFF8C00WARNING: |rThe |cFFFF0000HandyNotes: Visions of N'Zoth|r plugin will no longer receive updates. Please uninstall the old plugin and download the new |cFF0066FFHandyNotes: Battle for Azeroth|r plugin instead!",
+					["timestamp"] = 3308.122,
+					["serverTime"] = 1611337707,
+				}, -- [309]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:48 PM|h|r Stonecore Sentry yells: Invaders have breached the sanctum halls!",
+					["serverTime"] = 1611337713,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3313.88,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [310]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r Shiftstorm-ShatteredHand receives loot: |cffffffff|Hitem:52325::::::::50:258:::::::|h[Volatile Fire]|h|rx2.",
+					["serverTime"] = 1611337756,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3357.281,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [311]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r You loot 3 Gold, 88 Silver, 34 Copper",
+					["serverTime"] = 1611337759,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3360.028,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [312]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r Cuedo-Kor'gall receives loot: |cffffffff|Hitem:52976::::::::50:258:::::::|h[Savage Leather]|h|rx2.",
+					["serverTime"] = 1611337764,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3365.423,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [313]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r |cffa5a5a5Cuedo|r-Kor'gall has left the instance group.",
+					["serverTime"] = 1611337766,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3366.844,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [314]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r The vote to kick |cffa5a5a5Cuedo|r has passed.",
+					["serverTime"] = 1611337766,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3366.931,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [315]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r You are now queued in the Dungeon Finder.",
+					["serverTime"] = 1611337768,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3368.892,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [316]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r |cffc59a6cSeriogin|r-Saurfang has gone offline.",
+					["serverTime"] = 1611337770,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3370.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [317]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r Hermione-C'Thun has joined the instance group.",
+					["serverTime"] = 1611337777,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3378.616,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [318]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r Stonecore Sentry yells: Invaders have breached the sanctum halls!",
+					["serverTime"] = 1611337787,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3388.154,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [319]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:49 PM|h|r Stonecore Sentry yells: Invaders have breached the sanctum halls!",
+					["serverTime"] = 1611337796,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3396.771,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [320]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:50 PM|h|r Stonecore Sentry yells: Invaders have breached the sanctum halls!",
+					["serverTime"] = 1611337817,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3418.465,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [321]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:50 PM|h|r You receive item: |cffffffff|Hitem:5512::::::::50:258::22:::::|h[Healthstone]|h|r.",
+					["serverTime"] = 1611337846,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3447.608,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [322]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:50 PM|h|r Shiftstorm-ShatteredHand receives loot: |cff0070dd|Hitem:55824::::::::50:258::22::1:28:1115:::|h[Skin of Stone]|h|r.",
+					["serverTime"] = 1611337848,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3448.721,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [323]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:50 PM|h|r Shiftstorm-ShatteredHand receives loot: |cffffffff|Hitem:53010::::::::50:258:::::::|h[Embersilk Cloth]|h|rx2.",
+					["serverTime"] = 1611337848,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3448.896,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [324]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:50 PM|h|r Tórntask-ArgentDawn receives loot: |cff9d9d9d|Hitem:68198::::::::50:258:::::::|h[Ruined Embersilk Scraps]|h|rx2.",
+					["serverTime"] = 1611337848,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3449.533,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [325]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:50 PM|h|r You loot 1 Gold, 59 Silver, 53 Copper",
+					["serverTime"] = 1611337849,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3450.623,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [326]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:51 PM|h|r |cffffaeaeDetails!:|r encounter started: 1058 Ozruk  ",
+					["timestamp"] = 3514.468,
+					["serverTime"] = 1611337913,
+				}, -- [327]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:51 PM|h|r Ozruk yells: None may pass into the World's Heart!",
+					["serverTime"] = 1611337913,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3514.559,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [328]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:51 PM|h|r |cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Shiftstorm    ",
+					["timestamp"] = 3514.969,
+					["serverTime"] = 1611337914,
+				}, -- [329]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r |TInterface\\Icons\\ability_warrior_shieldreflection.blp:20|tOzruk casts |cFFFF0000|Hspell:78939|h[Elementium Bulwark]|h|r!",
+					["serverTime"] = 1611337920,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3520.737,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [330]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r Ozruk yells: Break yourselves upon my body. Feel the strength of the earth!",
+					["serverTime"] = 1611337924,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3525.608,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [331]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r |cffa5a5a5Tórntask|r has died.",
+					["serverTime"] = 1611337937,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3538.404,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [332]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r Ozruk yells: The cycle is complete.",
+					["serverTime"] = 1611337937,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3538.573,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [333]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r |TInterface\\Icons\\ability_warrior_shieldreflection.blp:20|tOzruk casts |cFFFF0000|Hspell:78939|h[Elementium Bulwark]|h|r!",
+					["serverTime"] = 1611337940,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3541.201,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [334]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r Ozruk yells: Break yourselves upon my body. Feel the strength of the earth!",
+					["serverTime"] = 1611337945,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3546.204,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [335]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r Ozruk becomes enraged!",
+					["serverTime"] = 1611337952,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3553.496,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [336]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r |TInterface\\Icons\\ability_warrior_shieldreflection.blp:20|tOzruk casts |cFFFF0000|Hspell:78939|h[Elementium Bulwark]|h|r!",
+					["serverTime"] = 1611337961,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3561.984,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [337]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r |T298656:15:15:0:0:64:64:4:60:4:60|tReins of the Infinite Timereaver: 126 attempts",
+					["r"] = 1,
+					["serverTime"] = 1611337964,
+					["timestamp"] = 3565.678,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [338]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r Ozruk yells: A protector has fallen. The World's Heart lies exposed!",
+					["serverTime"] = 1611337965,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3565.854,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [339]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r BigWigs: |cffffff00Defeated 'Ozruk' after 51 |4Sec:Sec;.|r",
+					["timestamp"] = 3566.662,
+					["serverTime"] = 1611337965,
+				}, -- [340]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r You receive currency: |cff0070dd|Hcurrency:1166:0|h[Timewarped Badge]|h|r x5.",
+					["serverTime"] = 1611337966,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3567.458,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [341]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r Tórntask-ArgentDawn receives loot: |cff0070dd|Hitem:133218::::::::50:258::22:2:7191:6652:2:28:181:9:60:::|h[Belt of the Ringworm]|h|r.",
+					["serverTime"] = 1611337967,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3567.717,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [342]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:52 PM|h|r You loot 8 Gold, 94 Silver, 24 Copper",
+					["serverTime"] = 1611337967,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3568.299,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [343]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffa9d271Strangletusk|r-Saurfang has gone offline.",
+					["serverTime"] = 1611338045,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3646.112,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [344]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffffaeaeDetails!:|r encounter started: 1057 High Priestess Azil  ",
+					["timestamp"] = 3655.09,
+					["serverTime"] = 1611338054,
+				}, -- [345]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r High Priestess Azil yells: The world will be reborn in flames!",
+					["serverTime"] = 1611338054,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3655.317,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [346]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?*    ",
+					["timestamp"] = 3655.591,
+					["serverTime"] = 1611338054,
+				}, -- [347]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Shiftstorm-ShatteredHand:580:SAY|h|cfffe7b09Shiftstorm|r-|cffb92df4Sha|r|h|cffd8d8d8]|r: Interrupted High Priestess Azil's |cff71d5ff|Hspell:79351:0|h[Force Grip]|h|r!",
+					["serverTime"] = 1611338065,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3665.849,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [348]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Shiftstorm-ShatteredHand:581:SAY|h|cfffe7b09Shiftstorm|r-|cffb92df4Sha|r|h|cffd8d8d8]|r: Interrupted High Priestess Azil's |cff71d5ff|Hspell:79351:0|h[Force Grip]|h|r!",
+					["serverTime"] = 1611338083,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3684.022,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [349]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cfff38bb9Sunhide|r has gone offline.",
+					["serverTime"] = 1611338084,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3684.996,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [350]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |T298656:15:15:0:0:64:64:4:60:4:60|tReins of the Infinite Timereaver: 127 attempts",
+					["r"] = 1,
+					["serverTime"] = 1611338091,
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [351]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Samoshib-Terokkar:584:GUILD|h|cfffefefeSamoshib|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:4846:Player-633-0A686418:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[The Stonecore]|h|r |cff2080a0|Hgratsl:Samoshib:GUILD::4846|h[say grats]|h|r!",
+					["serverTime"] = 1611338091,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [352]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Samoshib-Terokkar:585:GUILD|h|cfffefefeSamoshib|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:5063:Player-633-0A686418:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Stonecore]|h|r |cff2080a0|Hgratsl:Samoshib:GUILD::5063|h[say grats]|h|r!",
+					["serverTime"] = 1611338091,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [353]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r High Priestess Azil yells: For my death, countless more will fall. The burden is now yours to bear.",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [354]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Tórntask-ArgentDawn:587:ACHIEVEMENT|h|cfff38bb9Tórntask|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:4846:Player-3702-09E524A5:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[The Stonecore]|h|r |cff2080a0|Hgratsl:Tórntask:ACHIEVEMENT::4846|h[say grats]|h|r!",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [355]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Tórntask-ArgentDawn:588:ACHIEVEMENT|h|cfff38bb9Tórntask|r-|cff5f8b4fArg|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:5063:Player-3702-09E524A5:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Stonecore]|h|r |cff2080a0|Hgratsl:Tórntask:ACHIEVEMENT::5063|h[say grats]|h|r!",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [356]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Hermione-C'Thun:589:ACHIEVEMENT|h|cff8687edHermione|r-|cffb6a953C|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:4846:Player-1378-0A34C6C9:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[The Stonecore]|h|r |cff2080a0|Hgratsl:Hermione:ACHIEVEMENT::4846|h[say grats]|h|r!",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [357]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Hermione-C'Thun:590:ACHIEVEMENT|h|cff8687edHermione|r-|cffb6a953C|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:5063:Player-1378-0A34C6C9:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Stonecore]|h|r |cff2080a0|Hgratsl:Hermione:ACHIEVEMENT::5063|h[say grats]|h|r!",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [358]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Samoshib-Terokkar:591:ACHIEVEMENT|h|cfffefefeSamoshib|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:4846:Player-633-0A686418:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[The Stonecore]|h|r |cff2080a0|Hgratsl:Samoshib:ACHIEVEMENT::4846|h[say grats]|h|r! |cffffd200|Hshareachieve:4846:1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [359]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r |cffd8d8d8[|r|Hplayer:Samoshib-Terokkar:592:ACHIEVEMENT|h|cfffefefeSamoshib|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:5063:Player-633-0A686418:1:1:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Stonecore]|h|r |cff2080a0|Hgratsl:Samoshib:ACHIEVEMENT::5063|h[say grats]|h|r! |cffffd200|Hshareachieve:5063:1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [360]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r You receive currency: |cff0070dd|Hcurrency:1166:0|h[Timewarped Badge]|h|r x10.",
+					["serverTime"] = 1611338091,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [361]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Experience gained: 16759.",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [362]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Received 84 Gold, 24 Silver.",
+					["serverTime"] = 1611338091,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3691.767,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [363]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r BigWigs: |cffffff00Defeated 'High Priestess Azil' after 36 |4Sec:Sec;.|r",
+					["timestamp"] = 3692.772,
+					["serverTime"] = 1611338092,
+				}, -- [364]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r You receive currency: |cff0070dd|Hcurrency:1166:0|h[Timewarped Badge]|h|r x10.",
+					["serverTime"] = 1611338093,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3693.867,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [365]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r You receive loot: |cff0070dd|Hitem:52078::::::::50:258:::::::|h[Chaos Orb]|h|r.",
+					["serverTime"] = 1611338093,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3694.048,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [366]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r You receive loot: |cff0070dd|Hitem:133377::::::::50:258::::1:28:1115:::|h[Smoldering Timewarped Ember]|h|r.",
+					["serverTime"] = 1611338093,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3694.215,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [367]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Quest accepted: The Smoldering Ember",
+					["serverTime"] = 1611338093,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3694.215,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [368]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r You loot 9 Gold, 16 Silver, 13 Copper",
+					["serverTime"] = 1611338094,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3694.694,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [369]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Shiftstorm-ShatteredHand receives loot: |cff0070dd|Hitem:52078::::::::50:258:::::::|h[Chaos Orb]|h|r.",
+					["serverTime"] = 1611338096,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3697.458,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [370]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Shiftstorm-ShatteredHand receives loot: |cff0070dd|Hitem:133220::::::::50:258::22:2:7191:6652:2:28:181:9:60:::|h[Darkling Staff]|h|r.",
+					["serverTime"] = 1611338097,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3697.781,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [371]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Tórntask-ArgentDawn receives loot: |cff0070dd|Hitem:52078::::::::50:258:::::::|h[Chaos Orb]|h|r.",
+					["serverTime"] = 1611338098,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3698.845,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [372]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Hermione-C'Thun receives loot: |cff0070dd|Hitem:52078::::::::50:258:::::::|h[Chaos Orb]|h|r.",
+					["serverTime"] = 1611338098,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3699.555,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [373]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Kuutti-ShatteredHand receives loot: |cff0070dd|Hitem:52078::::::::50:258:::::::|h[Chaos Orb]|h|r.",
+					["serverTime"] = 1611338099,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3700.256,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [374]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:54 PM|h|r Kuutti-ShatteredHand receives loot: |cff0070dd|Hitem:133228::::::::50:258::22:2:7191:6652:2:28:181:9:60:::|h[Cowl of the Unseen World]|h|r.",
+					["serverTime"] = 1611338099,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3700.546,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [375]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:55 PM|h|r You leave the group.",
+					["serverTime"] = 1611338103,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3703.972,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [376]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:55 PM|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Escape from the Maw]|h",
+					["serverTime"] = 1611338110,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3711.33,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [377]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:55 PM|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Escape from the Maw]|h",
+					["serverTime"] = 1611338110,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						29, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3711.33,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [378]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:55 PM|h|r Phael the Afflictor yells: You will be broken!",
+					["serverTime"] = 1611338115,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3716.668,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [379]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:55 PM|h|r You receive loot: |cffffffff|Hitem:178553::::::::50:258:::::::|h[Mawsworn Key]|h|r.",
+					["serverTime"] = 1611338136,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3736.7,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [380]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:55 PM|h|r You receive loot: |cffffffff|Hitem:173202::::::::50:258:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1611338136,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3736.7,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [381]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:55 PM|h|r You loot 62 Silver, 29 Copper",
+					["serverTime"] = 1611338136,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3737.569,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [382]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r Thrall says: Your bonds are broken! Hurry, before the guards return!",
+					["serverTime"] = 1611338174,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3774.958,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [383]
+				{
+					["message"] = "|cff979797|Hpratcopy|h06:56 PM|h|r |cff3ec6eaAn|r Undeserved Fate completed.",
+					["serverTime"] = 1611338184,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						8, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3785.072,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [384]
+			},
+			["maxElements"] = 384,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

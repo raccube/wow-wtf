@@ -1,0 +1,3 @@
+VER 3 0100000000000001 "Mount" "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+/run if GetCurrentMapContinent()==7 and GetZoneText()=="Nagrand" then CastSpellByName( "Garrison Ability") else C_MountJournal.Summon(0) end  
+END

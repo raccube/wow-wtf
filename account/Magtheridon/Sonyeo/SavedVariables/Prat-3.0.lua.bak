@@ -1,0 +1,5176 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1580668598,
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 64,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702862,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51704.486,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702866,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51708.474,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702867,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51709.778,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702869,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51711.643,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702872,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51715.033,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r Reputation with The Ashen Verdict increased by 150.",
+					["serverTime"] = 1611702908,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51750.979,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r Reputation with The Ashen Verdict increased by 150.",
+					["serverTime"] = 1611702920,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51763.109,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r Reputation with The Ashen Verdict increased by 250.",
+					["serverTime"] = 1611702948,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51790.6,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r You receive loot: |cffa335ee|Hitem:50423::::::::51:63::::1:28:1023:::|h[Sundial of Eternal Dusk]|h|r. |cffffd200|Hshareitem:50423::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702949,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51792.074,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r You receive loot: |cffa335ee|Hitem:50360::::::::51:63::::1:28:1023:::|h[Phylactery of the Nameless Lich]|h|r. |cffffd200|Hshareitem:50360::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702949,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51792.269,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r You receive loot: |cffa335ee|Hitem:50421::::::::51:63::::1:28:1023:::|h[Sindragosa's Cruel Claw]|h|r. |cffffd200|Hshareitem:50421::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702950,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51792.518,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r You receive loot: |cff0070dd|Hitem:142097::::::::51:63::::1:28:1023:::|h[Skull of a Frozen Whelp]|h|r. |cffffd200|Hshareitem:142097::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702950,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51792.625,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r You loot 28 Gold, 49 Silver, 34 Copper",
+					["serverTime"] = 1611702950,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51792.864,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703022,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51865.052,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703023,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51865.751,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703031,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51873.454,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703037,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51880.432,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 82.",
+					["serverTime"] = 1611703089,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51931.752,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 83.",
+					["serverTime"] = 1611703089,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51931.752,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 82.",
+					["serverTime"] = 1611703089,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51932.415,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You loot 29 Gold, 31 Silver, 95 Copper",
+					["serverTime"] = 1611703092,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51935.41,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You receive loot: |cffa335ee|Hitem:50184::::::::51:63::::1:28:1023:::|h[Keleseth's Seducer]|h|r. |cffffd200|Hshareitem:50184::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703093,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51935.775,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You receive loot: |cffa335ee|Hitem:50184::::::::51:63::::1:28:1023:::|h[Keleseth's Seducer]|h|r. |cffffd200|Hshareitem:50184::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703093,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51935.982,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You receive loot: |cffa335ee|Hitem:50073::::::::51:63::::1:28:1023:::|h[Geistlord's Punishment Sack]|h|r. |cffffd200|Hshareitem:50073::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703093,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51936.42,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703109,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51952.028,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703110,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51953.341,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703112,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51954.663,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703112,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51954.663,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703114,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51956.75,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703114,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51956.75,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703114,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51956.75,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703114,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51956.75,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703114,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51956.75,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You receive loot: |cffffffff|Hitem:33470::::::::51:63:::::::|h[Frostweave Cloth]|h|rx9.",
+					["serverTime"] = 1611703117,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51960.29100000001,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You receive loot: |cff9d9d9d|Hitem:43852::::::::51:63:::::::|h[Thick Fur Clothing Scraps]|h|r.",
+					["serverTime"] = 1611703117,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51960.29100000001,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You receive loot: |cffffffff|Hitem:33447::::::::51:63:::::::|h[Runic Healing Potion]|h|r.",
+					["serverTime"] = 1611703117,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51960.29100000001,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You receive loot: |cffffffff|Hitem:35947::::::::51:63:::::::|h[Sparkling Frostcap]|h|r.",
+					["serverTime"] = 1611703117,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51960.29100000001,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r You loot 4 Gold, 72 Silver, 81 Copper",
+					["serverTime"] = 1611703118,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51961.295,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703127,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51970.097,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703127,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51970.097,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703128,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51971.41600000001,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703128,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51971.41600000001,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703128,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51971.43,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611703128,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51971.43,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r Reputation with The Ashen Verdict increased by 250.",
+					["serverTime"] = 1611703156,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51998.468,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r You receive loot: |cffa335ee|Hitem:52025::::::::51:63::::1:28:1023:::|h[Vanquisher's Mark of Sanctification]|h|r.",
+					["serverTime"] = 1611703157,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52000.442,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r You receive loot: |cffa335ee|Hitem:50180::::::::51:63::::1:28:1023:::|h[Lana'thel's Chain of Flagellation]|h|r. |cffffd200|Hshareitem:50180::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703158,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52000.61,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r You receive loot: |cffa335ee|Hitem:50182::::::::51:63::::1:28:1023:::|h[Blood Queen's Crimson Choker]|h|r. |cffffd200|Hshareitem:50182::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703158,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52000.723,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r You loot 28 Gold, 84 Silver, 80 Copper",
+					["serverTime"] = 1611703158,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52001.225,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r You loot 4 Gold, 19 Silver, 97 Copper",
+					["serverTime"] = 1611703167,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52009.93,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r Reputation with The Ashen Verdict increased by 1500.",
+					["serverTime"] = 1611703410,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52253.148,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r You loot 28 Gold, 69 Silver, 95 Copper",
+					["serverTime"] = 1611703415,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52257.944,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r You receive loot: |cffa335ee|Hitem:49981::::::::51:63::::1:28:1023:::|h[Fal'inrush, Defender of Quel'thalas]|h|r. |cffffd200|Hshareitem:49981::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703416,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52259.2,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r You receive loot: |cffa335ee|Hitem:50428::::::::51:63::::1:28:1023:::|h[Royal Scepter of Terenas II]|h|r. |cffffd200|Hshareitem:50428::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703417,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52259.752,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r You receive loot: |cffa335ee|Hitem:50012::::::::51:63::::1:28:1023:::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r. |cffffd200|Hshareitem:50012::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703418,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52260.79,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r You receive loot: |cffa335ee|Hitem:52027::::::::51:63::::1:28:1023:::|h[Conqueror's Mark of Sanctification]|h|r.",
+					["serverTime"] = 1611703418,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52261.213,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r You receive loot: |cff0070dd|Hitem:142098::::::::51:63::::1:28:1023:::|h[Drudge Remains]|h|r. |cffffd200|Hshareitem:142098::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703420,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52262.988,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r You receive item: |cffa335ee|Hitem:50000::::::::51:63::::1:28:1023:::|h[Scourge Hunter's Vambraces]|h|r. |cffffd200|Hshareitem:50000::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703829,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52672.145,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r You receive item: |cffa335ee|Hitem:50006::::::::51:63::::1:28:1023:::|h[Corp'rethar Ceremonial Crown]|h|r. |cffffd200|Hshareitem:50006::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703829,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52672.342,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r You receive item: |cffa335ee|Hitem:50003::::::::51:63::::1:28:1023:::|h[Boneguard Commander's Pauldrons]|h|r. |cffffd200|Hshareitem:50003::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703830,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52672.778,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r You receive item: |cff0070dd|Hitem:49908::::::::51:63:::::::|h[Primordial Saronite]|h|r.",
+					["serverTime"] = 1611703830,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52673.027,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r You receive item: |cffa335ee|Hitem:50014::::::::51:63::::1:28:1023:::|h[Greatcloak of the Turned Champion]|h|r. |cffffd200|Hshareitem:50014::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703830,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52673.195,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r You receive item: |cffa335ee|Hitem:50014::::::::51:63::::1:28:1023:::|h[Greatcloak of the Turned Champion]|h|r. |cffffd200|Hshareitem:50014::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611703830,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52673.388,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r You receive item: |cffa335ee|Hitem:52026::::::::51:63::::1:28:1023:::|h[Protector's Mark of Sanctification]|h|r.",
+					["serverTime"] = 1611703831,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52673.702,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702249,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51091.826,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702249,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51092.216,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702253,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51095.546,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 50.",
+					["serverTime"] = 1611702260,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51102.507,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702264,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51107.089,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r You loot 76 Silver, 90 Copper",
+					["serverTime"] = 1611702267,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51109.928,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702267,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51110.259,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702270,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51113.289,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702272,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51115.139,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 150.",
+					["serverTime"] = 1611702279,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51121.89,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702293,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51135.792,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702294,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51136.803,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702294,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51136.803,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 250.",
+					["serverTime"] = 1611702295,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51138.345,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702297,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51139.813,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r You receive loot: |cffa335ee|Hitem:50026::::::::51:63::::1:28:1023:::|h[Helm of the Elder Moon]|h|r. |cffffd200|Hshareitem:50026::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702297,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51140.113,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r You receive loot: |cffa335ee|Hitem:50016::::::::51:63::::1:28:1023:::|h[Rib Spreader]|h|r. |cffffd200|Hshareitem:50016::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702297,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51140.283,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702297,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51140.313,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702297,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51140.313,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r You receive loot: |cffa335ee|Hitem:50023::::::::51:63::::1:28:1023:::|h[Bile-Encrusted Medallion]|h|r. |cffffd200|Hshareitem:50023::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702298,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51140.46,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r You loot 28 Gold, 54 Silver, 46 Copper",
+					["serverTime"] = 1611702298,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51140.893,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702299,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51141.743,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702299,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51142.114,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702305,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51147.794,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702311,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51153.706,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r Reputation with The Ashen Verdict increased by 150.",
+					["serverTime"] = 1611702330,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51172.779,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702333,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51176.099,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:06 AM|h|r Reputation with The Ashen Verdict increased by 250.",
+					["serverTime"] = 1611702365,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51207.735,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:06 AM|h|r You receive loot: |cffa335ee|Hitem:50035::::::::51:63::::1:28:1023:::|h[Black Bruise]|h|r. |cffffd200|Hshareitem:50035::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702366,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51208.825,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:06 AM|h|r You receive loot: |cffa335ee|Hitem:50040::::::::51:63::::1:28:1023:::|h[Distant Land]|h|r. |cffffd200|Hshareitem:50040::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702366,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51208.825,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:06 AM|h|r You receive loot: |cffa335ee|Hitem:50035::::::::51:63::::1:28:1023:::|h[Black Bruise]|h|r. |cffffd200|Hshareitem:50035::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702366,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51208.825,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:06 AM|h|r You loot 30 Gold, 7 Silver, 6 Copper",
+					["serverTime"] = 1611702367,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51209.835,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r Reputation with The Ashen Verdict increased by 250.",
+					["serverTime"] = 1611702502,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51344.918,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r You receive loot: |cffa335ee|Hitem:52027::::::::51:63::::1:28:1023:::|h[Conqueror's Mark of Sanctification]|h|r.",
+					["serverTime"] = 1611702503,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51346.398,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r You receive loot: |cffa335ee|Hitem:50351::::::::51:63::::1:28:1023:::|h[Tiny Abomination in a Jar]|h|r. |cffffd200|Hshareitem:50351::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702504,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51346.578,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r You receive loot: |cffa335ee|Hitem:50068::::::::51:63::::1:28:1023:::|h[Rigormortis]|h|r. |cffffd200|Hshareitem:50068::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702504,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51346.738,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r You receive loot: |cff0070dd|Hitem:142096::::::::51:63::::1:28:1023:::|h[Putricide's Alchemy Supplies]|h|r. |cffffd200|Hshareitem:142096::::::::51:63::::1:28:1023::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1611702504,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51347.038,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r You loot 28 Gold, 46 Silver, 46 Copper",
+					["serverTime"] = 1611702504,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51347.169,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702644,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51487.224,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702644,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51487.224,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702647,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51490.234,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Reputation with The Ashen Verdict increased by 2.",
+					["serverTime"] = 1611702649,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51492.34400000001,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:11 AM|h|r Reputation with The Ashen Verdict increased by 450.",
+					["serverTime"] = 1611702686,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51529.04,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:12 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702774,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51616.48,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:12 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702774,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51616.711,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:12 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702775,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51617.996,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:12 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702776,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51618.781,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:13 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702780,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51622.793,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:13 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702781,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51623.614,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:13 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702786,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51628.497,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:13 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702836,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51679.223,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r You loot 4 Gold, 34 Silver, 31 Copper",
+					["serverTime"] = 1611702843,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51686.072,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r You receive loot: |cffffffff|Hitem:33470::::::::51:63:::::::|h[Frostweave Cloth]|h|rx3.",
+					["serverTime"] = 1611702843,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51686.086,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702848,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51690.658,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702848,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51690.658,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702848,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51690.658,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702848,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51690.658,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702848,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51690.658,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702848,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51690.681,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r You receive loot: |cffffffff|Hitem:33470::::::::51:63:::::::|h[Frostweave Cloth]|h|rx4.",
+					["serverTime"] = 1611702852,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51695.103,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r You loot 4 Gold, 28 Copper",
+					["serverTime"] = 1611702853,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51695.741,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702862,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51704.486,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702862,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51704.486,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Reputation with The Ashen Verdict increased by 15.",
+					["serverTime"] = 1611702862,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51704.486,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame11"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 2,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq13|k:6:1096:BN_WHISPER:|Kq13|k:FishFlab#2241|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq13|k|r|h|cffd8d8d8]|r: pet",
+					["serverTime"] = 1611703437,
+					["r"] = 0,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52280.298,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:24 AM|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq13|k:6:1097:BN_WHISPER:|Kq13|k:FishFlab#2241|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq13|k|r|h|cffd8d8d8]|r: |Hbattlepet:1967:1:3:154:11:11:BattlePet-0-00000D5E0F83:73707|h[Drudge Ghoul]|h",
+					["serverTime"] = 1611703442,
+					["r"] = 0,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52284.487,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [2]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 228,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h02:11 PM|h|r Guild Message of the Day: \"LFR Castle Nathria Attempt early this week followed by an attempt at normal. Date TBD\"",
+					["serverTime"] = 1611701149,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 49991.566,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 49991.566,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 49991.566,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:45 PM|h|r Guild Message of the Day: \"LFR Castle Nathria Attempt early this week followed by an attempt at normal. Date TBD\"",
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 49991.468,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:45 PM|h|r |cffFFFFFFRaiderIO|r is using expired data. Please update now to see the most accurate data: |cffFFFFFFhttps://rio.gg/addon|r",
+					["r"] = 1,
+					["serverTime"] = 1611701150,
+					["timestamp"] = 49991.566,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:45 PM|h|r pawn",
+					["timestamp"] = 49991.566,
+					["serverTime"] = 1611701150,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:45 PM|h|r Total time played: 12 |4day:days;, 20 |4hour:hours;, 28 |4minute:minutes;, 55 |4second:seconds;",
+					["serverTime"] = 1611701153,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 49996.155,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:45 PM|h|r Time played this level: 0 |4day:days;, 1 |4hour:hours;, 50 |4minute:minutes;, 52 |4second:seconds;",
+					["serverTime"] = 1611701153,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 49996.155,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:45 PM|h|r |cFFFF8C00WARNING: |rThe |cFFFF0000HandyNotes: Visions of N'Zoth|r plugin will no longer receive updates. Please uninstall the old plugin and download the new |cFF0066FFHandyNotes: Battle for Azeroth|r plugin instead!",
+					["timestamp"] = 49997.21900000001,
+					["serverTime"] = 1611701155,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:47 PM|h|r Discovered The Quagmire: 103 experience gained",
+					["serverTime"] = 1611701247,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50089.935,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:47 PM|h|r Discovered The Den of Flame: 103 experience gained",
+					["serverTime"] = 1611701268,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50111.406,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:48 PM|h|r Welcome to Onyxia's Lair (25 Player). Instance locks are scheduled to expire in 8 |4Hour:Hours; 11 |4Minute:Minutes;.",
+					["serverTime"] = 1611701307,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 50150.035,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:48 PM|h|r Your instance lock for Onyxia's Lair will expire in 8 |4hour:hours;.",
+					["serverTime"] = 1611701307,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50150.325,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:48 PM|h|r |cFF33FF99BigWigs|r: Please note that this zone requires the |cFF436EEEBigWigs_WrathOfTheLichKing|r plugin for timers to be displayed.",
+					["timestamp"] = 50150.325,
+					["serverTime"] = 1611701308,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:48 PM|h|r Legacy loot rules are enabled.",
+					["serverTime"] = 1611701308,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50151.178,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:48 PM|h|r |cff33ff99Altoholic|r: Primal Egg will be ready in 15 minutes (Jiu on Magtheridon)",
+					["timestamp"] = 50160.237,
+					["serverTime"] = 1611701317,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:49 PM|h|r |cffffaeaeDetails!:|r encounter started: 1084 Onyxia  ",
+					["timestamp"] = 50212.556,
+					["serverTime"] = 1611701370,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:49 PM|h|r Onyxia yells: How fortuitous. Usually, I must leave my lair in order to feed.",
+					["serverTime"] = 1611701370,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50212.796,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:49 PM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 50213.066,
+					["serverTime"] = 1611701370,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:49 PM|h|r Onyxia yells: This meaningless exertion bores me. I'll incinerate you all from above!",
+					["serverTime"] = 1611701373,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50216.146,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:50 PM|h|r Onyxia yells: It seems you'll need another lesson, mortals!",
+					["serverTime"] = 1611701401,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50244.031,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:50 PM|h|r You are now saved to this instance",
+					["serverTime"] = 1611701406,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50249.402,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:50 PM|h|r |T254650:15:15:0:0:64:64:4:60:4:60|tReins of the Onyxian Drake: 31 attempts",
+					["r"] = 1,
+					["serverTime"] = 1611701407,
+					["timestamp"] = 50249.932,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:50 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:765:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: not pog",
+					["serverTime"] = 1611701419,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50261.84400000001,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:50 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Libitinafawn-Magtheridon:766:GUILD|h|cfffe7b09Libitinafawn|r|h|cffd8d8d8]|r: what?",
+					["serverTime"] = 1611701425,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50268.165,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:50 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:767:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: mount farming",
+					["serverTime"] = 1611701446,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50288.639,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:51 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Goyangi-Magtheridon:771:GUILD|h|cfffe7b09Goyangi|r|h|cffd8d8d8]|r: at least that one is quick to do",
+					["serverTime"] = 1611701462,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50304.623,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:51 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Goyangi-Magtheridon:772:GUILD|h|cfffe7b09Goyangi|r|h|cffd8d8d8]|r: just.. annoying to get to if you're not a mage",
+					["serverTime"] = 1611701466,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50308.823,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:51 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:777:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: i'm angry at myself for passing up the mount when i got it",
+					["serverTime"] = 1611701498,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50340.497,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:51 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:781:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: i was with a friendo",
+					["serverTime"] = 1611701505,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50347.538,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:52 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Goyangi-Magtheridon:784:GUILD|h|cfffe7b09Goyangi|r|h|cffd8d8d8]|r: I take a hardline approach to this. i always take :P",
+					["serverTime"] = 1611701539,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50381.664,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:52 PM|h|r Welcome to Icecrown Citadel (25 Player). Instance locks are scheduled to expire in 8 |4Hour:Hours; 7 |4Minute:Minutes;.",
+					["serverTime"] = 1611701571,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 50414.26,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:52 PM|h|r Your instance lock for Icecrown Citadel will expire in 8 |4hour:hours;.",
+					["serverTime"] = 1611701571,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50414.28,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:52 PM|h|r |cFF33FF99BigWigs|r: Please note that this zone requires the |cFF436EEEBigWigs_WrathOfTheLichKing|r plugin for timers to be displayed.",
+					["timestamp"] = 50414.28,
+					["serverTime"] = 1611701572,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:52 PM|h|r Legacy loot rules are enabled.",
+					["serverTime"] = 1611701572,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50414.28,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:53 PM|h|r Highlord Tirion Fordring yells: This is our final stand. What happens here will echo through the ages. Regardless of outcome, they will know that we fought with honor. That we fought for the freedom and safety of our people!\r\n",
+					["serverTime"] = 1611701609,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50451.706,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:53 PM|h|r |cff33ff99Altoholic|r: Primal Egg will be ready in 10 minutes (Jiu on Magtheridon)",
+					["timestamp"] = 50460.238,
+					["serverTime"] = 1611701617,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:53 PM|h|r Highlord Tirion Fordring yells: Remember, heroes, fear is your greatest enemy in these befouled halls. Steel your heart and your soul will shine brighter than a thousand suns. The enemy will falter at the sight of you. They will fall as the light of righteousness envelops them!",
+					["serverTime"] = 1611701624,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50466.565,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r Highlord Tirion Fordring yells: Our march upon Icecrown Citadel begins now!",
+					["serverTime"] = 1611701641,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50483.462,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r The Lich King yells: You now stand upon the hallowed ground of the Scourge. The Light won't protect you here, paladin. Nothing will protect you...",
+					["serverTime"] = 1611701645,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50488.45,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r Highlord Tirion Fordring yells: ARTHAS! I swore that I would see you dead and the Scourge dismantled! I'm going to finish what I started at Light's Hope!",
+					["serverTime"] = 1611701661,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50504.155,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:815:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: considered farming ulduar earlier but couldn't be bothered",
+					["serverTime"] = 1611701664,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50506.956,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r The Lich King yells: You could have been my greatest champion, Fordring: A force of darkness that would wash over this world and deliver it into a new age of strife.",
+					["serverTime"] = 1611701670,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50512.587,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r Deathbound Ward yells: I... awaken!",
+					["serverTime"] = 1611701674,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50517.228,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r Lord Marrowgar yells: This is the beginning AND the end, mortals. None may enter the master's sanctum!",
+					["serverTime"] = 1611701677,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50519.772,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r |cffffaeaeDetails!:|r encounter started: 1101 Lord Marrowgar  ",
+					["timestamp"] = 50521.388,
+					["serverTime"] = 1611701678,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r Lord Marrowgar yells: The Scourge will wash over this world as a swarm of death and destruction!",
+					["serverTime"] = 1611701679,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50521.598,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:11366:0|h[Pyroblast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 50521.888,
+					["serverTime"] = 1611701679,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r The Lich King yells: But that honor is no longer yours. Soon, I will have a new champion.",
+					["serverTime"] = 1611701686,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50528.572,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r Lord Marrowgar yells: I see... Only darkness.",
+					["serverTime"] = 1611701690,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50532.931,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r You are now saved to this instance",
+					["serverTime"] = 1611701690,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50532.931,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:54 PM|h|r The Lich King yells: The breaking of this one has been taxing. The atrocities I have committed upon his soul. He has resisted for so long, but he will bow down before his king soon.",
+					["serverTime"] = 1611701698,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50540.691,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:55 PM|h|r Highlord Bolvar Fordragon yells: NEVER! I... I will never... serve... you...",
+					["serverTime"] = 1611701721,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50563.865,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:55 PM|h|r Lady Deathwhisper yells: You have found your way here, because you are among the few gifted with true vision in a world cursed with blindness.",
+					["serverTime"] = 1611701721,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50563.865,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:55 PM|h|r The Lich King yells: In the end, you will all serve me.",
+					["serverTime"] = 1611701727,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50569.926,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:55 PM|h|r Lady Deathwhisper yells: You can see through the fog that hangs over this world like a shroud, and grasp where true power lies.",
+					["serverTime"] = 1611701730,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50573.167,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:55 PM|h|r Lady Deathwhisper yells: Fix your eyes upon your crude hands: the sinew, the soft meat, the dark blood coursing within.",
+					["serverTime"] = 1611701751,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50593.832,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r Lady Deathwhisper yells: It is a weakness; a crippling flaw....  A joke played by the Creators upon their own creations.",
+					["serverTime"] = 1611701762,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50604.799,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r Lady Deathwhisper yells: The sooner you come to accept your condition as a defect, the sooner you will find yourselves in a position to transcend it.",
+					["serverTime"] = 1611701770,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50613.332,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r Lady Deathwhisper yells: Through our Master, all things are possible. His power is without limit, and his will unbending.",
+					["serverTime"] = 1611701791,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50633.999,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r Lady Deathwhisper yells: Those who oppose him will be destroyed utterly, and those who serve -- who serve wholly, unquestioningly, with utter devotion of mind and soul -- elevated to heights beyond your ken.",
+					["serverTime"] = 1611701801,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50643.765,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r |cffffaeaeDetails!:|r encounter started: 1100 Lady Deathwhisper  ",
+					["timestamp"] = 50645.049,
+					["serverTime"] = 1611701802,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r Lady Deathwhisper yells: What is this disturbance? You dare trespass upon this hallowed ground? This shall be your final resting place!",
+					["serverTime"] = 1611701802,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50645.269,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 50645.549,
+					["serverTime"] = 1611701803,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r Lady Deathwhisper's Mana Barrier shimmers and fades away!",
+					["serverTime"] = 1611701803,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50646.299,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r Lady Deathwhisper yells: Enough! I see I must take matters into my own hands!",
+					["serverTime"] = 1611701803,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50646.299,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:56 PM|h|r Lady Deathwhisper yells: All part of the Master's plan.... Your end is inevitable....",
+					["serverTime"] = 1611701805,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50648.02,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:58 PM|h|r |cff33ff99Altoholic|r: Primal Egg will be ready in 5 minutes (Jiu on Magtheridon)",
+					["timestamp"] = 50760.262,
+					["serverTime"] = 1611701917,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:59 PM|h|r Muradin Bronzebeard yells: Fire up the engines! We got a meetin' with destiny, lads!",
+					["serverTime"] = 1611701972,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50814.498,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:59 PM|h|r |cff33ff99Altoholic|r: Primal Egg will be ready in 4 minutes (Jiu on Magtheridon)",
+					["timestamp"] = 50820.254,
+					["serverTime"] = 1611701977,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:59 PM|h|r Muradin Bronzebeard yells: Hold on to yer hats!",
+					["serverTime"] = 1611701978,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50820.605,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h11:59 PM|h|r Muradin Bronzebeard yells: What in the world is that? Grab me spyglass, crewman!",
+					["serverTime"] = 1611701996,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50838.955,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r Muradin Bronzebeard yells: By me own beard! HORDE SAILIN' IN FAST 'N HOT!",
+					["serverTime"] = 1611702002,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50845.022,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r Muradin Bronzebeard yells: EVASIVE ACTION! MAN THE GUNS!",
+					["serverTime"] = 1611702008,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50851.122,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r |cffffaeaeDetails!:|r encounter started: 1099 Icecrown Gunship Battle  ",
+					["timestamp"] = 50859.055,
+					["serverTime"] = 1611702016,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r Muradin Bronzebeard yells: Cowardly dogs! Ye blindsided us!",
+					["serverTime"] = 1611702016,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50859.25500000001,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r |cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?*    ",
+					["timestamp"] = 50859.555,
+					["serverTime"] = 1611702017,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r High Overlord Saurfang yells: This is not your battle, dwarf. Back down or we will be forced to destroy your ship.",
+					["serverTime"] = 1611702022,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50864.522,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r Muradin Bronzebeard yells: Not me battle? I dunnae who ye think ye are, mister, but I got a score to settle with Arthas and yer not gettin' in me way! FIRE ALL GUNS! FIRE! FIRE!",
+					["serverTime"] = 1611702026,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50869.422,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r High Overlord Saurfang yells: We're taking hull damage, get a battle-mage out here to shut down those cannons!",
+					["serverTime"] = 1611702033,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50875.491,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r High Overlord Saurfang yells: Reavers, Sergeants, attack!",
+					["serverTime"] = 1611702033,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50875.501,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r Muradin Bronzebeard yells: Don't say I didn't warn ya, scoundrels! Onward, brothers and sisters!",
+					["serverTime"] = 1611702033,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50875.501,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r |cff33ff99Altoholic|r: Primal Egg will be ready in 3 minutes (Jiu on Magtheridon)",
+					["timestamp"] = 50880.239,
+					["serverTime"] = 1611702037,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r Muradin Bronzebeard yells: What's this then?! Ye won't be takin' this son o' Ironforge's vessel without a fight!",
+					["serverTime"] = 1611702039,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50881.599,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:00 AM|h|r |cffffaeaeDetails!:|r encounter table without start time.    ",
+					["timestamp"] = 50886.65,
+					["serverTime"] = 1611702044,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:01 AM|h|r Muradin Bronzebeard yells: Let's get a move on then! Move ou...",
+					["serverTime"] = 1611702093,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50936.349,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:01 AM|h|r Deathbringer Saurfang yells: For every Horde soldier that you killed -- for every Alliance dog that fell, the Lich King's armies grew. Even now the val'kyr work to raise your fallen as Scourge.\r\n",
+					["serverTime"] = 1611702095,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50937.589,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:01 AM|h|r |cff33ff99Altoholic|r: Primal Egg will be ready in 2 minutes (Jiu on Magtheridon)",
+					["timestamp"] = 50940.236,
+					["serverTime"] = 1611702097,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:01 AM|h|r Deathbringer Saurfang yells: Things are about to get much worse. Come, taste the power that the Lich King has bestowed upon me!",
+					["serverTime"] = 1611702112,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50954.636,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Muradin Bronzebeard yells: A lone orc against the might of the Alliance???",
+					["serverTime"] = 1611702124,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50966.774,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Muradin Bronzebeard yells: Charge!!!\r\n",
+					["serverTime"] = 1611702130,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50972.825,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Deathbringer Saurfang yells: Dwarves...",
+					["serverTime"] = 1611702135,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50977.656,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Screen Captured |cffffd200|Hsharess:1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["r"] = 1,
+					["serverTime"] = 1611702136,
+					["timestamp"] = 50978.76,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r |cffffaeaeDetails!:|r encounter started: 1096 Deathbringer Saurfang  ",
+					["timestamp"] = 50990.898,
+					["serverTime"] = 1611702148,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Deathbringer Saurfang yells: BY THE MIGHT OF THE LICH KING!",
+					["serverTime"] = 1611702148,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50991.108,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 50991.398,
+					["serverTime"] = 1611702148,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Deathbringer Saurfang goes into a frenzy!",
+					["serverTime"] = 1611702153,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 50996.379,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r |cff33ff99Altoholic|r: Primal Egg will be ready in 1 minutes (Jiu on Magtheridon)",
+					["timestamp"] = 51000.239,
+					["serverTime"] = 1611702157,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r You are now Honored with The Ashen Verdict.",
+					["serverTime"] = 1611702158,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51001.04,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Deathbringer Saurfang yells: I... Am... Released...",
+					["serverTime"] = 1611702158,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51001.25,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Muradin Bronzebeard gasps for air.",
+					["serverTime"] = 1611702166,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51009.341,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:02 AM|h|r Muradin Bronzebeard says: That was Saurfang's boy - the Horde commander at the Wrath Gate. Such a tragic end...",
+					["serverTime"] = 1611702175,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						19, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51018.262,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:03 AM|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq17|k:22:882:BN_INLINE_TOAST_ALERT:0|h[|Kq17|k]|h has gone offline.",
+					["serverTime"] = 1611702182,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51025.077,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:03 AM|h|r Muradin Bronzebeard says: What in the... There, in the distance!\r\n",
+					["serverTime"] = 1611702183,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						19, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51026.374,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:03 AM|h|r Muradin Bronzebeard yells: Soldiers, fall in! Looks like the Horde are comin' to take another shot!\r\n",
+					["serverTime"] = 1611702198,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51040.996,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:03 AM|h|r Captain Grondel yells: The chill of this place freezes the marrow of my bones. ",
+					["serverTime"] = 1611702206,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51048.538,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:03 AM|h|r Captain Rupert yells: I can feel the Lich King reaching out...watching us. ",
+					["serverTime"] = 1611702212,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51054.769,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:03 AM|h|r |cff33ff99Altoholic|r: Primal Egg is now ready (Jiu on Magtheridon)",
+					["timestamp"] = 51060.24,
+					["serverTime"] = 1611702217,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:03 AM|h|r Crok Scourgebane yells: Our champions have lost much blood in the struggle to activate this Scourge transporter. We must be prepared to return the favor. Follow me, men!",
+					["serverTime"] = 1611702218,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51060.83,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Precious cries out with a loud, baying howl!",
+					["serverTime"] = 1611702279,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						15, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51121.65,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Rotface yells: What? Precious? Noooooooooo!!!",
+					["serverTime"] = 1611702279,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51122.1,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r |cffffaeaeDetails!:|r encounter started: 1104 Rotface  ",
+					["timestamp"] = 51127.721,
+					["serverTime"] = 1611702285,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Rotface yells: WEEEEEE!",
+					["serverTime"] = 1611702285,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51127.931,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 51128.221,
+					["serverTime"] = 1611702285,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r Rotface yells: Bad news, daddy...",
+					["serverTime"] = 1611702296,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51138.553,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:04 AM|h|r |cffff80ff|Htransmogappearance:24493|h[Rib Spreader]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1611702297,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51140.327,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r Festergut yells: No! You killed Stinky! You Pay!",
+					["serverTime"] = 1611702330,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51172.989,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r |cffffaeaeDetails!:|r encounter started: 1097 Festergut  ",
+					["timestamp"] = 51192.232,
+					["serverTime"] = 1611702349,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r Festergut yells: Fun time?",
+					["serverTime"] = 1611702349,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51192.442,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 51192.732,
+					["serverTime"] = 1611702350,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:05 AM|h|r Professor Putricide yells: Just an ordinary gas cloud, but watch out because that's no ordinary gas cloud!",
+					["serverTime"] = 1611702355,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51197.463,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:06 AM|h|r Festergut yells: Da ... Ddy...",
+					["serverTime"] = 1611702365,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51207.935,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:06 AM|h|r |cffff80ff|Htransmogappearance:24511|h[Distant Land]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1611702366,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51208.836,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:07 AM|h|r |cffffaeaeDetails!:|r encounter started: 1102 Professor Putricide  ",
+					["timestamp"] = 51320.864,
+					["serverTime"] = 1611702478,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:07 AM|h|r Professor Putricide yells: Good news, everyone! I think I've perfected a plague that will destroy all life on Azeroth!",
+					["serverTime"] = 1611702478,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51321.074,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:07 AM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 51321.364,
+					["serverTime"] = 1611702478,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r Professor Putricide yells: Hrm, I don't feel a thing. Wha?! Where'd those come from?",
+					["serverTime"] = 1611702495,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51337.767,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r Professor Putricide yells: Bad news, everyone... I don't think I'm going to make it...",
+					["serverTime"] = 1611702502,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51345.118,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [128]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:08 AM|h|r |cffff80ff|Htransmogappearance:24532|h[Rigormortis]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1611702504,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51346.868,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [129]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r |cfffe7b09Goyangi|r has gone offline.",
+					["serverTime"] = 1611702600,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51442.599,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [130]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Crok Scourgebane yells: Ready your arms, my Argent Brothers. The Vrykul will protect the Frost Queen with their lives.",
+					["serverTime"] = 1611702613,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51455.957,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [131]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r |cffd8d8d8[|r|Hplayer:Tzuyu:954|h|cff3ec6eaTzuyu|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1611702616,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51458.857,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [132]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Captain Arnath yells: Even dying here beats spending another day collecting reagents for that madman, Finklestein. ",
+					["serverTime"] = 1611702619,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51462.30800000001,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [133]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Crok Scourgebane yells: Enough idle banter! Our champions have arrived - support them as we push our way through the hall!",
+					["serverTime"] = 1611702627,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51469.584,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [134]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Sister Svalna yells: You may have once fought beside me, Crok, but now you are nothing more than a traitor. Come, your second death approaches!",
+					["serverTime"] = 1611702637,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51480.111,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [135]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Crok Scourgebane yells: Quickly, push on!",
+					["serverTime"] = 1611702640,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51483.101,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [136]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Sister Svalna yells: Miserable creatures! Die! ",
+					["serverTime"] = 1611702648,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51490.463,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [137]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Captain Brandon yells: No amount of healing can save me now. Fight on, brothers...",
+					["serverTime"] = 1611702655,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51497.944,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [138]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:10 AM|h|r Captain Rupert yells: Hurry,  before that Val'kyr picks us off!",
+					["serverTime"] = 1611702658,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51501.144,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [139]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:11 AM|h|r Crok Scourgebane yells: Her reinforcements will arrive shortly, we must bring her down quickly!",
+					["serverTime"] = 1611702670,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51512.556,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [140]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:11 AM|h|r Sister Svalna yells: Foolish Crok. You brought my reinforcements with you. Arise, Argent Champions, and serve the Lich King in death!",
+					["serverTime"] = 1611702677,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51519.478,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [141]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:11 AM|h|r Captain Brandon yells: What? This strength...? All of the pain is gone! You... must join me in the eternal embrace of death!\r\n",
+					["serverTime"] = 1611702685,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51527.979,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [142]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:11 AM|h|r Sister Svalna yells: Come, Scourgebane. I'll show the master which of us is truly worthy of the title of \"Champion\"!",
+					["serverTime"] = 1611702686,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51528.509,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [143]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:11 AM|h|r Sister Svalna yells: Perhaps... you were right, Crok. ",
+					["serverTime"] = 1611702686,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51529.269,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [144]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:11 AM|h|r Crok Scourgebane yells: I'll draw her attacks. Return our brothers to their graves, then help me bring her down!",
+					["serverTime"] = 1611702700,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51542.604,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [145]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:12 AM|h|r Sindragosa's Ward yells: You must not approach the Frost Queen. Quickly, stop them!",
+					["serverTime"] = 1611702757,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51600.442,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [146]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:13 AM|h|r Captain Brandon yells: I'm sorry...",
+					["serverTime"] = 1611702825,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51667.931,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [147]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:13 AM|h|r Crok Scourgebane yells: I'll remain and inform Tirion of our progress. You must press on and bring down Sindragosa. Lok'tar, champions! ",
+					["serverTime"] = 1611702832,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51675.30800000001,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [148]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Captain Arnath yells: The loss of our comrades was unpreventable. They lived and died in the service of the Argent Crusade.",
+					["serverTime"] = 1611702841,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51683.851,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [149]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:14 AM|h|r Captain Rupert yells: Beware the dangers that lie ahead... and do try to remain in one piece. ",
+					["serverTime"] = 1611702862,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51704.473,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [150]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r Sindragosa yells: You are fools to have come to this place. The icy winds of Northrend will consume your souls!",
+					["serverTime"] = 1611702922,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51765.357,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [151]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r |cffffaeaeDetails!:|r encounter started: 1105 Sindragosa  ",
+					["timestamp"] = 51781.814,
+					["serverTime"] = 1611702939,
+				}, -- [152]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 51782.821,
+					["serverTime"] = 1611702940,
+				}, -- [153]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r Sindragosa yells: Now, feel my master's limitless power and despair!",
+					["serverTime"] = 1611702944,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51786.861,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [154]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r Sindragosa yells: Free... at last....",
+					["serverTime"] = 1611702948,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51790.801,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [155]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:15 AM|h|r |cffff80ff|Htransmogappearance:24714|h[Sundial of Eternal Dusk]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1611702950,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51792.363,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [156]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r Blood-Queen Lana'thel yells: Foolish mortals. You thought us defeated so easily? The San'layn are the Lich King's immortal soldiers! Now you shall face their might combined!",
+					["serverTime"] = 1611703053,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51895.646,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [157]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r Blood-Queen Lana'thel yells: Rise up, brothers, and destroy our enemies!",
+					["serverTime"] = 1611703067,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51910.34400000001,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [158]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r Prince Valanar yells: Naxxanar was merely a setback! With the power of the orb, Valanar will have his vengeance!",
+					["serverTime"] = 1611703076,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51919.311,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [159]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r |cffffaeaeDetails!:|r encounter started: 1095 Blood Council  ",
+					["timestamp"] = 51920.386,
+					["serverTime"] = 1611703077,
+				}, -- [160]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 51920.887,
+					["serverTime"] = 1611703078,
+				}, -- [161]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:17 AM|h|r Prince Keleseth yells: Blood will flow.",
+					["serverTime"] = 1611703079,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51921.71,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [162]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Prince Keleseth yells: My queen, they... come.",
+					["serverTime"] = 1611703089,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51931.973,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [163]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1032:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: I love Yerin Baek so much ;-;",
+					["serverTime"] = 1611703105,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51948.039,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [164]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r |cff3ec6eaTzuyu|r has gone offline.",
+					["serverTime"] = 1611703105,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51948.442,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [165]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1034:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: f",
+					["serverTime"] = 1611703109,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51951.654,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [166]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r |cffd8d8d8[|r|Hplayer:Yeonji:1055|h|cfffefefeYeonji|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1611703130,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51972.86,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [167]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r |cffffaeaeDetails!:|r encounter started: 1103 Queen Lana'thel  ",
+					["timestamp"] = 51980.962,
+					["serverTime"] = 1611703138,
+				}, -- [168]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r Blood-Queen Lana'thel yells: You have made an... unwise... decision.",
+					["serverTime"] = 1611703138,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51981.172,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [169]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:18 AM|h|r |cffffaeaeDetails!:|r |cFFFFFF00First Hit|r: |cff71d5ff|Hspell:108853:0|h[Fire Blast]|h|r from Sonyeo |cFFFFBB00Boss First Target|r: Sonyeo    ",
+					["timestamp"] = 51981.462,
+					["serverTime"] = 1611703139,
+				}, -- [170]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r Blood-Queen Lana'thel yells: Know my hunger!",
+					["serverTime"] = 1611703154,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51996.763,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [171]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r Blood-Queen Lana'thel yells: But... we were getting along... so... well...",
+					["serverTime"] = 1611703156,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 51998.676,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [172]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:19 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Yeonji-Magtheridon:1064:GUILD|h|cfffefefeYeonji|r|h|cffd8d8d8]|r: haven't listened to much of her stuff actually",
+					["serverTime"] = 1611703167,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52009.739,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [173]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:20 AM|h|r The Lich King yells: So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
+					["serverTime"] = 1611703202,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52044.985,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [174]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:20 AM|h|r Highlord Tirion Fordring yells: We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
+					["serverTime"] = 1611703215,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52057.563,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [175]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:20 AM|h|r The Lich King yells: You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
+					["serverTime"] = 1611703224,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52066.472,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [176]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:20 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Yeonji-Magtheridon:1069:GUILD|h|cfffefefeYeonji|r|h|cffd8d8d8]|r: if we're on about female solo artists it's all about Heize",
+					["serverTime"] = 1611703247,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52090.147,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [177]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:20 AM|h|r Highlord Tirion Fordring yells: So be it. Champions, attack!",
+					["serverTime"] = 1611703249,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52092.014,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [178]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:20 AM|h|r |cffffaeaeDetails!:|r encounter started: 1106 The Lich King  ",
+					["timestamp"] = 52096.647,
+					["serverTime"] = 1611703254,
+				}, -- [179]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:20 AM|h|r The Lich King yells: I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
+					["serverTime"] = 1611703254,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52096.881,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [180]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:20 AM|h|r |cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?*    ",
+					["timestamp"] = 52097.147,
+					["serverTime"] = 1611703254,
+				}, -- [181]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:21 AM|h|r The Lich King yells: I will freeze you from within until all that remains is an icy husk.",
+					["serverTime"] = 1611703268,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52110.655,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [182]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:21 AM|h|r The Lich King yells: No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
+					["serverTime"] = 1611703276,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52119.191,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [183]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:21 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1074:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: snore rp time",
+					["serverTime"] = 1611703286,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52128.865,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [184]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:21 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Libitinafawn-Magtheridon:1075:GUILD|h|cfffe7b09Libitinafawn|r|h|cffd8d8d8]|r: rip",
+					["serverTime"] = 1611703297,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52139.861,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [185]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:21 AM|h|r The Lich King yells: Is it truly righteousness that drives you? I wonder...",
+					["serverTime"] = 1611703308,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52150.77,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [186]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:21 AM|h|r The Lich King yells: You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
+					["serverTime"] = 1611703318,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52160.503,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [187]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:22 AM|h|r The Lich King yells: Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
+					["serverTime"] = 1611703344,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52186.85,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [188]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:22 AM|h|r The Lich King yells: I delight in the irony.",
+					["serverTime"] = 1611703373,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52215.957,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [189]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r Highlord Tirion Fordring yells: LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
+					["serverTime"] = 1611703380,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52223.354,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [190]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r The Lich King yells: Impossible...",
+					["serverTime"] = 1611703401,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52244.018,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [191]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1082:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: i need to stick myself outside for a minute",
+					["serverTime"] = 1611703407,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52249.48,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [192]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r Highlord Tirion Fordring yells: No more, Arthas! No more lives will be consumed by your hatred!",
+					["serverTime"] = 1611703408,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52251.288,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [193]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1085:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: it be floofing",
+					["serverTime"] = 1611703412,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52255.424,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [194]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r |T134201:15:15:0:0:64:64:4:60:4:60|tDrudge Remains: Found after 2 attempts!",
+					["r"] = 1,
+					["serverTime"] = 1611703413,
+					["timestamp"] = 52256.104,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [195]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r Screen Captured |cffffd200|Hsharess:2|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["r"] = 1,
+					["serverTime"] = 1611703416,
+					["timestamp"] = 52258.496,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [196]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Yeonji-Magtheridon:1091:GUILD|h|cfffefefeYeonji|r|h|cffd8d8d8]|r: :o",
+					["serverTime"] = 1611703420,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52262.557,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [197]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Libitinafawn-Magtheridon:1093:GUILD|h|cfffe7b09Libitinafawn|r|h|cffd8d8d8]|r: :o",
+					["serverTime"] = 1611703425,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52267.571,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [198]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1094:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: no mount but got a pet |cff0070dd|Hitem:142098::::::::51:63::::1:28:1023:::|h[Drudge Remains]|h|r",
+					["serverTime"] = 1611703430,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52273.36,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [199]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:23 AM|h|r |cff0070dd|Hbattlepet:1967:1:3:154:11:11:BattlePet-0-00000D5E0F83:73707|h[Drudge Ghoul]|h|r has been added to your pet journal!",
+					["serverTime"] = 1611703432,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52274.975,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [200]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:24 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Libitinafawn-Magtheridon:1098:GUILD|h|cfffe7b09Libitinafawn|r|h|cffd8d8d8]|r: thats a dead man",
+					["serverTime"] = 1611703442,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52285.289,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [201]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:24 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Yeonji-Magtheridon:1099:GUILD|h|cfffefefeYeonji|r|h|cffd8d8d8]|r: if you got drudge remains, that means you never had a chance at the mount in the first place",
+					["serverTime"] = 1611703470,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52313.021,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [202]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:24 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1103:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: FUCK",
+					["serverTime"] = 1611703497,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52339.923,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [203]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1104:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: you're right",
+					["serverTime"] = 1611703502,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52344.673,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [204]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Yeonji-Magtheridon:1105:GUILD|h|cfffefefeYeonji|r|h|cffd8d8d8]|r: that only drops on normal mode",
+					["serverTime"] = 1611703504,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52346.78,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [205]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1106:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: oh well",
+					["serverTime"] = 1611703506,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52348.985,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [206]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Yeonji-Magtheridon:1107:GUILD|h|cfffefefeYeonji|r|h|cffd8d8d8]|r: wow is that 3 weeks in a row now",
+					["serverTime"] = 1611703511,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52353.668,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [207]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r Legacy Raid Difficulty set to 25 Player (Heroic).",
+					["serverTime"] = 1611703512,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52354.909,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [208]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1109:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: It showed HC as being selected again",
+					["serverTime"] = 1611703524,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52367.158,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [209]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1110:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: I keep fucking that up",
+					["serverTime"] = 1611703529,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52372.272,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [210]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Yeonji-Magtheridon:1111:GUILD|h|cfffefefeYeonji|r|h|cffd8d8d8]|r: i select them every time before i go in",
+					["serverTime"] = 1611703532,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52374.628,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [211]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Yeonji-Magtheridon:1112:GUILD|h|cfffefefeYeonji|r|h|cffd8d8d8]|r: its a habit now",
+					["serverTime"] = 1611703534,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						23, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52376.584,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [212]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonyeo-Magtheridon:1113:GUILD|h|cff3ec6eaSonyeo|r|h|cffd8d8d8]|r: will hopefully remember next week :P",
+					["serverTime"] = 1611703539,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52381.909,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [213]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |cfffefefeYeonji|r has gone offline.",
+					["serverTime"] = 1611703541,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52383.604,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [214]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:25 AM|h|r |cffd8d8d8[|r|Hplayer:Tyr:1115|h|cfffef367Tyr|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1611703558,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52400.567,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [215]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:26 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Tyr-Magtheridon:1116:GUILD|h|cfffef367Tyr|r|h|cffd8d8d8]|r: on the plus side it goes towards an achi",
+					["serverTime"] = 1611703575,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52417.603,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [216]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:26 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Tyr-Magtheridon:1117:GUILD|h|cfffef367Tyr|r|h|cffd8d8d8]|r: |cffffff00|Hachievement:11320:Player-3681-0A73F429:0:0:0:-1:49133:0:0:0|h[Raiding with Leashes IV: Wrath of the Lick King]|h|r |cff2080a0|Hgratsl:Tyr:GUILD::11320|h[say grats]|h|r",
+					["serverTime"] = 1611703585,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52428.346,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [217]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:27 AM|h|r |Hplayer:Tyr:1118:TEXT_EMOTE:|h|cfffef367Tyr|r|h waves at you.",
+					["serverTime"] = 1611703626,
+					["r"] = 1,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52468.565,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [218]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:27 AM|h|r |Hplayer:Tyr:1119:TEXT_EMOTE:|h|cfffef367Tyr|r|h waves goodbye to you.  Farewell!",
+					["serverTime"] = 1611703637,
+					["r"] = 1,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						27, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52480.124,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [219]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:27 AM|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Bemzil-Magtheridon:1120:CHANNEL:2|h|cffc31d39Bemzil|r|h|cffd8d8d8]|r: WTS |cffffffff|Hitem:172317::::::::60:252::66:3:6758:7194:1532::::|h[Umbrahide Helm]|h|r 100k",
+					["serverTime"] = 1611703666,
+					["r"] = 0.9098039865493774,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						29, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52508.557,
+					["g"] = 0.6196078658103943,
+					["b"] = 0.4745098352432251,
+				}, -- [220]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:27 AM|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Tyr-Magtheridon:1121:GUILD|h|cfffef367Tyr|r|h|cffd8d8d8]|r: its quite the rare drop actually",
+					["serverTime"] = 1611703667,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						9, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52510.29,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [221]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r |cfffef367Tyr|r has gone offline.",
+					["serverTime"] = 1611703800,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52642.785,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [222]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r |cffd8d8d8[|r|Hplayer:Sojin:1125|h|cffa22fc8Sojin|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1611703814,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52657.132,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [223]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r |cffff80ff|Htransmogappearance:24486|h[Corp'rethar Ceremonial Crown]|h|r has been added to your appearance collection.",
+					["serverTime"] = 1611703830,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52672.603,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [224]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r Attendant Scribe says: This view always reminds me of the magnificence of the Purpose.",
+					["serverTime"] = 1611703849,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						19, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52692.305,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [225]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r Attendant Scribe says: Words of truth, my friend. The Purpose has a hand in all creation.",
+					["serverTime"] = 1611703853,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						19, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52696.187,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [226]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:30 AM|h|r Attendant Scribe says: Such beauty could not just be mere chance. Surely this bears the handiwork of the First Ones.",
+					["serverTime"] = 1611703858,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						19, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52700.49,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [227]
+				{
+					["message"] = "|cff979797|Hpratcopy|h12:31 AM|h|r Attendant Scribe says: Indeed. The Purpose guides creation with the eye of a master artisan. Mere function is an insufficient display of its craft.",
+					["serverTime"] = 1611703863,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						19, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 52706.135,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [228]
+			},
+			["maxElements"] = 384,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

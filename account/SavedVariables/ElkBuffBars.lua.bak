@@ -1,0 +1,335 @@
+
+ElkBuffBarsDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Ostumu - Magtheridon"] = "Default",
+		["Sonyeo - Magtheridon"] = "Default",
+		["Saltycorn - Terokkar"] = "Default",
+		["Samoshib - Terokkar"] = "Default",
+		["Nayeon - Terokkar"] = "Default",
+		["Moltenbeard - Magtheridon"] = "Default",
+		["Jiu - Magtheridon"] = "Default",
+		["Gowon - Magtheridon"] = "Default",
+		["Derpehknight - Terokkar"] = "Default",
+		["Shibbun - Magtheridon"] = "Default",
+		["Moltenheim - Magtheridon"] = "Default",
+	},
+	["global"] = {
+		["build"] = "37176",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["bargroups"] = {
+				{
+					["sorting"] = "timeleft",
+					["anchortext"] = "BUFFS",
+					["id"] = 1,
+					["barspacing"] = 0,
+					["alpha"] = 1,
+					["y"] = 1200,
+					["configmode"] = false,
+					["x"] = 1565.83325195313,
+					["growup"] = false,
+					["filter"] = {
+						["type"] = {
+							["BUFF"] = true,
+						},
+					},
+					["target"] = "player",
+					["bars"] = {
+						["textBR"] = false,
+						["textTRfont"] = "Friz Quadrata TT",
+						["tooltipanchor"] = "default",
+						["textBRfontsize"] = 14,
+						["icon"] = "LEFT",
+						["abbreviate_name"] = 0,
+						["textBRstyle"] = "",
+						["bgbar"] = true,
+						["iconcount"] = true,
+						["textTLalign"] = "LEFT",
+						["textTRstyle"] = "",
+						["textBLcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["textTR"] = "TIMELEFT",
+						["bar"] = true,
+						["textBL"] = false,
+						["textBRfont"] = "Friz Quadrata TT",
+						["timeFraction"] = true,
+						["barbgcolor"] = {
+							0, -- [1]
+							0.5, -- [2]
+							1, -- [3]
+							0.3, -- [4]
+						},
+						["textTLcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["height"] = 20,
+						["textTLfont"] = "Friz Quadrata TT",
+						["tooltipcaster"] = true,
+						["textTRfontsize"] = 14,
+						["iconcountfont"] = "Arial Narrow",
+						["timeformat"] = "CONDENSED",
+						["width"] = 250,
+						["iconcountanchor"] = "CENTER",
+						["textTRcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["timelessfull"] = false,
+						["barright"] = false,
+						["iconcountfontsize"] = 14,
+						["spark"] = false,
+						["bartexture"] = "Otravi",
+						["textBLfont"] = "Friz Quadrata TT",
+						["iconcountcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["textBLstyle"] = "",
+						["textTLstyle"] = "",
+						["debufftypecolor"] = true,
+						["textBLfontsize"] = 14,
+						["textTLfontsize"] = 14,
+						["textBRcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["barcolor"] = {
+							0.3, -- [1]
+							0.5, -- [2]
+							1, -- [3]
+							0.8, -- [4]
+						},
+						["padding"] = 1,
+						["textBLalign"] = "LEFT",
+						["textTL"] = "NAMERANKCOUNT",
+					},
+					["scale"] = 1,
+					["anchorshown"] = false,
+				}, -- [1]
+				{
+					["sorting"] = "timeleft",
+					["scale"] = 1,
+					["growup"] = false,
+					["y"] = 1200,
+					["id"] = 2,
+					["barspacing"] = 0,
+					["alpha"] = 1,
+					["stickto"] = 1,
+					["anchortext"] = "DEBUFFS",
+					["x"] = 1315.833984375,
+					["configmode"] = false,
+					["filter"] = {
+						["type"] = {
+							["DEBUFF"] = true,
+						},
+					},
+					["target"] = "player",
+					["bars"] = {
+						["textBR"] = false,
+						["textTRfont"] = "Friz Quadrata TT",
+						["tooltipanchor"] = "default",
+						["textBRfontsize"] = 14,
+						["icon"] = "LEFT",
+						["abbreviate_name"] = 0,
+						["textBRstyle"] = "",
+						["bgbar"] = true,
+						["iconcount"] = true,
+						["textTLalign"] = "LEFT",
+						["textTRstyle"] = "",
+						["textBLcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["textTR"] = "TIMELEFT",
+						["bar"] = true,
+						["textBL"] = false,
+						["textBRfont"] = "Friz Quadrata TT",
+						["timeFraction"] = true,
+						["barbgcolor"] = {
+							1, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.3, -- [4]
+						},
+						["textTLcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["height"] = 20,
+						["textTLfont"] = "Friz Quadrata TT",
+						["tooltipcaster"] = true,
+						["textTRfontsize"] = 14,
+						["iconcountfont"] = "Arial Narrow",
+						["timeformat"] = "CONDENSED",
+						["width"] = 250,
+						["iconcountanchor"] = "CENTER",
+						["textTRcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["timelessfull"] = false,
+						["barright"] = false,
+						["iconcountfontsize"] = 14,
+						["spark"] = false,
+						["bartexture"] = "Otravi",
+						["textBLfont"] = "Friz Quadrata TT",
+						["iconcountcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["textBLstyle"] = "",
+						["textTLstyle"] = "",
+						["debufftypecolor"] = true,
+						["textBLfontsize"] = 14,
+						["textTLfontsize"] = 14,
+						["textBRcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["barcolor"] = {
+							1, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.8, -- [4]
+						},
+						["padding"] = 1,
+						["textBLalign"] = "LEFT",
+						["textTL"] = "NAMERANKCOUNT",
+					},
+					["stickside"] = "RIGHT",
+					["anchorshown"] = false,
+				}, -- [2]
+				{
+					["sorting"] = "timeleft",
+					["id"] = 3,
+					["scale"] = 1,
+					["barspacing"] = 0,
+					["alpha"] = 1,
+					["stickto"] = 2,
+					["anchortext"] = "TENCH",
+					["growup"] = false,
+					["configmode"] = false,
+					["filter"] = {
+						["type"] = {
+							["TENCH"] = true,
+						},
+					},
+					["target"] = "player",
+					["bars"] = {
+						["textBR"] = false,
+						["textTRfont"] = "Friz Quadrata TT",
+						["tooltipanchor"] = "default",
+						["textBRfontsize"] = 14,
+						["icon"] = "LEFT",
+						["abbreviate_name"] = 0,
+						["textBRstyle"] = "",
+						["bgbar"] = true,
+						["iconcount"] = true,
+						["textTLalign"] = "LEFT",
+						["textTRstyle"] = "",
+						["textBLcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["textTR"] = "TIMELEFT",
+						["bar"] = true,
+						["textBL"] = false,
+						["textBRfont"] = "Friz Quadrata TT",
+						["timeFraction"] = true,
+						["barbgcolor"] = {
+							0.5, -- [1]
+							0, -- [2]
+							0.5, -- [3]
+							0.3, -- [4]
+						},
+						["textTLcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["height"] = 20,
+						["textTLfont"] = "Friz Quadrata TT",
+						["tooltipcaster"] = true,
+						["textTRfontsize"] = 14,
+						["iconcountfont"] = "Arial Narrow",
+						["timeformat"] = "CONDENSED",
+						["width"] = 250,
+						["iconcountanchor"] = "CENTER",
+						["textTRcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["timelessfull"] = false,
+						["barright"] = false,
+						["iconcountfontsize"] = 14,
+						["spark"] = false,
+						["bartexture"] = "Otravi",
+						["textBLfont"] = "Friz Quadrata TT",
+						["iconcountcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["textBLstyle"] = "",
+						["textTLstyle"] = "",
+						["debufftypecolor"] = true,
+						["textBLfontsize"] = 14,
+						["textTLfontsize"] = 14,
+						["textBRcolor"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["barcolor"] = {
+							0.5, -- [1]
+							0, -- [2]
+							0.5, -- [3]
+							0.8, -- [4]
+						},
+						["padding"] = 1,
+						["textBLalign"] = "LEFT",
+						["textTL"] = "NAMERANKCOUNT",
+					},
+					["stickside"] = "",
+					["anchorshown"] = false,
+				}, -- [3]
+			},
+			["minimap"] = {
+				["minimapPos"] = 341.833932668911,
+				["hide"] = true,
+			},
+		},
+	},
+}

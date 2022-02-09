@@ -1,0 +1,101 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Ostumu - Magtheridon"] = "Ostumu - Magtheridon",
+		["Haseul - Terokkar"] = "Haseul - Terokkar",
+		["Holyed - Magtheridon"] = "Holyed - Magtheridon",
+		["Sonyeo - Magtheridon"] = "Sonyeo - Magtheridon",
+		["Saltycorn - Terokkar"] = "Saltycorn - Terokkar",
+		["Samoshib - Terokkar"] = "Samoshib - Terokkar",
+		["Gyuri - Magtheridon"] = "Gyuri - Magtheridon",
+		["Gahyeon - Magtheridon"] = "Gahyeon - Magtheridon",
+		["Jiu - Magtheridon"] = "Jiu - Magtheridon",
+		["Nayeon - Terokkar"] = "Nayeon - Terokkar",
+		["Moltenbeard - Magtheridon"] = "Moltenbeard - Magtheridon",
+		["Gowon - Magtheridon"] = "Gowon - Magtheridon",
+		["Shibbun - Magtheridon"] = "Shibbun - Magtheridon",
+		["Derpehknight - Terokkar"] = "Derpehknight - Terokkar",
+		["Raccoons - Magtheridon"] = "Raccoons - Magtheridon",
+		["Moltenheim - Magtheridon"] = "Moltenheim - Magtheridon",
+	},
+	["global"] = {
+		["Guilds"] = {
+			["Default.Saurfang.NakedGang"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Magtheridon.Crimson"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Magtheridon.Pie Soldiers"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Magtheridon.Ministry of Magic"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Terokkar.Pack"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Terokkar.Samoshib"] = {
+				["faction"] = "Horde",
+				["guildName"] = "NakedGang",
+			},
+			["Default.Magtheridon.Jiu"] = {
+				["guildName"] = "Crimson",
+				["faction"] = "Alliance",
+			},
+			["Default.Terokkar.Saltycorn"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Pack",
+			},
+			["Default.Terokkar.Derpehknight"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Terokkar.Nayeon"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Magtheridon.Gyuri"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Ministry of Magic",
+			},
+			["Default.Magtheridon.Holyed"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Magtheridon.Gowon"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Ministry of Magic",
+			},
+			["Default.Terokkar.Haseul"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Magtheridon.Gahyeon"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Magtheridon.Raccoons"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Magtheridon.Shibbun"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Ministry of Magic",
+			},
+			["Default.Magtheridon.Moltenheim"] = {
+				["guildName"] = "Crimson",
+				["faction"] = "Alliance",
+			},
+			["Default.Magtheridon.Ostumu"] = {
+				["guildName"] = "Crimson",
+				["faction"] = "Alliance",
+			},
+			["Default.Magtheridon.Sonyeo"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Ministry of Magic",
+			},
+		},
+		["ShortToLongRealmNames"] = {
+			["Magtheridon"] = "Magtheridon",
+			["Terokkar"] = "Terokkar",
+		},
+	},
+}
